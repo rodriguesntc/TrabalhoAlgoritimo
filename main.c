@@ -23,8 +23,18 @@ typedef struct {
     char machucado[4];
 } CartaAtleta;
 
+typedef struct jogador {
+    CartaAtleta* carta;
+    struct jogador* proximo;
+} Jogador;
+
+
 void gerar_cartas(CartaAtleta cartas[]);
 void salvar_cartas(CartaAtleta cartas[]);
+void ler_jogadores(Jogador** lista);
+void ordenar_jogadores(Jogador** lista);
+
+
 // trab 1 ^^
 
 int main() {
@@ -32,8 +42,19 @@ int main() {
     gerar_cartas(cartas);
     salvar_cartas(cartas);
     printf("Cartas geradas e salvas com sucesso!\n");
+
+    Jogador* lista_jogadores = NULL;
+    ler_jogadores(&lista_jogadores);
+    printf("Lista encadeada populada com sucesso!\n");
+
+    ordenar_jogadores(&lista_jogadores);
+    printf("Lista encadeada ordenada com sucesso!\n");
+
+  void gerar_jogadores(Jogador** lista);
+
     return 0;
 }
+
 
 void gerar_cartas(CartaAtleta cartas[]) {
     srand(time(NULL));
@@ -92,6 +113,98 @@ void salvar_cartas(CartaAtleta cartas[]) {
     }
     fclose(arquivo);
 }
+
+//////////////////////////
+
+Jogador* criar_jogador(CartaAtleta* carta) {
+    Jogador* novo_jogador = (Jogador*)malloc(sizeof(Jogador));
+    novo_jogador->carta = carta;
+    novo_jogador->proximo = NULL;
+    return novo_jogador;
+}
+
+void adicionar_jogador(Jogador** lista, CartaAtleta* carta) {
+    Jogador* novo_jogador = criar_jogador(carta);
+    novo_jogador->proximo = *lista;
+    *lista = novo_jogador;
+}
+
+void ler_jogadores(Jogador** lista) {
+    FILE* arquivo = fopen("cartas.csv", "r");
+    if (arquivo == NULL) {
+        printf("Erro ao abrir arquivo!\n");
+        return;
+      
+    }
+
+    // Ignorar primeira linha do arquivo
+    char linha[1024];
+    fgets(linha, 1024, arquivo);
+
+    while (fgets(linha, 1024, arquivo)) {
+        CartaAtleta* carta = (CartaAtleta*)malloc(sizeof(CartaAtleta));
+        sscanf(linha, "%d,%19[^,],%19[^,],%19[^,],%d,%d,%d,%d,%d,%d,%3[^,],%3[^,]",
+            &carta->id, carta->primeiro_nome, carta->sobrenome, carta->time,
+            &carta->idade, &carta->valor_mercado, &carta->forca, &carta->velocidade,
+            &carta->resistencia, &carta->forca_vontade, carta->posicao, carta->machucado);
+        adicionar_jogador(lista, carta);
+    }
+
+    fclose(arquivo);
+}
+
+void ordenar_jogadores(Jogador** lista) {
+    Jogador* atual = *lista;
+    Jogador* proximo;
+    bool trocou = true;
+    while (trocou) {
+        trocou = false;
+        atual = *lista;
+        while (atual->proximo != NULL) {
+            proximo = atual->proximo;
+            if (strcmp(atual->carta->sobrenome, proximo->carta->sobrenome) > 0 || (strcmp(atual->carta->sobrenome, proximo->carta->sobrenome) == 0 && strcmp(atual->carta->primeiro_nome, proximo->carta->primeiro_nome) > 0)) {
+                // Trocar a posição dos jogadores na lista
+                CartaAtleta* tmp = atual->carta;
+                atual->carta = proximo->carta;
+                proximo->carta = tmp;
+                trocou = true;
+            }
+            atual = atual->proximo;
+        }
+    }
+  
+}
+void gerar_jogadores(Jogador** lista) {
+    srand(time(NULL));
+    for (int i = 0; i < 100; i++) {
+        // Gerar uma nova carta de atleta
+        CartaAtleta* carta = (CartaAtleta*) malloc(sizeof(CartaAtleta));
+        carta->id = (*lista == NULL) ? 1 : (*lista)->carta->id + 1;
+
+        // Gerar atributos aleatórios
+        // ...
+
+        // Criar um novo jogador com a carta de atleta gerada
+        Jogador* novo_jogador = (Jogador*) malloc(sizeof(Jogador));
+        novo_jogador->carta = carta;
+        novo_jogador->proximo = NULL;
+
+        // Inserir o jogador na lista encadeada mantendo a ordenação por id
+        if (*lista == NULL || novo_jogador->carta->id < (*lista)->carta->id) {
+            novo_jogador->proximo = *lista;
+            *lista = novo_jogador;
+        } else {
+            Jogador* atual = *lista;
+            while (atual->proximo != NULL && atual->proximo->carta->id < novo_jogador->carta->id) {
+                atual = atual->proximo;
+            }
+            novo_jogador->proximo = atual->proximo;
+            atual->proximo = novo_jogador;
+        }
+    }
+}
+
+
 
 
 
