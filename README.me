@@ -1,2 +1,18 @@
 Trabalho Algoritimo
 Alunos: João Pedro Rodrigues , Lucas Marques
+
+O programa acima é um jogo de cartas chamado "Chapéu", onde cada carta representa um jogador de futebol. As cartas são geradas aleatoriamente com nomes, times e atributos de desempenho. O jogo consiste em um sorteio onde cada jogador pega uma carta aleatória e forma sua equipe com base nas informações das cartas.
+
+O programa começa com a definição de uma estrutura de dados chamada CartaAtleta, que contém todas as informações necessárias para cada jogador de futebol, incluindo nome, time, idade, valor de mercado e atributos de desempenho.
+
+Em seguida, há a definição de outra estrutura de dados chamada Jogador, que é uma lista encadeada de jogadores. Cada jogador tem um ponteiro para uma carta de atleta e um ponteiro para o próximo jogador na lista.
+
+O programa então chama a função gerar_cartas(), que usa a função rand() para gerar aleatoriamente as informações de cada carta de atleta e armazená-las em um array de CartaAtleta.
+
+Em seguida, a função salvar_cartas() é chamada para salvar as informações das cartas geradas em um arquivo CSV chamado "cartas.csv". As informações de cada carta são separadas por vírgulas e cada carta é separada por uma linha vazia.
+
+Depois disso, o programa chama a função ler_jogadores(), que lê as informações de jogadores de um arquivo CSV chamado "jogadores.csv" e cria uma lista encadeada de jogadores, cada um com uma carta de atleta aleatória.
+
+Finalmente, o programa chama a função ordenar_jogadores() para ordenar a lista encadeada de jogadores com base em uma escolha de critério, que não é apresentada no código.
+
+Para compilar o programa, basta salvar o código acima em um arquivo com extensão .c (por exemplo, "chapeu.c") e executar o comando gcc chapeu.c -o chapeu. Em seguida, basta executar o arquivo gerado com o comando ./chapeu. Certifique-se de que as bibliotecas stdio.h, stdlib.h, time.h, string.h e stdbool.h estejam disponíveis no seu ambiente de compilação.
