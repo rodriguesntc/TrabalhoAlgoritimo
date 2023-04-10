@@ -1,0 +1,11004 @@
+Bem vindo ao Chapéu!
+
+id,primeiro_nome,sobrenome,time,idade,valor_mercado,forca,velocidade,resistencia,forca_vontade, posicao
+
+1/Nome:Marcos Gomes
+ Seleção:Chile
+ Idade:27
+ Valor de Mercado:162810112
+ Força:27
+ Velocidade:38
+ Resistência:34
+ Força de vontade:70
+ Posição: Mei
+ Machucado:Sim
+
+2/Nome:João Costa
+ Seleção:Argentina
+ Idade:20
+ Valor de Mercado:132566175
+ Força:91
+ Velocidade:13
+ Resistência:2
+ Força de vontade:19
+ Posição: Ata
+ Machucado:Sim
+
+3/Nome:João Oliveira
+ Seleção:Inglaterra
+ Idade:27
+ Valor de Mercado:16011152
+ Força:34
+ Velocidade:14
+ Resistência:63
+ Força de vontade:40
+ Posição: Ata
+ Machucado:Nao
+
+4/Nome:Marcos Silva
+ Seleção:Brasil
+ Idade:24
+ Valor de Mercado:18436634
+ Força:95
+ Velocidade:68
+ Resistência:69
+ Força de vontade:57
+ Posição: Def
+ Machucado:Nao
+
+5/Nome:Felipe Costa
+ Seleção:Bélgica
+ Idade:37
+ Valor de Mercado:163772296
+ Força:61
+ Velocidade:10
+ Resistência:46
+ Força de vontade:73
+ Posição: Ata
+ Machucado:Nao
+
+6/Nome:André Costa
+ Seleção:Inglaterra
+ Idade:20
+ Valor de Mercado:98942149
+ Força:39
+ Velocidade:75
+ Resistência:14
+ Força de vontade:87
+ Posição: Gol
+ Machucado:Nao
+
+7/Nome:Leonardo Nascimento
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:93427660
+ Força:13
+ Velocidade:98
+ Resistência:10
+ Força de vontade:96
+ Posição: Gol
+ Machucado:Sim
+
+8/Nome:João Pereira
+ Seleção:Inglaterra
+ Idade:24
+ Valor de Mercado:194745699
+ Força:35
+ Velocidade:40
+ Resistência:35
+ Força de vontade:59
+ Posição: Def
+ Machucado:Sim
+
+9/Nome:Leonardo Nascimento
+ Seleção:Chile
+ Idade:35
+ Valor de Mercado:168462748
+ Força:82
+ Velocidade:65
+ Resistência:95
+ Força de vontade:92
+ Posição: Mei
+ Machucado:Sim
+
+10/Nome:Rafael Almeida
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:165874201
+ Força:57
+ Velocidade:95
+ Resistência:53
+ Força de vontade:49
+ Posição: Gol
+ Machucado:Nao
+
+11/Nome:Pedro Almeida
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:162153206
+ Força:75
+ Velocidade:30
+ Resistência:99
+ Força de vontade:46
+ Posição: Ata
+ Machucado:Nao
+
+12/Nome:Felipe Oliveira
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:48751562
+ Força:69
+ Velocidade:90
+ Resistência:74
+ Força de vontade:56
+ Posição: Mei
+ Machucado:Sim
+
+13/Nome:Gustavo Pereira
+ Seleção:Argentina
+ Idade:20
+ Valor de Mercado:112876769
+ Força:35
+ Velocidade:11
+ Resistência:19
+ Força de vontade:77
+ Posição: Ata
+ Machucado:Sim
+
+14/Nome:Marcos Souza
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:143825548
+ Força:44
+ Velocidade:41
+ Resistência:17
+ Força de vontade:69
+ Posição: Mei
+ Machucado:Nao
+
+15/Nome:Lucas Santos
+ Seleção:Itália
+ Idade:27
+ Valor de Mercado:121693092
+ Força:50
+ Velocidade:17
+ Resistência:69
+ Força de vontade:31
+ Posição: Ata
+ Machucado:Nao
+
+16/Nome:Felipe Oliveira
+ Seleção:Argentina
+ Idade:25
+ Valor de Mercado:114484847
+ Força:84
+ Velocidade:76
+ Resistência:43
+ Força de vontade:70
+ Posição: Gol
+ Machucado:Sim
+
+17/Nome:Pedro Almeida
+ Seleção:Bélgica
+ Idade:26
+ Valor de Mercado:22581979
+ Força:78
+ Velocidade:77
+ Resistência:85
+ Força de vontade:41
+ Posição: Ata
+ Machucado:Sim
+
+18/Nome:Rafael Souza
+ Seleção:Bélgica
+ Idade:36
+ Valor de Mercado:59385348
+ Força:100
+ Velocidade:49
+ Resistência:23
+ Força de vontade:43
+ Posição: Ata
+ Machucado:Sim
+
+19/Nome:Gustavo Souza
+ Seleção:Inglaterra
+ Idade:27
+ Valor de Mercado:167121888
+ Força:1
+ Velocidade:11
+ Resistência:33
+ Força de vontade:62
+ Posição: Def
+ Machucado:Nao
+
+20/Nome:Pedro Ferreira
+ Seleção:Brasil
+ Idade:18
+ Valor de Mercado:23264365
+ Força:35
+ Velocidade:93
+ Resistência:88
+ Força de vontade:22
+ Posição: Gol
+ Machucado:Sim
+
+21/Nome:Leonardo Ferreira
+ Seleção:Chile
+ Idade:29
+ Valor de Mercado:49177579
+ Força:42
+ Velocidade:46
+ Resistência:45
+ Força de vontade:1
+ Posição: Mei
+ Machucado:Sim
+
+22/Nome:Rafael Souza
+ Seleção:Inglaterra
+ Idade:24
+ Valor de Mercado:116866408
+ Força:79
+ Velocidade:21
+ Resistência:37
+ Força de vontade:3
+ Posição: Def
+ Machucado:Sim
+
+23/Nome:André Ferreira
+ Seleção:Bélgica
+ Idade:37
+ Valor de Mercado:175606890
+ Força:77
+ Velocidade:13
+ Resistência:52
+ Força de vontade:48
+ Posição: Mei
+ Machucado:Sim
+
+24/Nome:Pedro Almeida
+ Seleção:Argentina
+ Idade:24
+ Valor de Mercado:146063566
+ Força:58
+ Velocidade:59
+ Resistência:71
+ Força de vontade:15
+ Posição: Gol
+ Machucado:Nao
+
+25/Nome:Rafael Ferreira
+ Seleção:Portugal
+ Idade:29
+ Valor de Mercado:181319395
+ Força:12
+ Velocidade:94
+ Resistência:42
+ Força de vontade:89
+ Posição: Ata
+ Machucado:Sim
+
+26/Nome:Leonardo Costa
+ Seleção:Chile
+ Idade:36
+ Valor de Mercado:123983649
+ Força:82
+ Velocidade:6
+ Resistência:67
+ Força de vontade:16
+ Posição: Gol
+ Machucado:Nao
+
+27/Nome:André Nascimento
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:58992587
+ Força:23
+ Velocidade:4
+ Resistência:5
+ Força de vontade:43
+ Posição: Def
+ Machucado:Sim
+
+28/Nome:Gustavo Nascimento
+ Seleção:Inglaterra
+ Idade:19
+ Valor de Mercado:122561503
+ Força:20
+ Velocidade:70
+ Resistência:2
+ Força de vontade:8
+ Posição: Mei
+ Machucado:Nao
+
+29/Nome:Gustavo Gomes
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:52048513
+ Força:57
+ Velocidade:87
+ Resistência:85
+ Força de vontade:44
+ Posição: Gol
+ Machucado:Sim
+
+30/Nome:Luiz Almeida
+ Seleção:Argentina
+ Idade:28
+ Valor de Mercado:85340557
+ Força:9
+ Velocidade:13
+ Resistência:74
+ Força de vontade:40
+ Posição: Mei
+ Machucado:Sim
+
+31/Nome:Pedro Nascimento
+ Seleção:Portugal
+ Idade:35
+ Valor de Mercado:182194535
+ Força:89
+ Velocidade:97
+ Resistência:87
+ Força de vontade:78
+ Posição: Mei
+ Machucado:Nao
+
+32/Nome:André Gomes
+ Seleção:Chile
+ Idade:34
+ Valor de Mercado:60476244
+ Força:45
+ Velocidade:72
+ Resistência:11
+ Força de vontade:10
+ Posição: Mei
+ Machucado:Sim
+
+33/Nome:Felipe Oliveira
+ Seleção:Brasil
+ Idade:32
+ Valor de Mercado:149453153
+ Força:96
+ Velocidade:14
+ Resistência:87
+ Força de vontade:28
+ Posição: Def
+ Machucado:Nao
+
+34/Nome:Felipe Pereira
+ Seleção:Chile
+ Idade:20
+ Valor de Mercado:97537668
+ Força:75
+ Velocidade:32
+ Resistência:56
+ Força de vontade:22
+ Posição: Gol
+ Machucado:Nao
+
+35/Nome:Felipe Santos
+ Seleção:Bélgica
+ Idade:35
+ Valor de Mercado:45476299
+ Força:21
+ Velocidade:87
+ Resistência:19
+ Força de vontade:34
+ Posição: Gol
+ Machucado:Nao
+
+36/Nome:Gustavo Almeida
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:41741091
+ Força:52
+ Velocidade:83
+ Resistência:27
+ Força de vontade:5
+ Posição: Def
+ Machucado:Nao
+
+37/Nome:Leonardo Pereira
+ Seleção:Chile
+ Idade:29
+ Valor de Mercado:89403681
+ Força:26
+ Velocidade:93
+ Resistência:86
+ Força de vontade:91
+ Posição: Mei
+ Machucado:Sim
+
+38/Nome:Felipe Silva
+ Seleção:Itália
+ Idade:18
+ Valor de Mercado:70746040
+ Força:36
+ Velocidade:6
+ Resistência:92
+ Força de vontade:47
+ Posição: Mei
+ Machucado:Nao
+
+39/Nome:Gustavo Oliveira
+ Seleção:Argentina
+ Idade:32
+ Valor de Mercado:100127697
+ Força:39
+ Velocidade:71
+ Resistência:46
+ Força de vontade:89
+ Posição: Ata
+ Machucado:Sim
+
+40/Nome:Luiz Souza
+ Seleção:Bélgica
+ Idade:30
+ Valor de Mercado:94534681
+ Força:15
+ Velocidade:75
+ Resistência:7
+ Força de vontade:80
+ Posição: Def
+ Machucado:Sim
+
+41/Nome:João Almeida
+ Seleção:Brasil
+ Idade:20
+ Valor de Mercado:122538799
+ Força:45
+ Velocidade:82
+ Resistência:65
+ Força de vontade:14
+ Posição: Mei
+ Machucado:Sim
+
+42/Nome:Gustavo Nascimento
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:64221032
+ Força:23
+ Velocidade:56
+ Resistência:99
+ Força de vontade:71
+ Posição: Mei
+ Machucado:Sim
+
+43/Nome:Leonardo Costa
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:30077572
+ Força:29
+ Velocidade:97
+ Resistência:47
+ Força de vontade:41
+ Posição: Def
+ Machucado:Nao
+
+44/Nome:Felipe Santos
+ Seleção:Itália
+ Idade:35
+ Valor de Mercado:156317007
+ Força:9
+ Velocidade:51
+ Resistência:52
+ Força de vontade:89
+ Posição: Mei
+ Machucado:Nao
+
+45/Nome:Pedro Nascimento
+ Seleção:Alemanha
+ Idade:37
+ Valor de Mercado:137034953
+ Força:44
+ Velocidade:62
+ Resistência:19
+ Força de vontade:32
+ Posição: Mei
+ Machucado:Nao
+
+46/Nome:Marcos Oliveira
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:117286373
+ Força:39
+ Velocidade:74
+ Resistência:18
+ Força de vontade:32
+ Posição: Def
+ Machucado:Sim
+
+47/Nome:Felipe Souza
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:10198653
+ Força:54
+ Velocidade:25
+ Resistência:85
+ Força de vontade:67
+ Posição: Ata
+ Machucado:Sim
+
+48/Nome:Lucas Santos
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:57209846
+ Força:7
+ Velocidade:39
+ Resistência:8
+ Força de vontade:75
+ Posição: Def
+ Machucado:Nao
+
+49/Nome:André Pereira
+ Seleção:Brasil
+ Idade:30
+ Valor de Mercado:166452997
+ Força:28
+ Velocidade:37
+ Resistência:65
+ Força de vontade:71
+ Posição: Gol
+ Machucado:Nao
+
+50/Nome:Rafael Pereira
+ Seleção:Alemanha
+ Idade:35
+ Valor de Mercado:62378125
+ Força:10
+ Velocidade:96
+ Resistência:19
+ Força de vontade:93
+ Posição: Gol
+ Machucado:Sim
+
+51/Nome:Felipe Costa
+ Seleção:Brasil
+ Idade:23
+ Valor de Mercado:99914150
+ Força:10
+ Velocidade:60
+ Resistência:94
+ Força de vontade:46
+ Posição: Gol
+ Machucado:Sim
+
+52/Nome:Gustavo Almeida
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:4654214
+ Força:84
+ Velocidade:57
+ Resistência:79
+ Força de vontade:3
+ Posição: Mei
+ Machucado:Nao
+
+53/Nome:Leonardo Almeida
+ Seleção:Portugal
+ Idade:35
+ Valor de Mercado:164566104
+ Força:27
+ Velocidade:30
+ Resistência:63
+ Força de vontade:82
+ Posição: Def
+ Machucado:Sim
+
+54/Nome:Rafael Santos
+ Seleção:Bélgica
+ Idade:30
+ Valor de Mercado:12506609
+ Força:24
+ Velocidade:91
+ Resistência:36
+ Força de vontade:93
+ Posição: Mei
+ Machucado:Sim
+
+55/Nome:Luiz Santos
+ Seleção:França
+ Idade:24
+ Valor de Mercado:114679088
+ Força:10
+ Velocidade:50
+ Resistência:22
+ Força de vontade:40
+ Posição: Gol
+ Machucado:Nao
+
+56/Nome:João Almeida
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:161801594
+ Força:50
+ Velocidade:55
+ Resistência:56
+ Força de vontade:29
+ Posição: Def
+ Machucado:Sim
+
+57/Nome:Felipe Gomes
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:45020320
+ Força:98
+ Velocidade:78
+ Resistência:19
+ Força de vontade:63
+ Posição: Mei
+ Machucado:Sim
+
+58/Nome:João Oliveira
+ Seleção:Brasil
+ Idade:32
+ Valor de Mercado:117239688
+ Força:12
+ Velocidade:95
+ Resistência:18
+ Força de vontade:43
+ Posição: Ata
+ Machucado:Nao
+
+59/Nome:João Costa
+ Seleção:Portugal
+ Idade:28
+ Valor de Mercado:96942868
+ Força:33
+ Velocidade:60
+ Resistência:7
+ Força de vontade:86
+ Posição: Mei
+ Machucado:Nao
+
+60/Nome:Gustavo Nascimento
+ Seleção:Bélgica
+ Idade:35
+ Valor de Mercado:71762831
+ Força:28
+ Velocidade:12
+ Resistência:73
+ Força de vontade:30
+ Posição: Mei
+ Machucado:Nao
+
+61/Nome:Lucas Silva
+ Seleção:Brasil
+ Idade:29
+ Valor de Mercado:174974557
+ Força:18
+ Velocidade:26
+ Resistência:51
+ Força de vontade:1
+ Posição: Ata
+ Machucado:Nao
+
+62/Nome:André Nascimento
+ Seleção:Portugal
+ Idade:27
+ Valor de Mercado:56758096
+ Força:44
+ Velocidade:95
+ Resistência:66
+ Força de vontade:33
+ Posição: Def
+ Machucado:Sim
+
+63/Nome:Gustavo Ferreira
+ Seleção:Brasil
+ Idade:19
+ Valor de Mercado:132589654
+ Força:76
+ Velocidade:4
+ Resistência:12
+ Força de vontade:88
+ Posição: Mei
+ Machucado:Nao
+
+64/Nome:Lucas Costa
+ Seleção:Argentina
+ Idade:27
+ Valor de Mercado:24368132
+ Força:83
+ Velocidade:10
+ Resistência:39
+ Força de vontade:100
+ Posição: Mei
+ Machucado:Nao
+
+65/Nome:Luiz Souza
+ Seleção:França
+ Idade:37
+ Valor de Mercado:165241693
+ Força:37
+ Velocidade:65
+ Resistência:39
+ Força de vontade:56
+ Posição: Ata
+ Machucado:Sim
+
+66/Nome:Pedro Gomes
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:116425434
+ Força:99
+ Velocidade:21
+ Resistência:10
+ Força de vontade:73
+ Posição: Ata
+ Machucado:Sim
+
+67/Nome:Marcos Pereira
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:179489529
+ Força:39
+ Velocidade:39
+ Resistência:20
+ Força de vontade:15
+ Posição: Gol
+ Machucado:Nao
+
+68/Nome:Marcos Almeida
+ Seleção:França
+ Idade:32
+ Valor de Mercado:191190921
+ Força:3
+ Velocidade:82
+ Resistência:32
+ Força de vontade:84
+ Posição: Def
+ Machucado:Sim
+
+69/Nome:Felipe Silva
+ Seleção:Espanha
+ Idade:26
+ Valor de Mercado:89274744
+ Força:8
+ Velocidade:41
+ Resistência:5
+ Força de vontade:76
+ Posição: Gol
+ Machucado:Nao
+
+70/Nome:André Almeida
+ Seleção:Inglaterra
+ Idade:31
+ Valor de Mercado:80111926
+ Força:26
+ Velocidade:80
+ Resistência:5
+ Força de vontade:45
+ Posição: Gol
+ Machucado:Nao
+
+71/Nome:Pedro Nascimento
+ Seleção:Portugal
+ Idade:27
+ Valor de Mercado:93616324
+ Força:67
+ Velocidade:45
+ Resistência:65
+ Força de vontade:30
+ Posição: Ata
+ Machucado:Nao
+
+72/Nome:Leonardo Costa
+ Seleção:Alemanha
+ Idade:36
+ Valor de Mercado:148104227
+ Força:90
+ Velocidade:14
+ Resistência:77
+ Força de vontade:66
+ Posição: Mei
+ Machucado:Sim
+
+73/Nome:Lucas Santos
+ Seleção:Brasil
+ Idade:27
+ Valor de Mercado:12400833
+ Força:95
+ Velocidade:46
+ Resistência:3
+ Força de vontade:8
+ Posição: Def
+ Machucado:Sim
+
+74/Nome:Luiz Ferreira
+ Seleção:Bélgica
+ Idade:27
+ Valor de Mercado:185178810
+ Força:86
+ Velocidade:91
+ Resistência:78
+ Força de vontade:75
+ Posição: Mei
+ Machucado:Sim
+
+75/Nome:Felipe Costa
+ Seleção:Argentina
+ Idade:26
+ Valor de Mercado:80761972
+ Força:19
+ Velocidade:14
+ Resistência:61
+ Força de vontade:83
+ Posição: Ata
+ Machucado:Nao
+
+76/Nome:Marcos Ferreira
+ Seleção:Bélgica
+ Idade:36
+ Valor de Mercado:119592283
+ Força:2
+ Velocidade:27
+ Resistência:88
+ Força de vontade:99
+ Posição: Mei
+ Machucado:Nao
+
+77/Nome:Felipe Nascimento
+ Seleção:Itália
+ Idade:23
+ Valor de Mercado:121076972
+ Força:42
+ Velocidade:80
+ Resistência:42
+ Força de vontade:5
+ Posição: Def
+ Machucado:Sim
+
+78/Nome:Pedro Nascimento
+ Seleção:Alemanha
+ Idade:35
+ Valor de Mercado:93907103
+ Força:87
+ Velocidade:1
+ Resistência:41
+ Força de vontade:53
+ Posição: Mei
+ Machucado:Sim
+
+79/Nome:João Oliveira
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:21074521
+ Força:54
+ Velocidade:55
+ Resistência:42
+ Força de vontade:7
+ Posição: Ata
+ Machucado:Sim
+
+80/Nome:Felipe Ferreira
+ Seleção:Portugal
+ Idade:21
+ Valor de Mercado:152855409
+ Força:89
+ Velocidade:21
+ Resistência:100
+ Força de vontade:90
+ Posição: Mei
+ Machucado:Nao
+
+81/Nome:Gustavo Almeida
+ Seleção:Alemanha
+ Idade:19
+ Valor de Mercado:40267636
+ Força:86
+ Velocidade:6
+ Resistência:62
+ Força de vontade:17
+ Posição: Gol
+ Machucado:Nao
+
+82/Nome:Marcos Santos
+ Seleção:Bélgica
+ Idade:32
+ Valor de Mercado:39866370
+ Força:71
+ Velocidade:94
+ Resistência:96
+ Força de vontade:94
+ Posição: Gol
+ Machucado:Sim
+
+83/Nome:André Silva
+ Seleção:Alemanha
+ Idade:27
+ Valor de Mercado:164703303
+ Força:36
+ Velocidade:71
+ Resistência:75
+ Força de vontade:25
+ Posição: Ata
+ Machucado:Nao
+
+84/Nome:João Nascimento
+ Seleção:Bélgica
+ Idade:21
+ Valor de Mercado:184071895
+ Força:13
+ Velocidade:72
+ Resistência:56
+ Força de vontade:21
+ Posição: Mei
+ Machucado:Nao
+
+85/Nome:Pedro Costa
+ Seleção:Alemanha
+ Idade:29
+ Valor de Mercado:29995132
+ Força:90
+ Velocidade:18
+ Resistência:52
+ Força de vontade:16
+ Posição: Ata
+ Machucado:Sim
+
+86/Nome:André Silva
+ Seleção:Espanha
+ Idade:23
+ Valor de Mercado:66934709
+ Força:64
+ Velocidade:63
+ Resistência:95
+ Força de vontade:75
+ Posição: Mei
+ Machucado:Nao
+
+87/Nome:Luiz Almeida
+ Seleção:Brasil
+ Idade:27
+ Valor de Mercado:177539657
+ Força:37
+ Velocidade:10
+ Resistência:11
+ Força de vontade:60
+ Posição: Mei
+ Machucado:Nao
+
+88/Nome:Gustavo Oliveira
+ Seleção:Alemanha
+ Idade:32
+ Valor de Mercado:21877098
+ Força:85
+ Velocidade:62
+ Resistência:9
+ Força de vontade:20
+ Posição: Def
+ Machucado:Sim
+
+89/Nome:Marcos Gomes
+ Seleção:Portugal
+ Idade:30
+ Valor de Mercado:182722111
+ Força:3
+ Velocidade:99
+ Resistência:43
+ Força de vontade:88
+ Posição: Def
+ Machucado:Nao
+
+90/Nome:Gustavo Costa
+ Seleção:Inglaterra
+ Idade:25
+ Valor de Mercado:108460973
+ Força:49
+ Velocidade:68
+ Resistência:84
+ Força de vontade:98
+ Posição: Gol
+ Machucado:Nao
+
+91/Nome:Marcos Ferreira
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:40149979
+ Força:76
+ Velocidade:39
+ Resistência:91
+ Força de vontade:22
+ Posição: Mei
+ Machucado:Sim
+
+92/Nome:Pedro Costa
+ Seleção:Argentina
+ Idade:29
+ Valor de Mercado:109556568
+ Força:98
+ Velocidade:71
+ Resistência:44
+ Força de vontade:27
+ Posição: Mei
+ Machucado:Sim
+
+93/Nome:Rafael Pereira
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:77746868
+ Força:68
+ Velocidade:63
+ Resistência:93
+ Força de vontade:85
+ Posição: Def
+ Machucado:Nao
+
+94/Nome:João Santos
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:178196002
+ Força:32
+ Velocidade:100
+ Resistência:1
+ Força de vontade:24
+ Posição: Gol
+ Machucado:Nao
+
+95/Nome:Pedro Nascimento
+ Seleção:Bélgica
+ Idade:32
+ Valor de Mercado:21143281
+ Força:84
+ Velocidade:53
+ Resistência:24
+ Força de vontade:91
+ Posição: Ata
+ Machucado:Sim
+
+96/Nome:Lucas Oliveira
+ Seleção:Brasil
+ Idade:28
+ Valor de Mercado:183400696
+ Força:33
+ Velocidade:27
+ Resistência:94
+ Força de vontade:95
+ Posição: Mei
+ Machucado:Nao
+
+97/Nome:Rafael Almeida
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:108416655
+ Força:61
+ Velocidade:42
+ Resistência:84
+ Força de vontade:32
+ Posição: Ata
+ Machucado:Nao
+
+98/Nome:Luiz Ferreira
+ Seleção:Inglaterra
+ Idade:23
+ Valor de Mercado:127743302
+ Força:100
+ Velocidade:49
+ Resistência:72
+ Força de vontade:24
+ Posição: Def
+ Machucado:Nao
+
+99/Nome:Luiz Oliveira
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:143073040
+ Força:48
+ Velocidade:42
+ Resistência:70
+ Força de vontade:57
+ Posição: Def
+ Machucado:Nao
+
+100/Nome:Luiz Souza
+ Seleção:Brasil
+ Idade:26
+ Valor de Mercado:4805688
+ Força:16
+ Velocidade:12
+ Resistência:60
+ Força de vontade:63
+ Posição: Ata
+ Machucado:Sim
+
+101/Nome:Rafael Santos
+ Seleção:França
+ Idade:20
+ Valor de Mercado:70157339
+ Força:83
+ Velocidade:67
+ Resistência:63
+ Força de vontade:40
+ Posição: Ata
+ Machucado:Nao
+
+102/Nome:Luiz Pereira
+ Seleção:Espanha
+ Idade:29
+ Valor de Mercado:111563622
+ Força:38
+ Velocidade:49
+ Resistência:100
+ Força de vontade:63
+ Posição: Def
+ Machucado:Nao
+
+103/Nome:Marcos Pereira
+ Seleção:Itália
+ Idade:19
+ Valor de Mercado:40418059
+ Força:47
+ Velocidade:77
+ Resistência:45
+ Força de vontade:56
+ Posição: Gol
+ Machucado:Sim
+
+104/Nome:Luiz Souza
+ Seleção:Inglaterra
+ Idade:26
+ Valor de Mercado:110746679
+ Força:89
+ Velocidade:40
+ Resistência:62
+ Força de vontade:17
+ Posição: Def
+ Machucado:Nao
+
+105/Nome:Lucas Almeida
+ Seleção:Inglaterra
+ Idade:30
+ Valor de Mercado:4966427
+ Força:16
+ Velocidade:87
+ Resistência:96
+ Força de vontade:14
+ Posição: Ata
+ Machucado:Nao
+
+106/Nome:Felipe Gomes
+ Seleção:Argentina
+ Idade:32
+ Valor de Mercado:28160822
+ Força:99
+ Velocidade:50
+ Resistência:42
+ Força de vontade:87
+ Posição: Mei
+ Machucado:Sim
+
+107/Nome:Lucas Ferreira
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:94635706
+ Força:96
+ Velocidade:22
+ Resistência:90
+ Força de vontade:90
+ Posição: Ata
+ Machucado:Nao
+
+108/Nome:Marcos Almeida
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:171607167
+ Força:91
+ Velocidade:87
+ Resistência:1
+ Força de vontade:34
+ Posição: Def
+ Machucado:Sim
+
+109/Nome:Marcos Almeida
+ Seleção:Chile
+ Idade:24
+ Valor de Mercado:146226581
+ Força:62
+ Velocidade:73
+ Resistência:49
+ Força de vontade:64
+ Posição: Gol
+ Machucado:Sim
+
+110/Nome:Luiz Nascimento
+ Seleção:França
+ Idade:22
+ Valor de Mercado:188717210
+ Força:64
+ Velocidade:34
+ Resistência:20
+ Força de vontade:32
+ Posição: Def
+ Machucado:Sim
+
+111/Nome:João Nascimento
+ Seleção:Espanha
+ Idade:35
+ Valor de Mercado:32549350
+ Força:20
+ Velocidade:52
+ Resistência:38
+ Força de vontade:66
+ Posição: Gol
+ Machucado:Nao
+
+112/Nome:Gustavo Almeida
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:28385996
+ Força:4
+ Velocidade:63
+ Resistência:34
+ Força de vontade:20
+ Posição: Gol
+ Machucado:Sim
+
+113/Nome:André Ferreira
+ Seleção:Espanha
+ Idade:33
+ Valor de Mercado:154962989
+ Força:57
+ Velocidade:88
+ Resistência:81
+ Força de vontade:57
+ Posição: Gol
+ Machucado:Nao
+
+114/Nome:André Almeida
+ Seleção:Portugal
+ Idade:25
+ Valor de Mercado:73511086
+ Força:33
+ Velocidade:65
+ Resistência:78
+ Força de vontade:2
+ Posição: Ata
+ Machucado:Sim
+
+115/Nome:Pedro Pereira
+ Seleção:Brasil
+ Idade:18
+ Valor de Mercado:176339862
+ Força:36
+ Velocidade:32
+ Resistência:75
+ Força de vontade:10
+ Posição: Gol
+ Machucado:Sim
+
+116/Nome:João Souza
+ Seleção:França
+ Idade:32
+ Valor de Mercado:15865470
+ Força:5
+ Velocidade:63
+ Resistência:37
+ Força de vontade:49
+ Posição: Ata
+ Machucado:Nao
+
+117/Nome:Gustavo Oliveira
+ Seleção:Chile
+ Idade:33
+ Valor de Mercado:47798401
+ Força:36
+ Velocidade:30
+ Resistência:4
+ Força de vontade:89
+ Posição: Def
+ Machucado:Sim
+
+118/Nome:Lucas Gomes
+ Seleção:Itália
+ Idade:23
+ Valor de Mercado:182422776
+ Força:41
+ Velocidade:88
+ Resistência:1
+ Força de vontade:71
+ Posição: Def
+ Machucado:Nao
+
+119/Nome:Felipe Pereira
+ Seleção:Alemanha
+ Idade:36
+ Valor de Mercado:120320402
+ Força:42
+ Velocidade:99
+ Resistência:93
+ Força de vontade:13
+ Posição: Gol
+ Machucado:Nao
+
+120/Nome:Gustavo Silva
+ Seleção:França
+ Idade:23
+ Valor de Mercado:148760298
+ Força:35
+ Velocidade:95
+ Resistência:85
+ Força de vontade:39
+ Posição: Def
+ Machucado:Sim
+
+121/Nome:Gustavo Oliveira
+ Seleção:Chile
+ Idade:31
+ Valor de Mercado:133482449
+ Força:11
+ Velocidade:17
+ Resistência:35
+ Força de vontade:94
+ Posição: Mei
+ Machucado:Sim
+
+122/Nome:André Gomes
+ Seleção:Bélgica
+ Idade:37
+ Valor de Mercado:194098258
+ Força:22
+ Velocidade:52
+ Resistência:53
+ Força de vontade:52
+ Posição: Gol
+ Machucado:Sim
+
+123/Nome:Lucas Ferreira
+ Seleção:Brasil
+ Idade:26
+ Valor de Mercado:161164925
+ Força:57
+ Velocidade:8
+ Resistência:63
+ Força de vontade:39
+ Posição: Ata
+ Machucado:Sim
+
+124/Nome:André Souza
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:77702273
+ Força:60
+ Velocidade:52
+ Resistência:36
+ Força de vontade:87
+ Posição: Def
+ Machucado:Sim
+
+125/Nome:Rafael Almeida
+ Seleção:Chile
+ Idade:34
+ Valor de Mercado:156712591
+ Força:11
+ Velocidade:40
+ Resistência:66
+ Força de vontade:85
+ Posição: Gol
+ Machucado:Nao
+
+126/Nome:Luiz Nascimento
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:145170501
+ Força:85
+ Velocidade:4
+ Resistência:14
+ Força de vontade:9
+ Posição: Mei
+ Machucado:Nao
+
+127/Nome:João Oliveira
+ Seleção:Itália
+ Idade:31
+ Valor de Mercado:53918508
+ Força:32
+ Velocidade:32
+ Resistência:58
+ Força de vontade:80
+ Posição: Def
+ Machucado:Nao
+
+128/Nome:Rafael Costa
+ Seleção:Bélgica
+ Idade:29
+ Valor de Mercado:14611426
+ Força:55
+ Velocidade:37
+ Resistência:100
+ Força de vontade:52
+ Posição: Mei
+ Machucado:Sim
+
+129/Nome:Felipe Pereira
+ Seleção:Itália
+ Idade:36
+ Valor de Mercado:49489514
+ Força:8
+ Velocidade:68
+ Resistência:14
+ Força de vontade:31
+ Posição: Mei
+ Machucado:Nao
+
+130/Nome:Felipe Pereira
+ Seleção:França
+ Idade:35
+ Valor de Mercado:199922276
+ Força:42
+ Velocidade:89
+ Resistência:75
+ Força de vontade:39
+ Posição: Def
+ Machucado:Sim
+
+131/Nome:Pedro Nascimento
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:27053517
+ Força:39
+ Velocidade:86
+ Resistência:63
+ Força de vontade:33
+ Posição: Def
+ Machucado:Nao
+
+132/Nome:Lucas Gomes
+ Seleção:Inglaterra
+ Idade:36
+ Valor de Mercado:46427137
+ Força:1
+ Velocidade:69
+ Resistência:90
+ Força de vontade:76
+ Posição: Mei
+ Machucado:Nao
+
+133/Nome:Luiz Souza
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:60116740
+ Força:91
+ Velocidade:39
+ Resistência:70
+ Força de vontade:52
+ Posição: Ata
+ Machucado:Sim
+
+134/Nome:João Silva
+ Seleção:Espanha
+ Idade:26
+ Valor de Mercado:165723789
+ Força:30
+ Velocidade:13
+ Resistência:49
+ Força de vontade:3
+ Posição: Ata
+ Machucado:Nao
+
+135/Nome:Leonardo Gomes
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:149046401
+ Força:46
+ Velocidade:16
+ Resistência:96
+ Força de vontade:33
+ Posição: Def
+ Machucado:Nao
+
+136/Nome:Leonardo Almeida
+ Seleção:Brasil
+ Idade:35
+ Valor de Mercado:190164263
+ Força:61
+ Velocidade:89
+ Resistência:82
+ Força de vontade:11
+ Posição: Def
+ Machucado:Sim
+
+137/Nome:André Silva
+ Seleção:Alemanha
+ Idade:29
+ Valor de Mercado:63799923
+ Força:75
+ Velocidade:66
+ Resistência:67
+ Força de vontade:93
+ Posição: Ata
+ Machucado:Sim
+
+138/Nome:Gustavo Silva
+ Seleção:Brasil
+ Idade:35
+ Valor de Mercado:159632266
+ Força:96
+ Velocidade:30
+ Resistência:41
+ Força de vontade:47
+ Posição: Mei
+ Machucado:Sim
+
+139/Nome:Luiz Souza
+ Seleção:Bélgica
+ Idade:26
+ Valor de Mercado:135761354
+ Força:11
+ Velocidade:60
+ Resistência:86
+ Força de vontade:47
+ Posição: Mei
+ Machucado:Sim
+
+140/Nome:Marcos Silva
+ Seleção:Bélgica
+ Idade:32
+ Valor de Mercado:115405118
+ Força:39
+ Velocidade:39
+ Resistência:77
+ Força de vontade:38
+ Posição: Gol
+ Machucado:Nao
+
+141/Nome:André Gomes
+ Seleção:Brasil
+ Idade:23
+ Valor de Mercado:118709168
+ Força:33
+ Velocidade:32
+ Resistência:46
+ Força de vontade:99
+ Posição: Ata
+ Machucado:Sim
+
+142/Nome:Pedro Nascimento
+ Seleção:Espanha
+ Idade:27
+ Valor de Mercado:177121179
+ Força:3
+ Velocidade:88
+ Resistência:21
+ Força de vontade:51
+ Posição: Gol
+ Machucado:Sim
+
+143/Nome:Luiz Ferreira
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:152778344
+ Força:72
+ Velocidade:50
+ Resistência:35
+ Força de vontade:46
+ Posição: Def
+ Machucado:Nao
+
+144/Nome:André Souza
+ Seleção:Argentina
+ Idade:36
+ Valor de Mercado:79772708
+ Força:88
+ Velocidade:69
+ Resistência:29
+ Força de vontade:51
+ Posição: Def
+ Machucado:Nao
+
+145/Nome:Rafael Gomes
+ Seleção:Chile
+ Idade:20
+ Valor de Mercado:132498276
+ Força:50
+ Velocidade:74
+ Resistência:84
+ Força de vontade:75
+ Posição: Gol
+ Machucado:Nao
+
+146/Nome:Gustavo Costa
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:77766108
+ Força:20
+ Velocidade:38
+ Resistência:49
+ Força de vontade:94
+ Posição: Ata
+ Machucado:Nao
+
+147/Nome:Felipe Souza
+ Seleção:Alemanha
+ Idade:33
+ Valor de Mercado:156073862
+ Força:63
+ Velocidade:27
+ Resistência:63
+ Força de vontade:12
+ Posição: Mei
+ Machucado:Nao
+
+148/Nome:João Costa
+ Seleção:Inglaterra
+ Idade:18
+ Valor de Mercado:61820393
+ Força:63
+ Velocidade:67
+ Resistência:41
+ Força de vontade:52
+ Posição: Gol
+ Machucado:Sim
+
+149/Nome:Gustavo Souza
+ Seleção:Chile
+ Idade:25
+ Valor de Mercado:133821317
+ Força:57
+ Velocidade:54
+ Resistência:93
+ Força de vontade:82
+ Posição: Ata
+ Machucado:Nao
+
+150/Nome:Leonardo Pereira
+ Seleção:Alemanha
+ Idade:26
+ Valor de Mercado:188517694
+ Força:16
+ Velocidade:92
+ Resistência:93
+ Força de vontade:66
+ Posição: Gol
+ Machucado:Nao
+
+151/Nome:Felipe Ferreira
+ Seleção:Inglaterra
+ Idade:32
+ Valor de Mercado:166706690
+ Força:100
+ Velocidade:58
+ Resistência:78
+ Força de vontade:51
+ Posição: Ata
+ Machucado:Nao
+
+152/Nome:Rafael Silva
+ Seleção:Itália
+ Idade:24
+ Valor de Mercado:118328557
+ Força:19
+ Velocidade:100
+ Resistência:99
+ Força de vontade:58
+ Posição: Gol
+ Machucado:Nao
+
+153/Nome:Rafael Silva
+ Seleção:França
+ Idade:23
+ Valor de Mercado:181185738
+ Força:7
+ Velocidade:91
+ Resistência:22
+ Força de vontade:20
+ Posição: Mei
+ Machucado:Sim
+
+154/Nome:André Almeida
+ Seleção:Inglaterra
+ Idade:34
+ Valor de Mercado:97114497
+ Força:65
+ Velocidade:28
+ Resistência:43
+ Força de vontade:74
+ Posição: Gol
+ Machucado:Sim
+
+155/Nome:Rafael Costa
+ Seleção:Itália
+ Idade:35
+ Valor de Mercado:186371007
+ Força:4
+ Velocidade:27
+ Resistência:74
+ Força de vontade:71
+ Posição: Gol
+ Machucado:Nao
+
+156/Nome:João Oliveira
+ Seleção:Chile
+ Idade:27
+ Valor de Mercado:152873704
+ Força:32
+ Velocidade:9
+ Resistência:39
+ Força de vontade:76
+ Posição: Def
+ Machucado:Sim
+
+157/Nome:Gustavo Pereira
+ Seleção:Inglaterra
+ Idade:28
+ Valor de Mercado:129077341
+ Força:72
+ Velocidade:4
+ Resistência:32
+ Força de vontade:19
+ Posição: Mei
+ Machucado:Sim
+
+158/Nome:Gustavo Ferreira
+ Seleção:Chile
+ Idade:35
+ Valor de Mercado:120580750
+ Força:73
+ Velocidade:100
+ Resistência:39
+ Força de vontade:45
+ Posição: Ata
+ Machucado:Sim
+
+159/Nome:Lucas Pereira
+ Seleção:Inglaterra
+ Idade:23
+ Valor de Mercado:51040885
+ Força:47
+ Velocidade:13
+ Resistência:72
+ Força de vontade:78
+ Posição: Gol
+ Machucado:Nao
+
+160/Nome:Luiz Souza
+ Seleção:Bélgica
+ Idade:35
+ Valor de Mercado:129487411
+ Força:63
+ Velocidade:96
+ Resistência:66
+ Força de vontade:2
+ Posição: Gol
+ Machucado:Sim
+
+161/Nome:Pedro Costa
+ Seleção:França
+ Idade:21
+ Valor de Mercado:118072098
+ Força:30
+ Velocidade:20
+ Resistência:34
+ Força de vontade:82
+ Posição: Ata
+ Machucado:Nao
+
+162/Nome:Leonardo Costa
+ Seleção:Alemanha
+ Idade:26
+ Valor de Mercado:70532975
+ Força:67
+ Velocidade:66
+ Resistência:54
+ Força de vontade:4
+ Posição: Mei
+ Machucado:Nao
+
+163/Nome:Lucas Ferreira
+ Seleção:Portugal
+ Idade:34
+ Valor de Mercado:49839747
+ Força:44
+ Velocidade:50
+ Resistência:70
+ Força de vontade:85
+ Posição: Gol
+ Machucado:Nao
+
+164/Nome:Leonardo Almeida
+ Seleção:Chile
+ Idade:34
+ Valor de Mercado:32145096
+ Força:5
+ Velocidade:39
+ Resistência:22
+ Força de vontade:15
+ Posição: Gol
+ Machucado:Nao
+
+165/Nome:André Costa
+ Seleção:França
+ Idade:33
+ Valor de Mercado:66647285
+ Força:17
+ Velocidade:79
+ Resistência:9
+ Força de vontade:31
+ Posição: Ata
+ Machucado:Nao
+
+166/Nome:Pedro Souza
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:5008911
+ Força:82
+ Velocidade:36
+ Resistência:13
+ Força de vontade:2
+ Posição: Def
+ Machucado:Nao
+
+167/Nome:Leonardo Silva
+ Seleção:Inglaterra
+ Idade:34
+ Valor de Mercado:184563356
+ Força:11
+ Velocidade:91
+ Resistência:37
+ Força de vontade:47
+ Posição: Mei
+ Machucado:Sim
+
+168/Nome:Luiz Nascimento
+ Seleção:Brasil
+ Idade:23
+ Valor de Mercado:184816104
+ Força:2
+ Velocidade:57
+ Resistência:70
+ Força de vontade:15
+ Posição: Mei
+ Machucado:Nao
+
+169/Nome:Pedro Pereira
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:96045198
+ Força:55
+ Velocidade:10
+ Resistência:61
+ Força de vontade:95
+ Posição: Ata
+ Machucado:Sim
+
+170/Nome:Leonardo Santos
+ Seleção:Portugal
+ Idade:19
+ Valor de Mercado:103706195
+ Força:24
+ Velocidade:88
+ Resistência:47
+ Força de vontade:79
+ Posição: Def
+ Machucado:Nao
+
+171/Nome:João Santos
+ Seleção:Espanha
+ Idade:22
+ Valor de Mercado:76831877
+ Força:99
+ Velocidade:39
+ Resistência:42
+ Força de vontade:30
+ Posição: Def
+ Machucado:Sim
+
+172/Nome:Marcos Santos
+ Seleção:Itália
+ Idade:35
+ Valor de Mercado:179827582
+ Força:67
+ Velocidade:25
+ Resistência:64
+ Força de vontade:46
+ Posição: Gol
+ Machucado:Sim
+
+173/Nome:Gustavo Ferreira
+ Seleção:Inglaterra
+ Idade:33
+ Valor de Mercado:94677887
+ Força:16
+ Velocidade:86
+ Resistência:84
+ Força de vontade:88
+ Posição: Gol
+ Machucado:Nao
+
+174/Nome:André Pereira
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:152561370
+ Força:28
+ Velocidade:45
+ Resistência:36
+ Força de vontade:85
+ Posição: Gol
+ Machucado:Sim
+
+175/Nome:Gustavo Silva
+ Seleção:França
+ Idade:35
+ Valor de Mercado:120249521
+ Força:6
+ Velocidade:55
+ Resistência:77
+ Força de vontade:27
+ Posição: Def
+ Machucado:Sim
+
+176/Nome:Marcos Pereira
+ Seleção:Alemanha
+ Idade:27
+ Valor de Mercado:125703230
+ Força:47
+ Velocidade:98
+ Resistência:40
+ Força de vontade:4
+ Posição: Def
+ Machucado:Sim
+
+177/Nome:Pedro Costa
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:53555421
+ Força:30
+ Velocidade:1
+ Resistência:90
+ Força de vontade:89
+ Posição: Gol
+ Machucado:Nao
+
+178/Nome:Marcos Ferreira
+ Seleção:Chile
+ Idade:25
+ Valor de Mercado:63874554
+ Força:37
+ Velocidade:14
+ Resistência:41
+ Força de vontade:14
+ Posição: Gol
+ Machucado:Nao
+
+179/Nome:Luiz Gomes
+ Seleção:Portugal
+ Idade:33
+ Valor de Mercado:67176066
+ Força:55
+ Velocidade:31
+ Resistência:80
+ Força de vontade:79
+ Posição: Def
+ Machucado:Nao
+
+180/Nome:Leonardo Silva
+ Seleção:França
+ Idade:19
+ Valor de Mercado:171102540
+ Força:71
+ Velocidade:42
+ Resistência:84
+ Força de vontade:9
+ Posição: Ata
+ Machucado:Nao
+
+181/Nome:Luiz Gomes
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:89324475
+ Força:82
+ Velocidade:71
+ Resistência:36
+ Força de vontade:67
+ Posição: Mei
+ Machucado:Nao
+
+182/Nome:Marcos Oliveira
+ Seleção:Argentina
+ Idade:18
+ Valor de Mercado:179119355
+ Força:54
+ Velocidade:19
+ Resistência:27
+ Força de vontade:14
+ Posição: Def
+ Machucado:Sim
+
+183/Nome:Marcos Pereira
+ Seleção:Chile
+ Idade:34
+ Valor de Mercado:119601132
+ Força:42
+ Velocidade:26
+ Resistência:9
+ Força de vontade:77
+ Posição: Ata
+ Machucado:Sim
+
+184/Nome:João Nascimento
+ Seleção:Inglaterra
+ Idade:36
+ Valor de Mercado:21417420
+ Força:34
+ Velocidade:17
+ Resistência:20
+ Força de vontade:42
+ Posição: Mei
+ Machucado:Nao
+
+185/Nome:Marcos Almeida
+ Seleção:Argentina
+ Idade:26
+ Valor de Mercado:100041511
+ Força:31
+ Velocidade:83
+ Resistência:2
+ Força de vontade:49
+ Posição: Def
+ Machucado:Nao
+
+186/Nome:André Souza
+ Seleção:Bélgica
+ Idade:37
+ Valor de Mercado:16411170
+ Força:38
+ Velocidade:76
+ Resistência:16
+ Força de vontade:8
+ Posição: Def
+ Machucado:Sim
+
+187/Nome:Marcos Almeida
+ Seleção:Inglaterra
+ Idade:28
+ Valor de Mercado:113032810
+ Força:58
+ Velocidade:32
+ Resistência:13
+ Força de vontade:55
+ Posição: Mei
+ Machucado:Sim
+
+188/Nome:Luiz Gomes
+ Seleção:Espanha
+ Idade:26
+ Valor de Mercado:35822701
+ Força:19
+ Velocidade:90
+ Resistência:30
+ Força de vontade:64
+ Posição: Ata
+ Machucado:Sim
+
+189/Nome:André Pereira
+ Seleção:Itália
+ Idade:19
+ Valor de Mercado:22360522
+ Força:61
+ Velocidade:41
+ Resistência:68
+ Força de vontade:79
+ Posição: Ata
+ Machucado:Nao
+
+190/Nome:Pedro Pereira
+ Seleção:Itália
+ Idade:32
+ Valor de Mercado:185119320
+ Força:89
+ Velocidade:29
+ Resistência:19
+ Força de vontade:94
+ Posição: Gol
+ Machucado:Sim
+
+191/Nome:Luiz Ferreira
+ Seleção:Chile
+ Idade:19
+ Valor de Mercado:12679767
+ Força:69
+ Velocidade:97
+ Resistência:64
+ Força de vontade:43
+ Posição: Mei
+ Machucado:Sim
+
+192/Nome:João Nascimento
+ Seleção:Argentina
+ Idade:37
+ Valor de Mercado:86774513
+ Força:52
+ Velocidade:78
+ Resistência:12
+ Força de vontade:66
+ Posição: Def
+ Machucado:Sim
+
+193/Nome:João Costa
+ Seleção:Argentina
+ Idade:35
+ Valor de Mercado:104140095
+ Força:91
+ Velocidade:23
+ Resistência:34
+ Força de vontade:29
+ Posição: Ata
+ Machucado:Nao
+
+194/Nome:Lucas Souza
+ Seleção:Bélgica
+ Idade:32
+ Valor de Mercado:15444066
+ Força:43
+ Velocidade:78
+ Resistência:59
+ Força de vontade:5
+ Posição: Mei
+ Machucado:Nao
+
+195/Nome:Pedro Nascimento
+ Seleção:Itália
+ Idade:18
+ Valor de Mercado:177356444
+ Força:57
+ Velocidade:6
+ Resistência:38
+ Força de vontade:9
+ Posição: Ata
+ Machucado:Sim
+
+196/Nome:Luiz Silva
+ Seleção:Argentina
+ Idade:28
+ Valor de Mercado:190489898
+ Força:39
+ Velocidade:51
+ Resistência:36
+ Força de vontade:51
+ Posição: Ata
+ Machucado:Sim
+
+197/Nome:Luiz Santos
+ Seleção:França
+ Idade:34
+ Valor de Mercado:107738480
+ Força:82
+ Velocidade:81
+ Resistência:49
+ Força de vontade:13
+ Posição: Ata
+ Machucado:Nao
+
+198/Nome:Luiz Gomes
+ Seleção:Bélgica
+ Idade:34
+ Valor de Mercado:36127515
+ Força:50
+ Velocidade:25
+ Resistência:63
+ Força de vontade:55
+ Posição: Mei
+ Machucado:Nao
+
+199/Nome:Gustavo Gomes
+ Seleção:Bélgica
+ Idade:34
+ Valor de Mercado:23298177
+ Força:75
+ Velocidade:99
+ Resistência:47
+ Força de vontade:32
+ Posição: Ata
+ Machucado:Sim
+
+200/Nome:João Ferreira
+ Seleção:Argentina
+ Idade:33
+ Valor de Mercado:105071836
+ Força:32
+ Velocidade:48
+ Resistência:7
+ Força de vontade:99
+ Posição: Gol
+ Machucado:Sim
+
+201/Nome:Marcos Gomes
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:1396101
+ Força:98
+ Velocidade:14
+ Resistência:6
+ Força de vontade:88
+ Posição: Gol
+ Machucado:Sim
+
+202/Nome:André Souza
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:179571570
+ Força:9
+ Velocidade:85
+ Resistência:51
+ Força de vontade:11
+ Posição: Gol
+ Machucado:Nao
+
+203/Nome:Leonardo Oliveira
+ Seleção:Espanha
+ Idade:34
+ Valor de Mercado:21858774
+ Força:6
+ Velocidade:75
+ Resistência:35
+ Força de vontade:74
+ Posição: Mei
+ Machucado:Nao
+
+204/Nome:Leonardo Souza
+ Seleção:França
+ Idade:24
+ Valor de Mercado:122837456
+ Força:70
+ Velocidade:46
+ Resistência:33
+ Força de vontade:54
+ Posição: Ata
+ Machucado:Sim
+
+205/Nome:André Nascimento
+ Seleção:Itália
+ Idade:34
+ Valor de Mercado:143756813
+ Força:78
+ Velocidade:39
+ Resistência:5
+ Força de vontade:88
+ Posição: Gol
+ Machucado:Nao
+
+206/Nome:João Pereira
+ Seleção:Inglaterra
+ Idade:37
+ Valor de Mercado:98777186
+ Força:91
+ Velocidade:65
+ Resistência:71
+ Força de vontade:2
+ Posição: Ata
+ Machucado:Nao
+
+207/Nome:André Pereira
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:56700324
+ Força:55
+ Velocidade:88
+ Resistência:48
+ Força de vontade:59
+ Posição: Ata
+ Machucado:Nao
+
+208/Nome:Marcos Almeida
+ Seleção:França
+ Idade:20
+ Valor de Mercado:109486921
+ Força:98
+ Velocidade:50
+ Resistência:5
+ Força de vontade:80
+ Posição: Mei
+ Machucado:Sim
+
+209/Nome:Marcos Gomes
+ Seleção:Argentina
+ Idade:28
+ Valor de Mercado:178579192
+ Força:25
+ Velocidade:32
+ Resistência:66
+ Força de vontade:91
+ Posição: Ata
+ Machucado:Sim
+
+210/Nome:André Almeida
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:164865568
+ Força:68
+ Velocidade:31
+ Resistência:76
+ Força de vontade:96
+ Posição: Def
+ Machucado:Sim
+
+211/Nome:Gustavo Souza
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:98325130
+ Força:88
+ Velocidade:66
+ Resistência:19
+ Força de vontade:56
+ Posição: Def
+ Machucado:Nao
+
+212/Nome:Marcos Costa
+ Seleção:Chile
+ Idade:31
+ Valor de Mercado:84476667
+ Força:4
+ Velocidade:25
+ Resistência:16
+ Força de vontade:100
+ Posição: Ata
+ Machucado:Nao
+
+213/Nome:Marcos Costa
+ Seleção:Espanha
+ Idade:24
+ Valor de Mercado:68268242
+ Força:45
+ Velocidade:35
+ Resistência:10
+ Força de vontade:54
+ Posição: Gol
+ Machucado:Nao
+
+214/Nome:Lucas Souza
+ Seleção:Alemanha
+ Idade:21
+ Valor de Mercado:128626121
+ Força:44
+ Velocidade:31
+ Resistência:27
+ Força de vontade:90
+ Posição: Gol
+ Machucado:Sim
+
+215/Nome:Gustavo Costa
+ Seleção:Inglaterra
+ Idade:32
+ Valor de Mercado:14484448
+ Força:44
+ Velocidade:34
+ Resistência:90
+ Força de vontade:93
+ Posição: Gol
+ Machucado:Nao
+
+216/Nome:Lucas Costa
+ Seleção:Itália
+ Idade:31
+ Valor de Mercado:21432477
+ Força:7
+ Velocidade:59
+ Resistência:48
+ Força de vontade:49
+ Posição: Ata
+ Machucado:Sim
+
+217/Nome:Luiz Oliveira
+ Seleção:Chile
+ Idade:35
+ Valor de Mercado:98348399
+ Força:55
+ Velocidade:59
+ Resistência:39
+ Força de vontade:17
+ Posição: Def
+ Machucado:Sim
+
+218/Nome:Pedro Pereira
+ Seleção:França
+ Idade:26
+ Valor de Mercado:46722358
+ Força:2
+ Velocidade:81
+ Resistência:63
+ Força de vontade:4
+ Posição: Gol
+ Machucado:Sim
+
+219/Nome:Felipe Costa
+ Seleção:Brasil
+ Idade:35
+ Valor de Mercado:186041004
+ Força:31
+ Velocidade:7
+ Resistência:52
+ Força de vontade:38
+ Posição: Mei
+ Machucado:Nao
+
+220/Nome:João Souza
+ Seleção:Brasil
+ Idade:30
+ Valor de Mercado:7395959
+ Força:11
+ Velocidade:41
+ Resistência:50
+ Força de vontade:74
+ Posição: Gol
+ Machucado:Nao
+
+221/Nome:Felipe Almeida
+ Seleção:França
+ Idade:36
+ Valor de Mercado:131214157
+ Força:95
+ Velocidade:42
+ Resistência:51
+ Força de vontade:100
+ Posição: Def
+ Machucado:Nao
+
+222/Nome:Marcos Ferreira
+ Seleção:Argentina
+ Idade:30
+ Valor de Mercado:49941708
+ Força:56
+ Velocidade:2
+ Resistência:40
+ Força de vontade:77
+ Posição: Mei
+ Machucado:Sim
+
+223/Nome:Lucas Gomes
+ Seleção:França
+ Idade:36
+ Valor de Mercado:64676832
+ Força:53
+ Velocidade:33
+ Resistência:70
+ Força de vontade:26
+ Posição: Gol
+ Machucado:Nao
+
+224/Nome:Marcos Costa
+ Seleção:Alemanha
+ Idade:21
+ Valor de Mercado:148695648
+ Força:6
+ Velocidade:3
+ Resistência:93
+ Força de vontade:54
+ Posição: Ata
+ Machucado:Nao
+
+225/Nome:Lucas Gomes
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:20558402
+ Força:43
+ Velocidade:90
+ Resistência:22
+ Força de vontade:35
+ Posição: Gol
+ Machucado:Sim
+
+226/Nome:Luiz Nascimento
+ Seleção:Brasil
+ Idade:27
+ Valor de Mercado:13704880
+ Força:20
+ Velocidade:67
+ Resistência:50
+ Força de vontade:19
+ Posição: Gol
+ Machucado:Nao
+
+227/Nome:Marcos Oliveira
+ Seleção:Inglaterra
+ Idade:37
+ Valor de Mercado:162940333
+ Força:49
+ Velocidade:33
+ Resistência:22
+ Força de vontade:44
+ Posição: Mei
+ Machucado:Nao
+
+228/Nome:Lucas Oliveira
+ Seleção:Itália
+ Idade:33
+ Valor de Mercado:26847445
+ Força:98
+ Velocidade:70
+ Resistência:36
+ Força de vontade:64
+ Posição: Gol
+ Machucado:Sim
+
+229/Nome:Felipe Oliveira
+ Seleção:Alemanha
+ Idade:22
+ Valor de Mercado:144491814
+ Força:65
+ Velocidade:55
+ Resistência:42
+ Força de vontade:73
+ Posição: Ata
+ Machucado:Sim
+
+230/Nome:Lucas Gomes
+ Seleção:Espanha
+ Idade:26
+ Valor de Mercado:163654191
+ Força:79
+ Velocidade:72
+ Resistência:35
+ Força de vontade:1
+ Posição: Ata
+ Machucado:Sim
+
+231/Nome:João Souza
+ Seleção:Portugal
+ Idade:32
+ Valor de Mercado:24659474
+ Força:71
+ Velocidade:90
+ Resistência:33
+ Força de vontade:6
+ Posição: Gol
+ Machucado:Nao
+
+232/Nome:João Silva
+ Seleção:Inglaterra
+ Idade:22
+ Valor de Mercado:54559245
+ Força:88
+ Velocidade:57
+ Resistência:74
+ Força de vontade:60
+ Posição: Mei
+ Machucado:Sim
+
+233/Nome:Lucas Souza
+ Seleção:Portugal
+ Idade:25
+ Valor de Mercado:74519588
+ Força:10
+ Velocidade:48
+ Resistência:6
+ Força de vontade:100
+ Posição: Def
+ Machucado:Sim
+
+234/Nome:Leonardo Nascimento
+ Seleção:Argentina
+ Idade:27
+ Valor de Mercado:47871591
+ Força:17
+ Velocidade:68
+ Resistência:46
+ Força de vontade:97
+ Posição: Mei
+ Machucado:Sim
+
+235/Nome:Rafael Pereira
+ Seleção:Argentina
+ Idade:32
+ Valor de Mercado:133151080
+ Força:58
+ Velocidade:46
+ Resistência:18
+ Força de vontade:42
+ Posição: Gol
+ Machucado:Nao
+
+236/Nome:André Nascimento
+ Seleção:Argentina
+ Idade:36
+ Valor de Mercado:85044008
+ Força:29
+ Velocidade:31
+ Resistência:37
+ Força de vontade:87
+ Posição: Def
+ Machucado:Sim
+
+237/Nome:Leonardo Silva
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:148904497
+ Força:27
+ Velocidade:36
+ Resistência:86
+ Força de vontade:15
+ Posição: Mei
+ Machucado:Nao
+
+238/Nome:Rafael Gomes
+ Seleção:Bélgica
+ Idade:26
+ Valor de Mercado:190099561
+ Força:7
+ Velocidade:2
+ Resistência:76
+ Força de vontade:41
+ Posição: Ata
+ Machucado:Nao
+
+239/Nome:Leonardo Almeida
+ Seleção:Chile
+ Idade:21
+ Valor de Mercado:25715131
+ Força:86
+ Velocidade:82
+ Resistência:1
+ Força de vontade:24
+ Posição: Def
+ Machucado:Sim
+
+240/Nome:Lucas Oliveira
+ Seleção:Brasil
+ Idade:29
+ Valor de Mercado:28640576
+ Força:66
+ Velocidade:98
+ Resistência:59
+ Força de vontade:75
+ Posição: Def
+ Machucado:Nao
+
+241/Nome:Luiz Oliveira
+ Seleção:Inglaterra
+ Idade:28
+ Valor de Mercado:145530709
+ Força:14
+ Velocidade:63
+ Resistência:81
+ Força de vontade:2
+ Posição: Gol
+ Machucado:Sim
+
+242/Nome:Felipe Silva
+ Seleção:Itália
+ Idade:33
+ Valor de Mercado:119178405
+ Força:17
+ Velocidade:11
+ Resistência:9
+ Força de vontade:99
+ Posição: Gol
+ Machucado:Nao
+
+243/Nome:Lucas Gomes
+ Seleção:Chile
+ Idade:33
+ Valor de Mercado:90058144
+ Força:89
+ Velocidade:70
+ Resistência:93
+ Força de vontade:15
+ Posição: Ata
+ Machucado:Nao
+
+244/Nome:João Ferreira
+ Seleção:Brasil
+ Idade:36
+ Valor de Mercado:22546717
+ Força:43
+ Velocidade:20
+ Resistência:100
+ Força de vontade:76
+ Posição: Ata
+ Machucado:Nao
+
+245/Nome:Pedro Santos
+ Seleção:Bélgica
+ Idade:25
+ Valor de Mercado:156655519
+ Força:90
+ Velocidade:58
+ Resistência:35
+ Força de vontade:92
+ Posição: Gol
+ Machucado:Nao
+
+246/Nome:Pedro Ferreira
+ Seleção:Chile
+ Idade:28
+ Valor de Mercado:8284653
+ Força:71
+ Velocidade:77
+ Resistência:39
+ Força de vontade:72
+ Posição: Ata
+ Machucado:Sim
+
+247/Nome:Felipe Oliveira
+ Seleção:Argentina
+ Idade:33
+ Valor de Mercado:48440570
+ Força:62
+ Velocidade:3
+ Resistência:93
+ Força de vontade:86
+ Posição: Ata
+ Machucado:Nao
+
+248/Nome:Lucas Pereira
+ Seleção:Alemanha
+ Idade:33
+ Valor de Mercado:189538861
+ Força:59
+ Velocidade:100
+ Resistência:50
+ Força de vontade:92
+ Posição: Gol
+ Machucado:Nao
+
+249/Nome:Luiz Costa
+ Seleção:Chile
+ Idade:18
+ Valor de Mercado:115007012
+ Força:29
+ Velocidade:64
+ Resistência:94
+ Força de vontade:22
+ Posição: Ata
+ Machucado:Nao
+
+250/Nome:Lucas Almeida
+ Seleção:Argentina
+ Idade:35
+ Valor de Mercado:96756225
+ Força:55
+ Velocidade:83
+ Resistência:71
+ Força de vontade:60
+ Posição: Ata
+ Machucado:Sim
+
+251/Nome:Lucas Ferreira
+ Seleção:Alemanha
+ Idade:30
+ Valor de Mercado:46487054
+ Força:86
+ Velocidade:85
+ Resistência:28
+ Força de vontade:71
+ Posição: Ata
+ Machucado:Sim
+
+252/Nome:Pedro Silva
+ Seleção:Alemanha
+ Idade:26
+ Valor de Mercado:136582560
+ Força:17
+ Velocidade:62
+ Resistência:9
+ Força de vontade:61
+ Posição: Def
+ Machucado:Nao
+
+253/Nome:Pedro Ferreira
+ Seleção:Chile
+ Idade:27
+ Valor de Mercado:76885227
+ Força:79
+ Velocidade:89
+ Resistência:28
+ Força de vontade:53
+ Posição: Def
+ Machucado:Sim
+
+254/Nome:Luiz Souza
+ Seleção:Bélgica
+ Idade:31
+ Valor de Mercado:49951
+ Força:18
+ Velocidade:44
+ Resistência:9
+ Força de vontade:81
+ Posição: Ata
+ Machucado:Sim
+
+255/Nome:Marcos Almeida
+ Seleção:Chile
+ Idade:21
+ Valor de Mercado:41360804
+ Força:80
+ Velocidade:84
+ Resistência:53
+ Força de vontade:63
+ Posição: Ata
+ Machucado:Nao
+
+256/Nome:Leonardo Santos
+ Seleção:Espanha
+ Idade:19
+ Valor de Mercado:196826674
+ Força:6
+ Velocidade:55
+ Resistência:98
+ Força de vontade:93
+ Posição: Mei
+ Machucado:Nao
+
+257/Nome:André Santos
+ Seleção:Portugal
+ Idade:28
+ Valor de Mercado:51997910
+ Força:76
+ Velocidade:83
+ Resistência:66
+ Força de vontade:82
+ Posição: Ata
+ Machucado:Sim
+
+258/Nome:João Ferreira
+ Seleção:Itália
+ Idade:29
+ Valor de Mercado:118321443
+ Força:69
+ Velocidade:46
+ Resistência:2
+ Força de vontade:67
+ Posição: Gol
+ Machucado:Nao
+
+259/Nome:Luiz Pereira
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:30513024
+ Força:12
+ Velocidade:94
+ Resistência:19
+ Força de vontade:76
+ Posição: Mei
+ Machucado:Sim
+
+260/Nome:Luiz Ferreira
+ Seleção:Portugal
+ Idade:35
+ Valor de Mercado:198836811
+ Força:61
+ Velocidade:52
+ Resistência:2
+ Força de vontade:21
+ Posição: Def
+ Machucado:Sim
+
+261/Nome:Pedro Souza
+ Seleção:Espanha
+ Idade:34
+ Valor de Mercado:37033231
+ Força:59
+ Velocidade:24
+ Resistência:1
+ Força de vontade:46
+ Posição: Mei
+ Machucado:Nao
+
+262/Nome:João Nascimento
+ Seleção:Inglaterra
+ Idade:28
+ Valor de Mercado:77329917
+ Força:65
+ Velocidade:46
+ Resistência:96
+ Força de vontade:2
+ Posição: Gol
+ Machucado:Nao
+
+263/Nome:André Souza
+ Seleção:Chile
+ Idade:26
+ Valor de Mercado:199263260
+ Força:90
+ Velocidade:81
+ Resistência:16
+ Força de vontade:3
+ Posição: Def
+ Machucado:Nao
+
+264/Nome:Felipe Santos
+ Seleção:Inglaterra
+ Idade:27
+ Valor de Mercado:140666999
+ Força:37
+ Velocidade:68
+ Resistência:71
+ Força de vontade:59
+ Posição: Gol
+ Machucado:Sim
+
+265/Nome:Lucas Souza
+ Seleção:França
+ Idade:30
+ Valor de Mercado:15899294
+ Força:8
+ Velocidade:74
+ Resistência:35
+ Força de vontade:84
+ Posição: Def
+ Machucado:Sim
+
+266/Nome:Felipe Santos
+ Seleção:Portugal
+ Idade:30
+ Valor de Mercado:80234061
+ Força:71
+ Velocidade:68
+ Resistência:30
+ Força de vontade:24
+ Posição: Def
+ Machucado:Nao
+
+267/Nome:Marcos Costa
+ Seleção:Portugal
+ Idade:26
+ Valor de Mercado:124547967
+ Força:77
+ Velocidade:59
+ Resistência:46
+ Força de vontade:71
+ Posição: Gol
+ Machucado:Sim
+
+268/Nome:Lucas Ferreira
+ Seleção:Bélgica
+ Idade:19
+ Valor de Mercado:86444013
+ Força:24
+ Velocidade:25
+ Resistência:87
+ Força de vontade:19
+ Posição: Ata
+ Machucado:Nao
+
+269/Nome:Marcos Oliveira
+ Seleção:Espanha
+ Idade:21
+ Valor de Mercado:178210527
+ Força:60
+ Velocidade:19
+ Resistência:59
+ Força de vontade:66
+ Posição: Gol
+ Machucado:Sim
+
+270/Nome:Leonardo Ferreira
+ Seleção:Espanha
+ Idade:28
+ Valor de Mercado:63040288
+ Força:23
+ Velocidade:22
+ Resistência:56
+ Força de vontade:18
+ Posição: Def
+ Machucado:Nao
+
+271/Nome:André Souza
+ Seleção:Bélgica
+ Idade:19
+ Valor de Mercado:171973672
+ Força:47
+ Velocidade:100
+ Resistência:21
+ Força de vontade:15
+ Posição: Gol
+ Machucado:Nao
+
+272/Nome:Pedro Oliveira
+ Seleção:Brasil
+ Idade:20
+ Valor de Mercado:142168337
+ Força:19
+ Velocidade:68
+ Resistência:67
+ Força de vontade:29
+ Posição: Ata
+ Machucado:Sim
+
+273/Nome:Marcos Nascimento
+ Seleção:Inglaterra
+ Idade:18
+ Valor de Mercado:179178313
+ Força:92
+ Velocidade:50
+ Resistência:21
+ Força de vontade:38
+ Posição: Gol
+ Machucado:Sim
+
+274/Nome:Leonardo Costa
+ Seleção:França
+ Idade:33
+ Valor de Mercado:175874187
+ Força:14
+ Velocidade:62
+ Resistência:12
+ Força de vontade:95
+ Posição: Gol
+ Machucado:Nao
+
+275/Nome:João Nascimento
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:69671326
+ Força:38
+ Velocidade:7
+ Resistência:69
+ Força de vontade:34
+ Posição: Ata
+ Machucado:Sim
+
+276/Nome:Felipe Santos
+ Seleção:Chile
+ Idade:30
+ Valor de Mercado:75340292
+ Força:100
+ Velocidade:3
+ Resistência:100
+ Força de vontade:20
+ Posição: Ata
+ Machucado:Nao
+
+277/Nome:Rafael Silva
+ Seleção:Itália
+ Idade:32
+ Valor de Mercado:162063459
+ Força:38
+ Velocidade:21
+ Resistência:16
+ Força de vontade:20
+ Posição: Mei
+ Machucado:Nao
+
+278/Nome:André Gomes
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:132206711
+ Força:74
+ Velocidade:62
+ Resistência:75
+ Força de vontade:87
+ Posição: Def
+ Machucado:Nao
+
+279/Nome:João Almeida
+ Seleção:Itália
+ Idade:22
+ Valor de Mercado:86737649
+ Força:67
+ Velocidade:84
+ Resistência:53
+ Força de vontade:54
+ Posição: Ata
+ Machucado:Nao
+
+280/Nome:João Silva
+ Seleção:França
+ Idade:35
+ Valor de Mercado:154669994
+ Força:78
+ Velocidade:38
+ Resistência:75
+ Força de vontade:52
+ Posição: Mei
+ Machucado:Sim
+
+281/Nome:Gustavo Pereira
+ Seleção:Brasil
+ Idade:36
+ Valor de Mercado:115446913
+ Força:17
+ Velocidade:17
+ Resistência:97
+ Força de vontade:39
+ Posição: Ata
+ Machucado:Nao
+
+282/Nome:Felipe Oliveira
+ Seleção:Portugal
+ Idade:37
+ Valor de Mercado:53723581
+ Força:98
+ Velocidade:25
+ Resistência:30
+ Força de vontade:49
+ Posição: Def
+ Machucado:Nao
+
+283/Nome:Felipe Santos
+ Seleção:Espanha
+ Idade:28
+ Valor de Mercado:91293011
+ Força:72
+ Velocidade:43
+ Resistência:87
+ Força de vontade:3
+ Posição: Mei
+ Machucado:Sim
+
+284/Nome:João Pereira
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:32987645
+ Força:4
+ Velocidade:52
+ Resistência:27
+ Força de vontade:99
+ Posição: Gol
+ Machucado:Sim
+
+285/Nome:André Oliveira
+ Seleção:Espanha
+ Idade:19
+ Valor de Mercado:80970052
+ Força:87
+ Velocidade:42
+ Resistência:57
+ Força de vontade:42
+ Posição: Ata
+ Machucado:Sim
+
+286/Nome:João Silva
+ Seleção:França
+ Idade:20
+ Valor de Mercado:95038539
+ Força:29
+ Velocidade:17
+ Resistência:90
+ Força de vontade:71
+ Posição: Def
+ Machucado:Sim
+
+287/Nome:Leonardo Almeida
+ Seleção:Portugal
+ Idade:26
+ Valor de Mercado:81215325
+ Força:94
+ Velocidade:27
+ Resistência:83
+ Força de vontade:70
+ Posição: Mei
+ Machucado:Nao
+
+288/Nome:Gustavo Gomes
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:13262556
+ Força:71
+ Velocidade:58
+ Resistência:11
+ Força de vontade:1
+ Posição: Ata
+ Machucado:Sim
+
+289/Nome:Rafael Ferreira
+ Seleção:Inglaterra
+ Idade:20
+ Valor de Mercado:88716078
+ Força:37
+ Velocidade:93
+ Resistência:92
+ Força de vontade:7
+ Posição: Mei
+ Machucado:Sim
+
+290/Nome:Luiz Oliveira
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:187335223
+ Força:78
+ Velocidade:89
+ Resistência:46
+ Força de vontade:39
+ Posição: Def
+ Machucado:Nao
+
+291/Nome:João Ferreira
+ Seleção:Chile
+ Idade:20
+ Valor de Mercado:96921040
+ Força:32
+ Velocidade:75
+ Resistência:41
+ Força de vontade:39
+ Posição: Ata
+ Machucado:Sim
+
+292/Nome:Lucas Almeida
+ Seleção:Alemanha
+ Idade:31
+ Valor de Mercado:21589482
+ Força:25
+ Velocidade:80
+ Resistência:100
+ Força de vontade:91
+ Posição: Mei
+ Machucado:Sim
+
+293/Nome:Marcos Almeida
+ Seleção:Argentina
+ Idade:20
+ Valor de Mercado:115202410
+ Força:70
+ Velocidade:53
+ Resistência:78
+ Força de vontade:31
+ Posição: Mei
+ Machucado:Sim
+
+294/Nome:Lucas Gomes
+ Seleção:Itália
+ Idade:27
+ Valor de Mercado:119904153
+ Força:46
+ Velocidade:21
+ Resistência:22
+ Força de vontade:100
+ Posição: Mei
+ Machucado:Sim
+
+295/Nome:Lucas Ferreira
+ Seleção:Itália
+ Idade:35
+ Valor de Mercado:173215009
+ Força:47
+ Velocidade:48
+ Resistência:62
+ Força de vontade:95
+ Posição: Mei
+ Machucado:Nao
+
+296/Nome:Felipe Gomes
+ Seleção:Itália
+ Idade:26
+ Valor de Mercado:164404250
+ Força:24
+ Velocidade:19
+ Resistência:56
+ Força de vontade:88
+ Posição: Mei
+ Machucado:Sim
+
+297/Nome:Luiz Santos
+ Seleção:Brasil
+ Idade:34
+ Valor de Mercado:198248170
+ Força:65
+ Velocidade:37
+ Resistência:28
+ Força de vontade:29
+ Posição: Mei
+ Machucado:Sim
+
+298/Nome:Luiz Ferreira
+ Seleção:Inglaterra
+ Idade:18
+ Valor de Mercado:178760924
+ Força:28
+ Velocidade:68
+ Resistência:9
+ Força de vontade:63
+ Posição: Def
+ Machucado:Sim
+
+299/Nome:Marcos Gomes
+ Seleção:Bélgica
+ Idade:29
+ Valor de Mercado:158277743
+ Força:65
+ Velocidade:71
+ Resistência:65
+ Força de vontade:2
+ Posição: Def
+ Machucado:Nao
+
+300/Nome:André Pereira
+ Seleção:Inglaterra
+ Idade:26
+ Valor de Mercado:144118286
+ Força:64
+ Velocidade:37
+ Resistência:8
+ Força de vontade:21
+ Posição: Mei
+ Machucado:Sim
+
+301/Nome:André Souza
+ Seleção:França
+ Idade:23
+ Valor de Mercado:68531450
+ Força:22
+ Velocidade:28
+ Resistência:36
+ Força de vontade:81
+ Posição: Ata
+ Machucado:Sim
+
+302/Nome:Pedro Costa
+ Seleção:Itália
+ Idade:23
+ Valor de Mercado:177370190
+ Força:69
+ Velocidade:59
+ Resistência:5
+ Força de vontade:35
+ Posição: Ata
+ Machucado:Sim
+
+303/Nome:André Silva
+ Seleção:Alemanha
+ Idade:31
+ Valor de Mercado:120029646
+ Força:53
+ Velocidade:54
+ Resistência:10
+ Força de vontade:89
+ Posição: Mei
+ Machucado:Sim
+
+304/Nome:Lucas Costa
+ Seleção:Argentina
+ Idade:21
+ Valor de Mercado:44680884
+ Força:30
+ Velocidade:4
+ Resistência:73
+ Força de vontade:91
+ Posição: Gol
+ Machucado:Nao
+
+305/Nome:Pedro Nascimento
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:89923859
+ Força:38
+ Velocidade:3
+ Resistência:63
+ Força de vontade:45
+ Posição: Def
+ Machucado:Sim
+
+306/Nome:Lucas Nascimento
+ Seleção:França
+ Idade:27
+ Valor de Mercado:140616811
+ Força:33
+ Velocidade:78
+ Resistência:4
+ Força de vontade:25
+ Posição: Mei
+ Machucado:Sim
+
+307/Nome:Gustavo Gomes
+ Seleção:Alemanha
+ Idade:37
+ Valor de Mercado:90791657
+ Força:16
+ Velocidade:43
+ Resistência:54
+ Força de vontade:60
+ Posição: Mei
+ Machucado:Nao
+
+308/Nome:André Pereira
+ Seleção:Alemanha
+ Idade:32
+ Valor de Mercado:134201910
+ Força:76
+ Velocidade:79
+ Resistência:84
+ Força de vontade:1
+ Posição: Gol
+ Machucado:Nao
+
+309/Nome:Pedro Oliveira
+ Seleção:Argentina
+ Idade:33
+ Valor de Mercado:71178485
+ Força:8
+ Velocidade:32
+ Resistência:65
+ Força de vontade:68
+ Posição: Gol
+ Machucado:Nao
+
+310/Nome:Leonardo Silva
+ Seleção:Espanha
+ Idade:36
+ Valor de Mercado:179350042
+ Força:81
+ Velocidade:38
+ Resistência:84
+ Força de vontade:35
+ Posição: Gol
+ Machucado:Nao
+
+311/Nome:Lucas Gomes
+ Seleção:Argentina
+ Idade:33
+ Valor de Mercado:164345545
+ Força:38
+ Velocidade:76
+ Resistência:13
+ Força de vontade:79
+ Posição: Ata
+ Machucado:Nao
+
+312/Nome:João Oliveira
+ Seleção:Inglaterra
+ Idade:28
+ Valor de Mercado:24920636
+ Força:23
+ Velocidade:58
+ Resistência:38
+ Força de vontade:94
+ Posição: Def
+ Machucado:Sim
+
+313/Nome:Leonardo Silva
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:112431787
+ Força:69
+ Velocidade:88
+ Resistência:69
+ Força de vontade:13
+ Posição: Mei
+ Machucado:Sim
+
+314/Nome:Leonardo Souza
+ Seleção:Alemanha
+ Idade:22
+ Valor de Mercado:66655438
+ Força:99
+ Velocidade:83
+ Resistência:90
+ Força de vontade:19
+ Posição: Ata
+ Machucado:Nao
+
+315/Nome:André Souza
+ Seleção:Alemanha
+ Idade:29
+ Valor de Mercado:127953917
+ Força:21
+ Velocidade:45
+ Resistência:90
+ Força de vontade:11
+ Posição: Gol
+ Machucado:Nao
+
+316/Nome:Rafael Almeida
+ Seleção:Inglaterra
+ Idade:33
+ Valor de Mercado:60043757
+ Força:48
+ Velocidade:28
+ Resistência:45
+ Força de vontade:36
+ Posição: Def
+ Machucado:Sim
+
+317/Nome:Gustavo Gomes
+ Seleção:Chile
+ Idade:24
+ Valor de Mercado:194626832
+ Força:40
+ Velocidade:38
+ Resistência:50
+ Força de vontade:86
+ Posição: Def
+ Machucado:Nao
+
+318/Nome:Gustavo Gomes
+ Seleção:Bélgica
+ Idade:27
+ Valor de Mercado:191808160
+ Força:69
+ Velocidade:52
+ Resistência:78
+ Força de vontade:9
+ Posição: Gol
+ Machucado:Nao
+
+319/Nome:Marcos Souza
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:20010440
+ Força:53
+ Velocidade:69
+ Resistência:35
+ Força de vontade:12
+ Posição: Def
+ Machucado:Sim
+
+320/Nome:Felipe Santos
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:173890244
+ Força:18
+ Velocidade:39
+ Resistência:11
+ Força de vontade:27
+ Posição: Ata
+ Machucado:Nao
+
+321/Nome:André Nascimento
+ Seleção:Espanha
+ Idade:36
+ Valor de Mercado:69165751
+ Força:65
+ Velocidade:39
+ Resistência:50
+ Força de vontade:63
+ Posição: Ata
+ Machucado:Sim
+
+322/Nome:Felipe Silva
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:71590726
+ Força:90
+ Velocidade:34
+ Resistência:16
+ Força de vontade:74
+ Posição: Mei
+ Machucado:Sim
+
+323/Nome:Felipe Gomes
+ Seleção:Bélgica
+ Idade:35
+ Valor de Mercado:172796137
+ Força:30
+ Velocidade:37
+ Resistência:97
+ Força de vontade:57
+ Posição: Ata
+ Machucado:Nao
+
+324/Nome:Felipe Oliveira
+ Seleção:Inglaterra
+ Idade:37
+ Valor de Mercado:119899061
+ Força:97
+ Velocidade:74
+ Resistência:87
+ Força de vontade:60
+ Posição: Ata
+ Machucado:Nao
+
+325/Nome:André Ferreira
+ Seleção:Argentina
+ Idade:30
+ Valor de Mercado:163315251
+ Força:91
+ Velocidade:26
+ Resistência:51
+ Força de vontade:66
+ Posição: Def
+ Machucado:Nao
+
+326/Nome:Gustavo Pereira
+ Seleção:Espanha
+ Idade:24
+ Valor de Mercado:32441959
+ Força:36
+ Velocidade:23
+ Resistência:5
+ Força de vontade:31
+ Posição: Ata
+ Machucado:Nao
+
+327/Nome:Leonardo Nascimento
+ Seleção:Bélgica
+ Idade:31
+ Valor de Mercado:21194349
+ Força:76
+ Velocidade:85
+ Resistência:46
+ Força de vontade:72
+ Posição: Gol
+ Machucado:Nao
+
+328/Nome:Lucas Souza
+ Seleção:Portugal
+ Idade:26
+ Valor de Mercado:66070827
+ Força:16
+ Velocidade:54
+ Resistência:46
+ Força de vontade:66
+ Posição: Mei
+ Machucado:Sim
+
+329/Nome:João Pereira
+ Seleção:França
+ Idade:37
+ Valor de Mercado:88955629
+ Força:36
+ Velocidade:70
+ Resistência:47
+ Força de vontade:64
+ Posição: Ata
+ Machucado:Nao
+
+330/Nome:André Oliveira
+ Seleção:Inglaterra
+ Idade:18
+ Valor de Mercado:146720107
+ Força:22
+ Velocidade:5
+ Resistência:55
+ Força de vontade:36
+ Posição: Ata
+ Machucado:Sim
+
+331/Nome:Marcos Santos
+ Seleção:Itália
+ Idade:34
+ Valor de Mercado:12872043
+ Força:82
+ Velocidade:34
+ Resistência:33
+ Força de vontade:2
+ Posição: Mei
+ Machucado:Sim
+
+332/Nome:João Ferreira
+ Seleção:França
+ Idade:37
+ Valor de Mercado:85696250
+ Força:21
+ Velocidade:84
+ Resistência:49
+ Força de vontade:95
+ Posição: Gol
+ Machucado:Nao
+
+333/Nome:Lucas Ferreira
+ Seleção:Bélgica
+ Idade:33
+ Valor de Mercado:163980524
+ Força:86
+ Velocidade:32
+ Resistência:75
+ Força de vontade:43
+ Posição: Gol
+ Machucado:Sim
+
+334/Nome:André Gomes
+ Seleção:Espanha
+ Idade:37
+ Valor de Mercado:174955934
+ Força:93
+ Velocidade:13
+ Resistência:72
+ Força de vontade:85
+ Posição: Gol
+ Machucado:Sim
+
+335/Nome:João Nascimento
+ Seleção:Brasil
+ Idade:35
+ Valor de Mercado:15676150
+ Força:51
+ Velocidade:25
+ Resistência:91
+ Força de vontade:23
+ Posição: Ata
+ Machucado:Sim
+
+336/Nome:Pedro Pereira
+ Seleção:Espanha
+ Idade:37
+ Valor de Mercado:16168425
+ Força:15
+ Velocidade:34
+ Resistência:10
+ Força de vontade:79
+ Posição: Mei
+ Machucado:Sim
+
+337/Nome:Gustavo Gomes
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:114595186
+ Força:68
+ Velocidade:67
+ Resistência:83
+ Força de vontade:68
+ Posição: Mei
+ Machucado:Nao
+
+338/Nome:Leonardo Costa
+ Seleção:Chile
+ Idade:29
+ Valor de Mercado:12126129
+ Força:40
+ Velocidade:47
+ Resistência:28
+ Força de vontade:3
+ Posição: Def
+ Machucado:Nao
+
+339/Nome:Pedro Costa
+ Seleção:Chile
+ Idade:21
+ Valor de Mercado:10126625
+ Força:60
+ Velocidade:83
+ Resistência:89
+ Força de vontade:70
+ Posição: Ata
+ Machucado:Sim
+
+340/Nome:Felipe Ferreira
+ Seleção:Bélgica
+ Idade:29
+ Valor de Mercado:80891672
+ Força:33
+ Velocidade:51
+ Resistência:48
+ Força de vontade:31
+ Posição: Mei
+ Machucado:Sim
+
+341/Nome:Lucas Silva
+ Seleção:França
+ Idade:19
+ Valor de Mercado:65937789
+ Força:62
+ Velocidade:24
+ Resistência:42
+ Força de vontade:35
+ Posição: Ata
+ Machucado:Nao
+
+342/Nome:Lucas Oliveira
+ Seleção:Espanha
+ Idade:30
+ Valor de Mercado:151486250
+ Força:47
+ Velocidade:14
+ Resistência:75
+ Força de vontade:62
+ Posição: Gol
+ Machucado:Nao
+
+343/Nome:Leonardo Silva
+ Seleção:Brasil
+ Idade:20
+ Valor de Mercado:49052260
+ Força:1
+ Velocidade:25
+ Resistência:32
+ Força de vontade:53
+ Posição: Def
+ Machucado:Sim
+
+344/Nome:Marcos Souza
+ Seleção:Portugal
+ Idade:25
+ Valor de Mercado:188372452
+ Força:57
+ Velocidade:34
+ Resistência:66
+ Força de vontade:42
+ Posição: Gol
+ Machucado:Nao
+
+345/Nome:Felipe Gomes
+ Seleção:Inglaterra
+ Idade:34
+ Valor de Mercado:65219924
+ Força:11
+ Velocidade:58
+ Resistência:55
+ Força de vontade:92
+ Posição: Ata
+ Machucado:Sim
+
+346/Nome:André Oliveira
+ Seleção:Inglaterra
+ Idade:21
+ Valor de Mercado:110651239
+ Força:8
+ Velocidade:49
+ Resistência:47
+ Força de vontade:35
+ Posição: Mei
+ Machucado:Sim
+
+347/Nome:André Santos
+ Seleção:Inglaterra
+ Idade:28
+ Valor de Mercado:91146866
+ Força:44
+ Velocidade:52
+ Resistência:86
+ Força de vontade:30
+ Posição: Def
+ Machucado:Sim
+
+348/Nome:Leonardo Almeida
+ Seleção:Itália
+ Idade:25
+ Valor de Mercado:116699107
+ Força:80
+ Velocidade:19
+ Resistência:28
+ Força de vontade:44
+ Posição: Mei
+ Machucado:Nao
+
+349/Nome:Lucas Costa
+ Seleção:França
+ Idade:36
+ Valor de Mercado:143309305
+ Força:80
+ Velocidade:65
+ Resistência:40
+ Força de vontade:54
+ Posição: Def
+ Machucado:Sim
+
+350/Nome:André Ferreira
+ Seleção:França
+ Idade:25
+ Valor de Mercado:122365279
+ Força:29
+ Velocidade:57
+ Resistência:81
+ Força de vontade:77
+ Posição: Gol
+ Machucado:Sim
+
+351/Nome:João Silva
+ Seleção:Chile
+ Idade:37
+ Valor de Mercado:170038671
+ Força:18
+ Velocidade:75
+ Resistência:86
+ Força de vontade:60
+ Posição: Def
+ Machucado:Nao
+
+352/Nome:Felipe Silva
+ Seleção:Chile
+ Idade:37
+ Valor de Mercado:37942540
+ Força:41
+ Velocidade:26
+ Resistência:7
+ Força de vontade:65
+ Posição: Gol
+ Machucado:Nao
+
+353/Nome:Marcos Nascimento
+ Seleção:Espanha
+ Idade:33
+ Valor de Mercado:132686045
+ Força:99
+ Velocidade:64
+ Resistência:19
+ Força de vontade:81
+ Posição: Gol
+ Machucado:Nao
+
+354/Nome:Pedro Silva
+ Seleção:Portugal
+ Idade:26
+ Valor de Mercado:94140670
+ Força:81
+ Velocidade:48
+ Resistência:16
+ Força de vontade:24
+ Posição: Ata
+ Machucado:Sim
+
+355/Nome:Pedro Ferreira
+ Seleção:Argentina
+ Idade:22
+ Valor de Mercado:171605936
+ Força:91
+ Velocidade:29
+ Resistência:98
+ Força de vontade:78
+ Posição: Ata
+ Machucado:Sim
+
+356/Nome:André Pereira
+ Seleção:Bélgica
+ Idade:22
+ Valor de Mercado:15787939
+ Força:50
+ Velocidade:78
+ Resistência:56
+ Força de vontade:74
+ Posição: Ata
+ Machucado:Sim
+
+357/Nome:João Gomes
+ Seleção:Brasil
+ Idade:26
+ Valor de Mercado:126546235
+ Força:37
+ Velocidade:73
+ Resistência:28
+ Força de vontade:80
+ Posição: Ata
+ Machucado:Nao
+
+358/Nome:Leonardo Santos
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:25431840
+ Força:25
+ Velocidade:32
+ Resistência:81
+ Força de vontade:59
+ Posição: Gol
+ Machucado:Sim
+
+359/Nome:Marcos Costa
+ Seleção:Espanha
+ Idade:29
+ Valor de Mercado:2983051
+ Força:3
+ Velocidade:65
+ Resistência:51
+ Força de vontade:53
+ Posição: Mei
+ Machucado:Nao
+
+360/Nome:Leonardo Almeida
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:53993156
+ Força:53
+ Velocidade:93
+ Resistência:53
+ Força de vontade:91
+ Posição: Gol
+ Machucado:Sim
+
+361/Nome:André Nascimento
+ Seleção:Portugal
+ Idade:20
+ Valor de Mercado:80814193
+ Força:38
+ Velocidade:53
+ Resistência:71
+ Força de vontade:94
+ Posição: Mei
+ Machucado:Sim
+
+362/Nome:Marcos Ferreira
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:52472901
+ Força:51
+ Velocidade:100
+ Resistência:86
+ Força de vontade:89
+ Posição: Def
+ Machucado:Sim
+
+363/Nome:Rafael Oliveira
+ Seleção:Itália
+ Idade:35
+ Valor de Mercado:61698981
+ Força:79
+ Velocidade:8
+ Resistência:38
+ Força de vontade:44
+ Posição: Def
+ Machucado:Sim
+
+364/Nome:Rafael Silva
+ Seleção:Brasil
+ Idade:35
+ Valor de Mercado:99650171
+ Força:64
+ Velocidade:84
+ Resistência:18
+ Força de vontade:60
+ Posição: Ata
+ Machucado:Nao
+
+365/Nome:Lucas Costa
+ Seleção:Portugal
+ Idade:27
+ Valor de Mercado:128429373
+ Força:41
+ Velocidade:50
+ Resistência:98
+ Força de vontade:11
+ Posição: Mei
+ Machucado:Nao
+
+366/Nome:Marcos Pereira
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:40465690
+ Força:6
+ Velocidade:58
+ Resistência:16
+ Força de vontade:5
+ Posição: Ata
+ Machucado:Sim
+
+367/Nome:Marcos Nascimento
+ Seleção:Brasil
+ Idade:30
+ Valor de Mercado:120900782
+ Força:28
+ Velocidade:24
+ Resistência:10
+ Força de vontade:83
+ Posição: Ata
+ Machucado:Nao
+
+368/Nome:Pedro Nascimento
+ Seleção:Itália
+ Idade:36
+ Valor de Mercado:84658944
+ Força:54
+ Velocidade:41
+ Resistência:59
+ Força de vontade:92
+ Posição: Ata
+ Machucado:Sim
+
+369/Nome:Pedro Costa
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:77019248
+ Força:100
+ Velocidade:73
+ Resistência:58
+ Força de vontade:87
+ Posição: Mei
+ Machucado:Sim
+
+370/Nome:Marcos Souza
+ Seleção:Chile
+ Idade:33
+ Valor de Mercado:31673605
+ Força:49
+ Velocidade:58
+ Resistência:40
+ Força de vontade:32
+ Posição: Def
+ Machucado:Nao
+
+371/Nome:Luiz Gomes
+ Seleção:Bélgica
+ Idade:31
+ Valor de Mercado:165065665
+ Força:91
+ Velocidade:86
+ Resistência:42
+ Força de vontade:32
+ Posição: Def
+ Machucado:Nao
+
+372/Nome:Pedro Oliveira
+ Seleção:França
+ Idade:21
+ Valor de Mercado:122880284
+ Força:42
+ Velocidade:2
+ Resistência:55
+ Força de vontade:98
+ Posição: Gol
+ Machucado:Sim
+
+373/Nome:Rafael Gomes
+ Seleção:Itália
+ Idade:26
+ Valor de Mercado:106738982
+ Força:37
+ Velocidade:20
+ Resistência:30
+ Força de vontade:72
+ Posição: Gol
+ Machucado:Nao
+
+374/Nome:Marcos Ferreira
+ Seleção:Alemanha
+ Idade:30
+ Valor de Mercado:178643338
+ Força:17
+ Velocidade:25
+ Resistência:35
+ Força de vontade:100
+ Posição: Def
+ Machucado:Nao
+
+375/Nome:Marcos Oliveira
+ Seleção:Argentina
+ Idade:22
+ Valor de Mercado:37120155
+ Força:89
+ Velocidade:74
+ Resistência:5
+ Força de vontade:77
+ Posição: Mei
+ Machucado:Nao
+
+376/Nome:Gustavo Ferreira
+ Seleção:Alemanha
+ Idade:26
+ Valor de Mercado:131188421
+ Força:45
+ Velocidade:32
+ Resistência:33
+ Força de vontade:51
+ Posição: Def
+ Machucado:Nao
+
+377/Nome:Luiz Almeida
+ Seleção:Portugal
+ Idade:19
+ Valor de Mercado:156036202
+ Força:10
+ Velocidade:93
+ Resistência:43
+ Força de vontade:8
+ Posição: Mei
+ Machucado:Sim
+
+378/Nome:Marcos Silva
+ Seleção:Itália
+ Idade:28
+ Valor de Mercado:185825573
+ Força:9
+ Velocidade:59
+ Resistência:87
+ Força de vontade:90
+ Posição: Ata
+ Machucado:Nao
+
+379/Nome:Leonardo Ferreira
+ Seleção:França
+ Idade:26
+ Valor de Mercado:71926223
+ Força:94
+ Velocidade:51
+ Resistência:10
+ Força de vontade:32
+ Posição: Ata
+ Machucado:Nao
+
+380/Nome:Rafael Souza
+ Seleção:Brasil
+ Idade:26
+ Valor de Mercado:199005961
+ Força:85
+ Velocidade:28
+ Resistência:37
+ Força de vontade:33
+ Posição: Gol
+ Machucado:Nao
+
+381/Nome:Leonardo Souza
+ Seleção:Alemanha
+ Idade:35
+ Valor de Mercado:18330358
+ Força:100
+ Velocidade:87
+ Resistência:90
+ Força de vontade:40
+ Posição: Gol
+ Machucado:Nao
+
+382/Nome:Felipe Silva
+ Seleção:Chile
+ Idade:24
+ Valor de Mercado:135610090
+ Força:18
+ Velocidade:30
+ Resistência:66
+ Força de vontade:57
+ Posição: Ata
+ Machucado:Nao
+
+383/Nome:André Souza
+ Seleção:Espanha
+ Idade:20
+ Valor de Mercado:189733483
+ Força:36
+ Velocidade:68
+ Resistência:53
+ Força de vontade:24
+ Posição: Ata
+ Machucado:Nao
+
+384/Nome:Lucas Souza
+ Seleção:França
+ Idade:34
+ Valor de Mercado:69791739
+ Força:53
+ Velocidade:28
+ Resistência:83
+ Força de vontade:38
+ Posição: Gol
+ Machucado:Nao
+
+385/Nome:Pedro Almeida
+ Seleção:França
+ Idade:32
+ Valor de Mercado:198353955
+ Força:78
+ Velocidade:72
+ Resistência:43
+ Força de vontade:64
+ Posição: Mei
+ Machucado:Sim
+
+386/Nome:Leonardo Ferreira
+ Seleção:França
+ Idade:35
+ Valor de Mercado:193928871
+ Força:34
+ Velocidade:22
+ Resistência:27
+ Força de vontade:39
+ Posição: Gol
+ Machucado:Nao
+
+387/Nome:Pedro Costa
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:195870125
+ Força:5
+ Velocidade:92
+ Resistência:6
+ Força de vontade:26
+ Posição: Def
+ Machucado:Nao
+
+388/Nome:Felipe Costa
+ Seleção:Chile
+ Idade:24
+ Valor de Mercado:94994774
+ Força:33
+ Velocidade:82
+ Resistência:44
+ Força de vontade:83
+ Posição: Ata
+ Machucado:Sim
+
+389/Nome:Rafael Oliveira
+ Seleção:Brasil
+ Idade:27
+ Valor de Mercado:132215813
+ Força:50
+ Velocidade:40
+ Resistência:24
+ Força de vontade:81
+ Posição: Gol
+ Machucado:Nao
+
+390/Nome:João Pereira
+ Seleção:Portugal
+ Idade:36
+ Valor de Mercado:7371184
+ Força:51
+ Velocidade:36
+ Resistência:74
+ Força de vontade:34
+ Posição: Def
+ Machucado:Sim
+
+391/Nome:Marcos Oliveira
+ Seleção:Argentina
+ Idade:26
+ Valor de Mercado:16035175
+ Força:46
+ Velocidade:91
+ Resistência:19
+ Força de vontade:46
+ Posição: Mei
+ Machucado:Sim
+
+392/Nome:Felipe Almeida
+ Seleção:Inglaterra
+ Idade:22
+ Valor de Mercado:102031846
+ Força:52
+ Velocidade:45
+ Resistência:87
+ Força de vontade:73
+ Posição: Ata
+ Machucado:Sim
+
+393/Nome:Gustavo Costa
+ Seleção:Inglaterra
+ Idade:18
+ Valor de Mercado:83998644
+ Força:42
+ Velocidade:6
+ Resistência:21
+ Força de vontade:70
+ Posição: Gol
+ Machucado:Sim
+
+394/Nome:Felipe Santos
+ Seleção:Chile
+ Idade:26
+ Valor de Mercado:47038479
+ Força:10
+ Velocidade:14
+ Resistência:86
+ Força de vontade:73
+ Posição: Def
+ Machucado:Nao
+
+395/Nome:Lucas Silva
+ Seleção:Brasil
+ Idade:22
+ Valor de Mercado:98925442
+ Força:77
+ Velocidade:77
+ Resistência:93
+ Força de vontade:57
+ Posição: Def
+ Machucado:Nao
+
+396/Nome:Felipe Pereira
+ Seleção:Bélgica
+ Idade:35
+ Valor de Mercado:78012375
+ Força:70
+ Velocidade:87
+ Resistência:57
+ Força de vontade:85
+ Posição: Def
+ Machucado:Nao
+
+397/Nome:Rafael Oliveira
+ Seleção:Inglaterra
+ Idade:22
+ Valor de Mercado:63819743
+ Força:15
+ Velocidade:57
+ Resistência:25
+ Força de vontade:59
+ Posição: Def
+ Machucado:Nao
+
+398/Nome:Pedro Costa
+ Seleção:Alemanha
+ Idade:23
+ Valor de Mercado:64742640
+ Força:9
+ Velocidade:34
+ Resistência:39
+ Força de vontade:62
+ Posição: Gol
+ Machucado:Sim
+
+399/Nome:Rafael Ferreira
+ Seleção:Argentina
+ Idade:29
+ Valor de Mercado:152036512
+ Força:91
+ Velocidade:17
+ Resistência:74
+ Força de vontade:88
+ Posição: Mei
+ Machucado:Nao
+
+400/Nome:Pedro Souza
+ Seleção:Inglaterra
+ Idade:20
+ Valor de Mercado:109305683
+ Força:71
+ Velocidade:41
+ Resistência:92
+ Força de vontade:44
+ Posição: Ata
+ Machucado:Nao
+
+401/Nome:Marcos Costa
+ Seleção:Chile
+ Idade:25
+ Valor de Mercado:146611700
+ Força:87
+ Velocidade:81
+ Resistência:11
+ Força de vontade:47
+ Posição: Ata
+ Machucado:Nao
+
+402/Nome:Marcos Silva
+ Seleção:França
+ Idade:29
+ Valor de Mercado:103768693
+ Força:75
+ Velocidade:11
+ Resistência:37
+ Força de vontade:78
+ Posição: Def
+ Machucado:Sim
+
+403/Nome:Pedro Oliveira
+ Seleção:Inglaterra
+ Idade:23
+ Valor de Mercado:129242601
+ Força:91
+ Velocidade:90
+ Resistência:91
+ Força de vontade:47
+ Posição: Gol
+ Machucado:Sim
+
+404/Nome:Rafael Pereira
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:153374599
+ Força:21
+ Velocidade:80
+ Resistência:94
+ Força de vontade:9
+ Posição: Ata
+ Machucado:Sim
+
+405/Nome:Leonardo Costa
+ Seleção:Itália
+ Idade:34
+ Valor de Mercado:118046493
+ Força:1
+ Velocidade:14
+ Resistência:72
+ Força de vontade:65
+ Posição: Mei
+ Machucado:Nao
+
+406/Nome:Lucas Silva
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:199325275
+ Força:28
+ Velocidade:99
+ Resistência:76
+ Força de vontade:86
+ Posição: Mei
+ Machucado:Nao
+
+407/Nome:André Nascimento
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:70550505
+ Força:39
+ Velocidade:76
+ Resistência:17
+ Força de vontade:10
+ Posição: Mei
+ Machucado:Nao
+
+408/Nome:Gustavo Oliveira
+ Seleção:Argentina
+ Idade:23
+ Valor de Mercado:113058038
+ Força:16
+ Velocidade:90
+ Resistência:28
+ Força de vontade:100
+ Posição: Def
+ Machucado:Nao
+
+409/Nome:André Pereira
+ Seleção:França
+ Idade:30
+ Valor de Mercado:185037151
+ Força:70
+ Velocidade:50
+ Resistência:97
+ Força de vontade:16
+ Posição: Gol
+ Machucado:Sim
+
+410/Nome:André Santos
+ Seleção:França
+ Idade:37
+ Valor de Mercado:33289142
+ Força:48
+ Velocidade:9
+ Resistência:80
+ Força de vontade:47
+ Posição: Ata
+ Machucado:Sim
+
+411/Nome:André Gomes
+ Seleção:Portugal
+ Idade:24
+ Valor de Mercado:161709348
+ Força:75
+ Velocidade:6
+ Resistência:1
+ Força de vontade:41
+ Posição: Ata
+ Machucado:Nao
+
+412/Nome:Luiz Ferreira
+ Seleção:Inglaterra
+ Idade:21
+ Valor de Mercado:108777555
+ Força:5
+ Velocidade:19
+ Resistência:4
+ Força de vontade:79
+ Posição: Mei
+ Machucado:Sim
+
+413/Nome:Leonardo Costa
+ Seleção:Brasil
+ Idade:34
+ Valor de Mercado:16070339
+ Força:93
+ Velocidade:4
+ Resistência:74
+ Força de vontade:49
+ Posição: Ata
+ Machucado:Nao
+
+414/Nome:Lucas Oliveira
+ Seleção:Argentina
+ Idade:36
+ Valor de Mercado:102178457
+ Força:34
+ Velocidade:11
+ Resistência:48
+ Força de vontade:39
+ Posição: Ata
+ Machucado:Nao
+
+415/Nome:Felipe Souza
+ Seleção:Brasil
+ Idade:20
+ Valor de Mercado:105187018
+ Força:64
+ Velocidade:81
+ Resistência:50
+ Força de vontade:82
+ Posição: Ata
+ Machucado:Sim
+
+416/Nome:João Oliveira
+ Seleção:Brasil
+ Idade:35
+ Valor de Mercado:23348900
+ Força:46
+ Velocidade:87
+ Resistência:47
+ Força de vontade:78
+ Posição: Def
+ Machucado:Nao
+
+417/Nome:Rafael Costa
+ Seleção:Itália
+ Idade:32
+ Valor de Mercado:10937910
+ Força:54
+ Velocidade:85
+ Resistência:55
+ Força de vontade:7
+ Posição: Ata
+ Machucado:Nao
+
+418/Nome:André Souza
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:148033664
+ Força:74
+ Velocidade:63
+ Resistência:6
+ Força de vontade:55
+ Posição: Gol
+ Machucado:Sim
+
+419/Nome:Felipe Souza
+ Seleção:Portugal
+ Idade:21
+ Valor de Mercado:136908883
+ Força:2
+ Velocidade:1
+ Resistência:66
+ Força de vontade:100
+ Posição: Def
+ Machucado:Sim
+
+420/Nome:Marcos Oliveira
+ Seleção:Inglaterra
+ Idade:37
+ Valor de Mercado:182084292
+ Força:34
+ Velocidade:66
+ Resistência:28
+ Força de vontade:40
+ Posição: Gol
+ Machucado:Nao
+
+421/Nome:Pedro Oliveira
+ Seleção:Chile
+ Idade:34
+ Valor de Mercado:18625180
+ Força:34
+ Velocidade:43
+ Resistência:41
+ Força de vontade:37
+ Posição: Def
+ Machucado:Sim
+
+422/Nome:Rafael Ferreira
+ Seleção:França
+ Idade:23
+ Valor de Mercado:42903843
+ Força:87
+ Velocidade:97
+ Resistência:58
+ Força de vontade:3
+ Posição: Ata
+ Machucado:Sim
+
+423/Nome:Luiz Santos
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:92155726
+ Força:37
+ Velocidade:6
+ Resistência:63
+ Força de vontade:49
+ Posição: Def
+ Machucado:Sim
+
+424/Nome:João Souza
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:68818199
+ Força:53
+ Velocidade:99
+ Resistência:20
+ Força de vontade:42
+ Posição: Gol
+ Machucado:Sim
+
+425/Nome:Pedro Ferreira
+ Seleção:Inglaterra
+ Idade:18
+ Valor de Mercado:72315284
+ Força:64
+ Velocidade:56
+ Resistência:87
+ Força de vontade:81
+ Posição: Ata
+ Machucado:Sim
+
+426/Nome:Rafael Silva
+ Seleção:Portugal
+ Idade:36
+ Valor de Mercado:4179011
+ Força:41
+ Velocidade:27
+ Resistência:32
+ Força de vontade:73
+ Posição: Mei
+ Machucado:Sim
+
+427/Nome:Rafael Pereira
+ Seleção:Inglaterra
+ Idade:26
+ Valor de Mercado:198243266
+ Força:7
+ Velocidade:30
+ Resistência:61
+ Força de vontade:70
+ Posição: Gol
+ Machucado:Sim
+
+428/Nome:Gustavo Nascimento
+ Seleção:Portugal
+ Idade:21
+ Valor de Mercado:79749851
+ Força:22
+ Velocidade:24
+ Resistência:40
+ Força de vontade:21
+ Posição: Gol
+ Machucado:Sim
+
+429/Nome:Felipe Gomes
+ Seleção:Itália
+ Idade:28
+ Valor de Mercado:109895722
+ Força:36
+ Velocidade:63
+ Resistência:30
+ Força de vontade:24
+ Posição: Gol
+ Machucado:Nao
+
+430/Nome:Rafael Santos
+ Seleção:Portugal
+ Idade:37
+ Valor de Mercado:64733067
+ Força:76
+ Velocidade:89
+ Resistência:12
+ Força de vontade:75
+ Posição: Mei
+ Machucado:Sim
+
+431/Nome:Leonardo Silva
+ Seleção:Bélgica
+ Idade:21
+ Valor de Mercado:174913086
+ Força:100
+ Velocidade:57
+ Resistência:53
+ Força de vontade:45
+ Posição: Ata
+ Machucado:Sim
+
+432/Nome:Leonardo Costa
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:84650310
+ Força:52
+ Velocidade:12
+ Resistência:9
+ Força de vontade:1
+ Posição: Gol
+ Machucado:Sim
+
+433/Nome:Marcos Almeida
+ Seleção:Portugal
+ Idade:20
+ Valor de Mercado:105119685
+ Força:30
+ Velocidade:70
+ Resistência:54
+ Força de vontade:90
+ Posição: Gol
+ Machucado:Nao
+
+434/Nome:Marcos Gomes
+ Seleção:Argentina
+ Idade:37
+ Valor de Mercado:76333622
+ Força:7
+ Velocidade:45
+ Resistência:29
+ Força de vontade:55
+ Posição: Mei
+ Machucado:Nao
+
+435/Nome:Marcos Costa
+ Seleção:Chile
+ Idade:18
+ Valor de Mercado:130642997
+ Força:99
+ Velocidade:82
+ Resistência:23
+ Força de vontade:45
+ Posição: Def
+ Machucado:Nao
+
+436/Nome:Marcos Ferreira
+ Seleção:França
+ Idade:29
+ Valor de Mercado:126824260
+ Força:57
+ Velocidade:81
+ Resistência:92
+ Força de vontade:73
+ Posição: Ata
+ Machucado:Sim
+
+437/Nome:Rafael Almeida
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:44859176
+ Força:61
+ Velocidade:89
+ Resistência:74
+ Força de vontade:90
+ Posição: Gol
+ Machucado:Sim
+
+438/Nome:Marcos Costa
+ Seleção:Portugal
+ Idade:36
+ Valor de Mercado:190732382
+ Força:78
+ Velocidade:75
+ Resistência:84
+ Força de vontade:45
+ Posição: Def
+ Machucado:Nao
+
+439/Nome:André Nascimento
+ Seleção:Inglaterra
+ Idade:22
+ Valor de Mercado:121234807
+ Força:30
+ Velocidade:77
+ Resistência:41
+ Força de vontade:87
+ Posição: Ata
+ Machucado:Sim
+
+440/Nome:João Gomes
+ Seleção:Chile
+ Idade:29
+ Valor de Mercado:60286077
+ Força:74
+ Velocidade:73
+ Resistência:47
+ Força de vontade:80
+ Posição: Def
+ Machucado:Nao
+
+441/Nome:Rafael Nascimento
+ Seleção:Brasil
+ Idade:22
+ Valor de Mercado:29641056
+ Força:66
+ Velocidade:9
+ Resistência:93
+ Força de vontade:40
+ Posição: Def
+ Machucado:Nao
+
+442/Nome:João Nascimento
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:165516192
+ Força:20
+ Velocidade:45
+ Resistência:97
+ Força de vontade:92
+ Posição: Gol
+ Machucado:Sim
+
+443/Nome:Luiz Santos
+ Seleção:Argentina
+ Idade:22
+ Valor de Mercado:60624470
+ Força:9
+ Velocidade:97
+ Resistência:74
+ Força de vontade:8
+ Posição: Mei
+ Machucado:Nao
+
+444/Nome:Luiz Costa
+ Seleção:França
+ Idade:32
+ Valor de Mercado:82896408
+ Força:4
+ Velocidade:46
+ Resistência:17
+ Força de vontade:76
+ Posição: Ata
+ Machucado:Nao
+
+445/Nome:João Almeida
+ Seleção:Argentina
+ Idade:24
+ Valor de Mercado:140655525
+ Força:21
+ Velocidade:71
+ Resistência:93
+ Força de vontade:6
+ Posição: Gol
+ Machucado:Sim
+
+446/Nome:João Costa
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:116502922
+ Força:86
+ Velocidade:88
+ Resistência:6
+ Força de vontade:41
+ Posição: Mei
+ Machucado:Nao
+
+447/Nome:Lucas Santos
+ Seleção:Brasil
+ Idade:33
+ Valor de Mercado:17338976
+ Força:29
+ Velocidade:83
+ Resistência:52
+ Força de vontade:61
+ Posição: Ata
+ Machucado:Sim
+
+448/Nome:Felipe Oliveira
+ Seleção:Brasil
+ Idade:23
+ Valor de Mercado:184327586
+ Força:53
+ Velocidade:64
+ Resistência:48
+ Força de vontade:43
+ Posição: Gol
+ Machucado:Nao
+
+449/Nome:Felipe Pereira
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:142312101
+ Força:1
+ Velocidade:33
+ Resistência:78
+ Força de vontade:6
+ Posição: Mei
+ Machucado:Sim
+
+450/Nome:João Nascimento
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:15602973
+ Força:93
+ Velocidade:7
+ Resistência:64
+ Força de vontade:76
+ Posição: Ata
+ Machucado:Sim
+
+451/Nome:Gustavo Souza
+ Seleção:Espanha
+ Idade:26
+ Valor de Mercado:75321712
+ Força:65
+ Velocidade:84
+ Resistência:95
+ Força de vontade:91
+ Posição: Def
+ Machucado:Nao
+
+452/Nome:Leonardo Almeida
+ Seleção:Bélgica
+ Idade:36
+ Valor de Mercado:11952314
+ Força:40
+ Velocidade:96
+ Resistência:51
+ Força de vontade:52
+ Posição: Def
+ Machucado:Nao
+
+453/Nome:Pedro Ferreira
+ Seleção:Inglaterra
+ Idade:22
+ Valor de Mercado:166449217
+ Força:82
+ Velocidade:61
+ Resistência:9
+ Força de vontade:13
+ Posição: Mei
+ Machucado:Sim
+
+454/Nome:Rafael Costa
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:132520671
+ Força:17
+ Velocidade:37
+ Resistência:62
+ Força de vontade:77
+ Posição: Gol
+ Machucado:Sim
+
+455/Nome:André Gomes
+ Seleção:Chile
+ Idade:27
+ Valor de Mercado:134677858
+ Força:59
+ Velocidade:81
+ Resistência:72
+ Força de vontade:52
+ Posição: Ata
+ Machucado:Nao
+
+456/Nome:Pedro Gomes
+ Seleção:Chile
+ Idade:29
+ Valor de Mercado:80143121
+ Força:60
+ Velocidade:65
+ Resistência:70
+ Força de vontade:17
+ Posição: Def
+ Machucado:Nao
+
+457/Nome:Leonardo Gomes
+ Seleção:França
+ Idade:24
+ Valor de Mercado:36220527
+ Força:95
+ Velocidade:83
+ Resistência:2
+ Força de vontade:90
+ Posição: Ata
+ Machucado:Nao
+
+458/Nome:Marcos Nascimento
+ Seleção:Portugal
+ Idade:34
+ Valor de Mercado:118097982
+ Força:99
+ Velocidade:60
+ Resistência:8
+ Força de vontade:80
+ Posição: Def
+ Machucado:Sim
+
+459/Nome:Leonardo Silva
+ Seleção:Brasil
+ Idade:27
+ Valor de Mercado:126079245
+ Força:60
+ Velocidade:58
+ Resistência:91
+ Força de vontade:70
+ Posição: Def
+ Machucado:Nao
+
+460/Nome:Lucas Santos
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:70270288
+ Força:63
+ Velocidade:35
+ Resistência:61
+ Força de vontade:80
+ Posição: Def
+ Machucado:Nao
+
+461/Nome:André Souza
+ Seleção:Inglaterra
+ Idade:22
+ Valor de Mercado:125146051
+ Força:56
+ Velocidade:36
+ Resistência:82
+ Força de vontade:76
+ Posição: Gol
+ Machucado:Sim
+
+462/Nome:André Almeida
+ Seleção:França
+ Idade:35
+ Valor de Mercado:27396668
+ Força:2
+ Velocidade:47
+ Resistência:16
+ Força de vontade:36
+ Posição: Mei
+ Machucado:Nao
+
+463/Nome:Pedro Almeida
+ Seleção:França
+ Idade:37
+ Valor de Mercado:151776081
+ Força:74
+ Velocidade:91
+ Resistência:66
+ Força de vontade:88
+ Posição: Ata
+ Machucado:Nao
+
+464/Nome:Rafael Almeida
+ Seleção:França
+ Idade:20
+ Valor de Mercado:191212040
+ Força:95
+ Velocidade:19
+ Resistência:10
+ Força de vontade:9
+ Posição: Gol
+ Machucado:Sim
+
+465/Nome:Leonardo Costa
+ Seleção:Inglaterra
+ Idade:30
+ Valor de Mercado:56803411
+ Força:4
+ Velocidade:9
+ Resistência:61
+ Força de vontade:25
+ Posição: Gol
+ Machucado:Nao
+
+466/Nome:Rafael Nascimento
+ Seleção:França
+ Idade:29
+ Valor de Mercado:66042407
+ Força:59
+ Velocidade:51
+ Resistência:56
+ Força de vontade:69
+ Posição: Gol
+ Machucado:Nao
+
+467/Nome:João Costa
+ Seleção:Brasil
+ Idade:21
+ Valor de Mercado:102686098
+ Força:62
+ Velocidade:32
+ Resistência:35
+ Força de vontade:30
+ Posição: Gol
+ Machucado:Sim
+
+468/Nome:Marcos Nascimento
+ Seleção:Espanha
+ Idade:19
+ Valor de Mercado:21321982
+ Força:71
+ Velocidade:98
+ Resistência:88
+ Força de vontade:30
+ Posição: Mei
+ Machucado:Sim
+
+469/Nome:André Silva
+ Seleção:França
+ Idade:27
+ Valor de Mercado:175044800
+ Força:67
+ Velocidade:98
+ Resistência:39
+ Força de vontade:27
+ Posição: Mei
+ Machucado:Nao
+
+470/Nome:Gustavo Gomes
+ Seleção:Espanha
+ Idade:30
+ Valor de Mercado:151393584
+ Força:4
+ Velocidade:22
+ Resistência:87
+ Força de vontade:3
+ Posição: Def
+ Machucado:Sim
+
+471/Nome:João Costa
+ Seleção:Portugal
+ Idade:19
+ Valor de Mercado:146402909
+ Força:83
+ Velocidade:12
+ Resistência:97
+ Força de vontade:87
+ Posição: Gol
+ Machucado:Nao
+
+472/Nome:André Costa
+ Seleção:Portugal
+ Idade:34
+ Valor de Mercado:29443459
+ Força:34
+ Velocidade:95
+ Resistência:38
+ Força de vontade:5
+ Posição: Mei
+ Machucado:Nao
+
+473/Nome:João Pereira
+ Seleção:Itália
+ Idade:35
+ Valor de Mercado:52425990
+ Força:13
+ Velocidade:80
+ Resistência:82
+ Força de vontade:74
+ Posição: Def
+ Machucado:Nao
+
+474/Nome:Felipe Gomes
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:69963735
+ Força:52
+ Velocidade:42
+ Resistência:18
+ Força de vontade:47
+ Posição: Gol
+ Machucado:Nao
+
+475/Nome:Gustavo Oliveira
+ Seleção:França
+ Idade:36
+ Valor de Mercado:172618053
+ Força:81
+ Velocidade:36
+ Resistência:31
+ Força de vontade:24
+ Posição: Mei
+ Machucado:Sim
+
+476/Nome:Rafael Costa
+ Seleção:Espanha
+ Idade:20
+ Valor de Mercado:9327918
+ Força:20
+ Velocidade:88
+ Resistência:62
+ Força de vontade:65
+ Posição: Mei
+ Machucado:Nao
+
+477/Nome:Felipe Costa
+ Seleção:França
+ Idade:29
+ Valor de Mercado:142330450
+ Força:39
+ Velocidade:70
+ Resistência:94
+ Força de vontade:70
+ Posição: Def
+ Machucado:Nao
+
+478/Nome:Pedro Ferreira
+ Seleção:Inglaterra
+ Idade:23
+ Valor de Mercado:130388927
+ Força:87
+ Velocidade:69
+ Resistência:89
+ Força de vontade:86
+ Posição: Gol
+ Machucado:Sim
+
+479/Nome:Rafael Almeida
+ Seleção:Portugal
+ Idade:24
+ Valor de Mercado:81501518
+ Força:7
+ Velocidade:11
+ Resistência:26
+ Força de vontade:92
+ Posição: Ata
+ Machucado:Nao
+
+480/Nome:Rafael Ferreira
+ Seleção:Espanha
+ Idade:20
+ Valor de Mercado:96561322
+ Força:83
+ Velocidade:25
+ Resistência:37
+ Força de vontade:87
+ Posição: Def
+ Machucado:Sim
+
+481/Nome:João Ferreira
+ Seleção:Brasil
+ Idade:19
+ Valor de Mercado:130169553
+ Força:49
+ Velocidade:19
+ Resistência:24
+ Força de vontade:76
+ Posição: Def
+ Machucado:Sim
+
+482/Nome:André Silva
+ Seleção:Alemanha
+ Idade:36
+ Valor de Mercado:155812602
+ Força:51
+ Velocidade:23
+ Resistência:85
+ Força de vontade:38
+ Posição: Ata
+ Machucado:Nao
+
+483/Nome:Rafael Nascimento
+ Seleção:Bélgica
+ Idade:27
+ Valor de Mercado:30136065
+ Força:48
+ Velocidade:96
+ Resistência:54
+ Força de vontade:28
+ Posição: Def
+ Machucado:Sim
+
+484/Nome:Gustavo Nascimento
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:15484589
+ Força:68
+ Velocidade:12
+ Resistência:36
+ Força de vontade:23
+ Posição: Ata
+ Machucado:Sim
+
+485/Nome:Marcos Nascimento
+ Seleção:Chile
+ Idade:35
+ Valor de Mercado:107017488
+ Força:13
+ Velocidade:88
+ Resistência:76
+ Força de vontade:2
+ Posição: Mei
+ Machucado:Sim
+
+486/Nome:Leonardo Silva
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:94979671
+ Força:39
+ Velocidade:88
+ Resistência:62
+ Força de vontade:78
+ Posição: Ata
+ Machucado:Sim
+
+487/Nome:André Ferreira
+ Seleção:Portugal
+ Idade:27
+ Valor de Mercado:74387426
+ Força:61
+ Velocidade:64
+ Resistência:63
+ Força de vontade:40
+ Posição: Mei
+ Machucado:Sim
+
+488/Nome:Marcos Nascimento
+ Seleção:Portugal
+ Idade:30
+ Valor de Mercado:108066347
+ Força:93
+ Velocidade:34
+ Resistência:14
+ Força de vontade:61
+ Posição: Gol
+ Machucado:Sim
+
+489/Nome:Marcos Almeida
+ Seleção:Bélgica
+ Idade:33
+ Valor de Mercado:182575392
+ Força:73
+ Velocidade:14
+ Resistência:20
+ Força de vontade:57
+ Posição: Def
+ Machucado:Sim
+
+490/Nome:Pedro Pereira
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:195272240
+ Força:22
+ Velocidade:86
+ Resistência:3
+ Força de vontade:99
+ Posição: Gol
+ Machucado:Nao
+
+491/Nome:Lucas Almeida
+ Seleção:França
+ Idade:37
+ Valor de Mercado:21545422
+ Força:75
+ Velocidade:72
+ Resistência:69
+ Força de vontade:64
+ Posição: Def
+ Machucado:Nao
+
+492/Nome:Marcos Ferreira
+ Seleção:Chile
+ Idade:33
+ Valor de Mercado:165419316
+ Força:38
+ Velocidade:4
+ Resistência:56
+ Força de vontade:72
+ Posição: Ata
+ Machucado:Sim
+
+493/Nome:Lucas Silva
+ Seleção:Itália
+ Idade:22
+ Valor de Mercado:54864821
+ Força:27
+ Velocidade:3
+ Resistência:27
+ Força de vontade:42
+ Posição: Gol
+ Machucado:Nao
+
+494/Nome:Felipe Ferreira
+ Seleção:Chile
+ Idade:35
+ Valor de Mercado:45559899
+ Força:7
+ Velocidade:93
+ Resistência:68
+ Força de vontade:33
+ Posição: Gol
+ Machucado:Nao
+
+495/Nome:João Oliveira
+ Seleção:Bélgica
+ Idade:30
+ Valor de Mercado:194185917
+ Força:95
+ Velocidade:16
+ Resistência:7
+ Força de vontade:79
+ Posição: Def
+ Machucado:Sim
+
+496/Nome:João Pereira
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:96449604
+ Força:91
+ Velocidade:23
+ Resistência:26
+ Força de vontade:55
+ Posição: Mei
+ Machucado:Sim
+
+497/Nome:Felipe Pereira
+ Seleção:Itália
+ Idade:20
+ Valor de Mercado:152626897
+ Força:24
+ Velocidade:88
+ Resistência:65
+ Força de vontade:46
+ Posição: Def
+ Machucado:Sim
+
+498/Nome:Rafael Pereira
+ Seleção:Itália
+ Idade:29
+ Valor de Mercado:175636850
+ Força:2
+ Velocidade:62
+ Resistência:49
+ Força de vontade:44
+ Posição: Mei
+ Machucado:Sim
+
+499/Nome:João Nascimento
+ Seleção:Inglaterra
+ Idade:36
+ Valor de Mercado:21775471
+ Força:32
+ Velocidade:5
+ Resistência:100
+ Força de vontade:37
+ Posição: Def
+ Machucado:Sim
+
+500/Nome:Luiz Silva
+ Seleção:Itália
+ Idade:33
+ Valor de Mercado:31720037
+ Força:19
+ Velocidade:61
+ Resistência:80
+ Força de vontade:97
+ Posição: Mei
+ Machucado:Sim
+
+501/Nome:André Silva
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:119445441
+ Força:13
+ Velocidade:88
+ Resistência:58
+ Força de vontade:15
+ Posição: Gol
+ Machucado:Nao
+
+502/Nome:Marcos Silva
+ Seleção:Bélgica
+ Idade:29
+ Valor de Mercado:36039948
+ Força:30
+ Velocidade:88
+ Resistência:97
+ Força de vontade:87
+ Posição: Gol
+ Machucado:Sim
+
+503/Nome:Gustavo Silva
+ Seleção:Inglaterra
+ Idade:37
+ Valor de Mercado:168510906
+ Força:69
+ Velocidade:8
+ Resistência:4
+ Força de vontade:83
+ Posição: Mei
+ Machucado:Nao
+
+504/Nome:Felipe Gomes
+ Seleção:Portugal
+ Idade:28
+ Valor de Mercado:188838532
+ Força:83
+ Velocidade:77
+ Resistência:79
+ Força de vontade:42
+ Posição: Def
+ Machucado:Nao
+
+505/Nome:Felipe Silva
+ Seleção:Alemanha
+ Idade:37
+ Valor de Mercado:12285386
+ Força:21
+ Velocidade:86
+ Resistência:66
+ Força de vontade:72
+ Posição: Ata
+ Machucado:Sim
+
+506/Nome:Pedro Costa
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:35595396
+ Força:74
+ Velocidade:62
+ Resistência:46
+ Força de vontade:57
+ Posição: Def
+ Machucado:Sim
+
+507/Nome:Leonardo Santos
+ Seleção:Brasil
+ Idade:34
+ Valor de Mercado:38284397
+ Força:2
+ Velocidade:10
+ Resistência:94
+ Força de vontade:25
+ Posição: Def
+ Machucado:Nao
+
+508/Nome:Lucas Nascimento
+ Seleção:Chile
+ Idade:37
+ Valor de Mercado:35156068
+ Força:96
+ Velocidade:91
+ Resistência:47
+ Força de vontade:7
+ Posição: Ata
+ Machucado:Nao
+
+509/Nome:Luiz Souza
+ Seleção:Alemanha
+ Idade:27
+ Valor de Mercado:139769291
+ Força:30
+ Velocidade:6
+ Resistência:51
+ Força de vontade:20
+ Posição: Def
+ Machucado:Sim
+
+510/Nome:Lucas Ferreira
+ Seleção:França
+ Idade:21
+ Valor de Mercado:44614116
+ Força:16
+ Velocidade:68
+ Resistência:48
+ Força de vontade:60
+ Posição: Ata
+ Machucado:Nao
+
+511/Nome:Leonardo Gomes
+ Seleção:Espanha
+ Idade:23
+ Valor de Mercado:41696228
+ Força:46
+ Velocidade:93
+ Resistência:31
+ Força de vontade:82
+ Posição: Mei
+ Machucado:Sim
+
+512/Nome:Lucas Pereira
+ Seleção:Alemanha
+ Idade:23
+ Valor de Mercado:67472826
+ Força:6
+ Velocidade:66
+ Resistência:66
+ Força de vontade:30
+ Posição: Def
+ Machucado:Sim
+
+513/Nome:André Santos
+ Seleção:Argentina
+ Idade:36
+ Valor de Mercado:118936121
+ Força:41
+ Velocidade:78
+ Resistência:88
+ Força de vontade:19
+ Posição: Mei
+ Machucado:Nao
+
+514/Nome:Luiz Nascimento
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:43563797
+ Força:37
+ Velocidade:97
+ Resistência:18
+ Força de vontade:49
+ Posição: Def
+ Machucado:Nao
+
+515/Nome:Leonardo Santos
+ Seleção:Itália
+ Idade:27
+ Valor de Mercado:181986975
+ Força:83
+ Velocidade:39
+ Resistência:87
+ Força de vontade:7
+ Posição: Mei
+ Machucado:Sim
+
+516/Nome:Leonardo Costa
+ Seleção:França
+ Idade:29
+ Valor de Mercado:11300789
+ Força:49
+ Velocidade:62
+ Resistência:9
+ Força de vontade:75
+ Posição: Ata
+ Machucado:Nao
+
+517/Nome:Felipe Silva
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:183751090
+ Força:80
+ Velocidade:66
+ Resistência:55
+ Força de vontade:70
+ Posição: Mei
+ Machucado:Nao
+
+518/Nome:André Pereira
+ Seleção:França
+ Idade:26
+ Valor de Mercado:69114468
+ Força:78
+ Velocidade:75
+ Resistência:10
+ Força de vontade:18
+ Posição: Def
+ Machucado:Sim
+
+519/Nome:Pedro Gomes
+ Seleção:Argentina
+ Idade:25
+ Valor de Mercado:127934430
+ Força:71
+ Velocidade:54
+ Resistência:62
+ Força de vontade:85
+ Posição: Gol
+ Machucado:Nao
+
+520/Nome:Luiz Gomes
+ Seleção:Espanha
+ Idade:28
+ Valor de Mercado:190880118
+ Força:52
+ Velocidade:100
+ Resistência:88
+ Força de vontade:69
+ Posição: Def
+ Machucado:Nao
+
+521/Nome:Marcos Costa
+ Seleção:Itália
+ Idade:27
+ Valor de Mercado:61571428
+ Força:47
+ Velocidade:7
+ Resistência:6
+ Força de vontade:68
+ Posição: Def
+ Machucado:Nao
+
+522/Nome:André Costa
+ Seleção:Inglaterra
+ Idade:29
+ Valor de Mercado:148005269
+ Força:18
+ Velocidade:88
+ Resistência:55
+ Força de vontade:73
+ Posição: Gol
+ Machucado:Nao
+
+523/Nome:Luiz Santos
+ Seleção:Inglaterra
+ Idade:22
+ Valor de Mercado:24572015
+ Força:14
+ Velocidade:93
+ Resistência:54
+ Força de vontade:82
+ Posição: Gol
+ Machucado:Sim
+
+524/Nome:Marcos Souza
+ Seleção:Inglaterra
+ Idade:30
+ Valor de Mercado:60255551
+ Força:93
+ Velocidade:32
+ Resistência:37
+ Força de vontade:19
+ Posição: Def
+ Machucado:Sim
+
+525/Nome:Lucas Pereira
+ Seleção:França
+ Idade:29
+ Valor de Mercado:154593651
+ Força:76
+ Velocidade:16
+ Resistência:90
+ Força de vontade:84
+ Posição: Ata
+ Machucado:Sim
+
+526/Nome:Luiz Costa
+ Seleção:Argentina
+ Idade:32
+ Valor de Mercado:33504957
+ Força:26
+ Velocidade:56
+ Resistência:62
+ Força de vontade:33
+ Posição: Gol
+ Machucado:Sim
+
+527/Nome:Marcos Gomes
+ Seleção:Espanha
+ Idade:20
+ Valor de Mercado:118187716
+ Força:47
+ Velocidade:81
+ Resistência:29
+ Força de vontade:99
+ Posição: Def
+ Machucado:Nao
+
+528/Nome:Lucas Ferreira
+ Seleção:Portugal
+ Idade:25
+ Valor de Mercado:178091916
+ Força:85
+ Velocidade:83
+ Resistência:5
+ Força de vontade:42
+ Posição: Def
+ Machucado:Sim
+
+529/Nome:Gustavo Almeida
+ Seleção:Inglaterra
+ Idade:29
+ Valor de Mercado:74554677
+ Força:40
+ Velocidade:76
+ Resistência:51
+ Força de vontade:98
+ Posição: Def
+ Machucado:Nao
+
+530/Nome:Leonardo Souza
+ Seleção:Inglaterra
+ Idade:30
+ Valor de Mercado:20574692
+ Força:38
+ Velocidade:4
+ Resistência:100
+ Força de vontade:82
+ Posição: Gol
+ Machucado:Nao
+
+531/Nome:Leonardo Souza
+ Seleção:Espanha
+ Idade:30
+ Valor de Mercado:108505709
+ Força:74
+ Velocidade:54
+ Resistência:53
+ Força de vontade:43
+ Posição: Mei
+ Machucado:Nao
+
+532/Nome:André Silva
+ Seleção:França
+ Idade:29
+ Valor de Mercado:162474988
+ Força:2
+ Velocidade:9
+ Resistência:87
+ Força de vontade:90
+ Posição: Def
+ Machucado:Sim
+
+533/Nome:Marcos Gomes
+ Seleção:Chile
+ Idade:33
+ Valor de Mercado:193613674
+ Força:38
+ Velocidade:17
+ Resistência:2
+ Força de vontade:39
+ Posição: Ata
+ Machucado:Nao
+
+534/Nome:Leonardo Nascimento
+ Seleção:Espanha
+ Idade:18
+ Valor de Mercado:21534661
+ Força:42
+ Velocidade:24
+ Resistência:32
+ Força de vontade:16
+ Posição: Gol
+ Machucado:Sim
+
+535/Nome:Luiz Souza
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:180248267
+ Força:72
+ Velocidade:62
+ Resistência:35
+ Força de vontade:18
+ Posição: Ata
+ Machucado:Nao
+
+536/Nome:Marcos Souza
+ Seleção:Argentina
+ Idade:23
+ Valor de Mercado:9501462
+ Força:35
+ Velocidade:84
+ Resistência:7
+ Força de vontade:63
+ Posição: Mei
+ Machucado:Nao
+
+537/Nome:André Santos
+ Seleção:Portugal
+ Idade:22
+ Valor de Mercado:105652246
+ Força:60
+ Velocidade:13
+ Resistência:42
+ Força de vontade:5
+ Posição: Ata
+ Machucado:Sim
+
+538/Nome:João Costa
+ Seleção:Chile
+ Idade:19
+ Valor de Mercado:132595612
+ Força:3
+ Velocidade:31
+ Resistência:24
+ Força de vontade:61
+ Posição: Mei
+ Machucado:Sim
+
+539/Nome:João Oliveira
+ Seleção:Argentina
+ Idade:25
+ Valor de Mercado:76176719
+ Força:40
+ Velocidade:42
+ Resistência:63
+ Força de vontade:54
+ Posição: Gol
+ Machucado:Sim
+
+540/Nome:Luiz Santos
+ Seleção:França
+ Idade:18
+ Valor de Mercado:166741352
+ Força:25
+ Velocidade:97
+ Resistência:84
+ Força de vontade:26
+ Posição: Gol
+ Machucado:Sim
+
+541/Nome:Felipe Oliveira
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:159368881
+ Força:22
+ Velocidade:9
+ Resistência:20
+ Força de vontade:44
+ Posição: Mei
+ Machucado:Nao
+
+542/Nome:Felipe Almeida
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:28478773
+ Força:86
+ Velocidade:73
+ Resistência:70
+ Força de vontade:71
+ Posição: Gol
+ Machucado:Nao
+
+543/Nome:Gustavo Oliveira
+ Seleção:Argentina
+ Idade:35
+ Valor de Mercado:35394693
+ Força:46
+ Velocidade:3
+ Resistência:31
+ Força de vontade:31
+ Posição: Def
+ Machucado:Nao
+
+544/Nome:Felipe Gomes
+ Seleção:Itália
+ Idade:19
+ Valor de Mercado:70367555
+ Força:86
+ Velocidade:45
+ Resistência:9
+ Força de vontade:90
+ Posição: Ata
+ Machucado:Nao
+
+545/Nome:João Ferreira
+ Seleção:Alemanha
+ Idade:27
+ Valor de Mercado:171873362
+ Força:35
+ Velocidade:20
+ Resistência:68
+ Força de vontade:44
+ Posição: Mei
+ Machucado:Nao
+
+546/Nome:André Nascimento
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:26040056
+ Força:40
+ Velocidade:86
+ Resistência:4
+ Força de vontade:73
+ Posição: Def
+ Machucado:Sim
+
+547/Nome:João Gomes
+ Seleção:Portugal
+ Idade:22
+ Valor de Mercado:152669514
+ Força:14
+ Velocidade:14
+ Resistência:86
+ Força de vontade:54
+ Posição: Mei
+ Machucado:Nao
+
+548/Nome:Luiz Gomes
+ Seleção:Espanha
+ Idade:30
+ Valor de Mercado:135690649
+ Força:57
+ Velocidade:49
+ Resistência:74
+ Força de vontade:21
+ Posição: Mei
+ Machucado:Nao
+
+549/Nome:André Costa
+ Seleção:Brasil
+ Idade:19
+ Valor de Mercado:174303397
+ Força:87
+ Velocidade:94
+ Resistência:63
+ Força de vontade:37
+ Posição: Gol
+ Machucado:Nao
+
+550/Nome:Lucas Pereira
+ Seleção:Inglaterra
+ Idade:37
+ Valor de Mercado:49873073
+ Força:84
+ Velocidade:14
+ Resistência:3
+ Força de vontade:60
+ Posição: Gol
+ Machucado:Sim
+
+551/Nome:João Gomes
+ Seleção:Bélgica
+ Idade:35
+ Valor de Mercado:43427588
+ Força:3
+ Velocidade:78
+ Resistência:94
+ Força de vontade:29
+ Posição: Gol
+ Machucado:Nao
+
+552/Nome:Luiz Costa
+ Seleção:Argentina
+ Idade:35
+ Valor de Mercado:81512425
+ Força:17
+ Velocidade:34
+ Resistência:10
+ Força de vontade:1
+ Posição: Gol
+ Machucado:Nao
+
+553/Nome:Gustavo Souza
+ Seleção:Argentina
+ Idade:28
+ Valor de Mercado:42713704
+ Força:97
+ Velocidade:42
+ Resistência:88
+ Força de vontade:77
+ Posição: Ata
+ Machucado:Nao
+
+554/Nome:Rafael Nascimento
+ Seleção:Portugal
+ Idade:29
+ Valor de Mercado:197402528
+ Força:10
+ Velocidade:41
+ Resistência:88
+ Força de vontade:67
+ Posição: Mei
+ Machucado:Nao
+
+555/Nome:Gustavo Santos
+ Seleção:Itália
+ Idade:27
+ Valor de Mercado:34247833
+ Força:55
+ Velocidade:91
+ Resistência:14
+ Força de vontade:76
+ Posição: Gol
+ Machucado:Nao
+
+556/Nome:Lucas Gomes
+ Seleção:Inglaterra
+ Idade:32
+ Valor de Mercado:61912811
+ Força:96
+ Velocidade:44
+ Resistência:6
+ Força de vontade:24
+ Posição: Mei
+ Machucado:Sim
+
+557/Nome:Felipe Gomes
+ Seleção:Alemanha
+ Idade:37
+ Valor de Mercado:58271204
+ Força:23
+ Velocidade:67
+ Resistência:56
+ Força de vontade:42
+ Posição: Gol
+ Machucado:Sim
+
+558/Nome:Luiz Souza
+ Seleção:Chile
+ Idade:30
+ Valor de Mercado:7246270
+ Força:54
+ Velocidade:68
+ Resistência:60
+ Força de vontade:6
+ Posição: Gol
+ Machucado:Nao
+
+559/Nome:Gustavo Oliveira
+ Seleção:Alemanha
+ Idade:19
+ Valor de Mercado:133763447
+ Força:99
+ Velocidade:85
+ Resistência:100
+ Força de vontade:54
+ Posição: Gol
+ Machucado:Nao
+
+560/Nome:Felipe Nascimento
+ Seleção:Bélgica
+ Idade:37
+ Valor de Mercado:195399592
+ Força:75
+ Velocidade:2
+ Resistência:32
+ Força de vontade:30
+ Posição: Mei
+ Machucado:Sim
+
+561/Nome:Pedro Silva
+ Seleção:Argentina
+ Idade:21
+ Valor de Mercado:50592598
+ Força:94
+ Velocidade:82
+ Resistência:37
+ Força de vontade:23
+ Posição: Ata
+ Machucado:Nao
+
+562/Nome:Lucas Almeida
+ Seleção:Bélgica
+ Idade:31
+ Valor de Mercado:5264591
+ Força:91
+ Velocidade:20
+ Resistência:67
+ Força de vontade:7
+ Posição: Ata
+ Machucado:Sim
+
+563/Nome:Lucas Almeida
+ Seleção:Itália
+ Idade:30
+ Valor de Mercado:65401616
+ Força:68
+ Velocidade:34
+ Resistência:56
+ Força de vontade:79
+ Posição: Ata
+ Machucado:Sim
+
+564/Nome:Leonardo Ferreira
+ Seleção:Espanha
+ Idade:23
+ Valor de Mercado:160132012
+ Força:26
+ Velocidade:81
+ Resistência:59
+ Força de vontade:18
+ Posição: Ata
+ Machucado:Nao
+
+565/Nome:Marcos Gomes
+ Seleção:Bélgica
+ Idade:28
+ Valor de Mercado:111620080
+ Força:28
+ Velocidade:57
+ Resistência:89
+ Força de vontade:20
+ Posição: Def
+ Machucado:Nao
+
+566/Nome:Felipe Almeida
+ Seleção:Argentina
+ Idade:20
+ Valor de Mercado:150375319
+ Força:80
+ Velocidade:2
+ Resistência:76
+ Força de vontade:19
+ Posição: Mei
+ Machucado:Sim
+
+567/Nome:André Nascimento
+ Seleção:Inglaterra
+ Idade:22
+ Valor de Mercado:5051851
+ Força:77
+ Velocidade:54
+ Resistência:99
+ Força de vontade:95
+ Posição: Ata
+ Machucado:Nao
+
+568/Nome:Pedro Souza
+ Seleção:Alemanha
+ Idade:21
+ Valor de Mercado:108787220
+ Força:32
+ Velocidade:56
+ Resistência:55
+ Força de vontade:88
+ Posição: Ata
+ Machucado:Nao
+
+569/Nome:Lucas Santos
+ Seleção:França
+ Idade:28
+ Valor de Mercado:57233586
+ Força:87
+ Velocidade:61
+ Resistência:52
+ Força de vontade:93
+ Posição: Def
+ Machucado:Sim
+
+570/Nome:André Silva
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:35804556
+ Força:29
+ Velocidade:82
+ Resistência:18
+ Força de vontade:92
+ Posição: Ata
+ Machucado:Nao
+
+571/Nome:Pedro Almeida
+ Seleção:Alemanha
+ Idade:36
+ Valor de Mercado:113177780
+ Força:8
+ Velocidade:58
+ Resistência:43
+ Força de vontade:100
+ Posição: Def
+ Machucado:Nao
+
+572/Nome:Rafael Ferreira
+ Seleção:Alemanha
+ Idade:27
+ Valor de Mercado:18144671
+ Força:18
+ Velocidade:94
+ Resistência:92
+ Força de vontade:44
+ Posição: Ata
+ Machucado:Sim
+
+573/Nome:André Oliveira
+ Seleção:Alemanha
+ Idade:19
+ Valor de Mercado:142200524
+ Força:21
+ Velocidade:93
+ Resistência:67
+ Força de vontade:54
+ Posição: Ata
+ Machucado:Sim
+
+574/Nome:Pedro Souza
+ Seleção:França
+ Idade:23
+ Valor de Mercado:84313707
+ Força:14
+ Velocidade:17
+ Resistência:77
+ Força de vontade:42
+ Posição: Mei
+ Machucado:Nao
+
+575/Nome:Rafael Souza
+ Seleção:Brasil
+ Idade:33
+ Valor de Mercado:144347473
+ Força:2
+ Velocidade:72
+ Resistência:30
+ Força de vontade:49
+ Posição: Gol
+ Machucado:Nao
+
+576/Nome:Lucas Santos
+ Seleção:Bélgica
+ Idade:21
+ Valor de Mercado:153642541
+ Força:16
+ Velocidade:30
+ Resistência:74
+ Força de vontade:7
+ Posição: Def
+ Machucado:Sim
+
+577/Nome:Felipe Costa
+ Seleção:Argentina
+ Idade:20
+ Valor de Mercado:52210369
+ Força:59
+ Velocidade:36
+ Resistência:49
+ Força de vontade:98
+ Posição: Def
+ Machucado:Nao
+
+578/Nome:João Silva
+ Seleção:Itália
+ Idade:19
+ Valor de Mercado:1294044
+ Força:36
+ Velocidade:62
+ Resistência:89
+ Força de vontade:9
+ Posição: Def
+ Machucado:Sim
+
+579/Nome:Rafael Nascimento
+ Seleção:Bélgica
+ Idade:22
+ Valor de Mercado:41111917
+ Força:53
+ Velocidade:31
+ Resistência:5
+ Força de vontade:28
+ Posição: Gol
+ Machucado:Sim
+
+580/Nome:Rafael Costa
+ Seleção:Bélgica
+ Idade:18
+ Valor de Mercado:104101641
+ Força:80
+ Velocidade:70
+ Resistência:88
+ Força de vontade:61
+ Posição: Def
+ Machucado:Nao
+
+581/Nome:João Souza
+ Seleção:Portugal
+ Idade:19
+ Valor de Mercado:82845204
+ Força:46
+ Velocidade:62
+ Resistência:70
+ Força de vontade:84
+ Posição: Ata
+ Machucado:Nao
+
+582/Nome:Rafael Pereira
+ Seleção:Inglaterra
+ Idade:36
+ Valor de Mercado:145654876
+ Força:83
+ Velocidade:46
+ Resistência:88
+ Força de vontade:93
+ Posição: Mei
+ Machucado:Sim
+
+583/Nome:Felipe Santos
+ Seleção:Itália
+ Idade:28
+ Valor de Mercado:87008748
+ Força:74
+ Velocidade:63
+ Resistência:30
+ Força de vontade:86
+ Posição: Mei
+ Machucado:Sim
+
+584/Nome:Lucas Silva
+ Seleção:Espanha
+ Idade:34
+ Valor de Mercado:21772543
+ Força:99
+ Velocidade:72
+ Resistência:15
+ Força de vontade:8
+ Posição: Mei
+ Machucado:Sim
+
+585/Nome:João Oliveira
+ Seleção:Espanha
+ Idade:33
+ Valor de Mercado:38625100
+ Força:25
+ Velocidade:8
+ Resistência:59
+ Força de vontade:18
+ Posição: Ata
+ Machucado:Nao
+
+586/Nome:Rafael Oliveira
+ Seleção:Espanha
+ Idade:26
+ Valor de Mercado:95998395
+ Força:67
+ Velocidade:15
+ Resistência:77
+ Força de vontade:40
+ Posição: Def
+ Machucado:Sim
+
+587/Nome:João Gomes
+ Seleção:Portugal
+ Idade:24
+ Valor de Mercado:66301715
+ Força:72
+ Velocidade:74
+ Resistência:53
+ Força de vontade:33
+ Posição: Gol
+ Machucado:Sim
+
+588/Nome:Rafael Costa
+ Seleção:Espanha
+ Idade:23
+ Valor de Mercado:48326185
+ Força:19
+ Velocidade:64
+ Resistência:68
+ Força de vontade:56
+ Posição: Def
+ Machucado:Sim
+
+589/Nome:João Pereira
+ Seleção:Chile
+ Idade:28
+ Valor de Mercado:19824913
+ Força:77
+ Velocidade:2
+ Resistência:70
+ Força de vontade:87
+ Posição: Ata
+ Machucado:Sim
+
+590/Nome:André Santos
+ Seleção:Bélgica
+ Idade:33
+ Valor de Mercado:66253612
+ Força:83
+ Velocidade:48
+ Resistência:23
+ Força de vontade:90
+ Posição: Ata
+ Machucado:Nao
+
+591/Nome:Leonardo Costa
+ Seleção:Portugal
+ Idade:25
+ Valor de Mercado:193947828
+ Força:53
+ Velocidade:75
+ Resistência:100
+ Força de vontade:54
+ Posição: Def
+ Machucado:Sim
+
+592/Nome:Marcos Oliveira
+ Seleção:França
+ Idade:27
+ Valor de Mercado:23933582
+ Força:81
+ Velocidade:16
+ Resistência:4
+ Força de vontade:95
+ Posição: Gol
+ Machucado:Sim
+
+593/Nome:Pedro Pereira
+ Seleção:Portugal
+ Idade:36
+ Valor de Mercado:19864872
+ Força:79
+ Velocidade:48
+ Resistência:93
+ Força de vontade:79
+ Posição: Def
+ Machucado:Sim
+
+594/Nome:Marcos Oliveira
+ Seleção:Inglaterra
+ Idade:33
+ Valor de Mercado:85554741
+ Força:86
+ Velocidade:21
+ Resistência:12
+ Força de vontade:84
+ Posição: Ata
+ Machucado:Sim
+
+595/Nome:Lucas Pereira
+ Seleção:Itália
+ Idade:25
+ Valor de Mercado:143811769
+ Força:78
+ Velocidade:22
+ Resistência:81
+ Força de vontade:21
+ Posição: Mei
+ Machucado:Nao
+
+596/Nome:Luiz Souza
+ Seleção:Brasil
+ Idade:24
+ Valor de Mercado:166513203
+ Força:23
+ Velocidade:85
+ Resistência:4
+ Força de vontade:81
+ Posição: Ata
+ Machucado:Nao
+
+597/Nome:Pedro Costa
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:151350987
+ Força:77
+ Velocidade:41
+ Resistência:13
+ Força de vontade:69
+ Posição: Mei
+ Machucado:Nao
+
+598/Nome:Rafael Ferreira
+ Seleção:Chile
+ Idade:29
+ Valor de Mercado:90861587
+ Força:21
+ Velocidade:93
+ Resistência:85
+ Força de vontade:79
+ Posição: Def
+ Machucado:Sim
+
+599/Nome:João Gomes
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:85247362
+ Força:99
+ Velocidade:16
+ Resistência:62
+ Força de vontade:70
+ Posição: Mei
+ Machucado:Sim
+
+600/Nome:Rafael Pereira
+ Seleção:Itália
+ Idade:28
+ Valor de Mercado:101769882
+ Força:80
+ Velocidade:79
+ Resistência:22
+ Força de vontade:47
+ Posição: Mei
+ Machucado:Sim
+
+601/Nome:Marcos Pereira
+ Seleção:Alemanha
+ Idade:33
+ Valor de Mercado:195397287
+ Força:59
+ Velocidade:86
+ Resistência:60
+ Força de vontade:99
+ Posição: Ata
+ Machucado:Sim
+
+602/Nome:Luiz Oliveira
+ Seleção:Bélgica
+ Idade:29
+ Valor de Mercado:24559442
+ Força:61
+ Velocidade:14
+ Resistência:77
+ Força de vontade:89
+ Posição: Ata
+ Machucado:Nao
+
+603/Nome:Gustavo Pereira
+ Seleção:França
+ Idade:31
+ Valor de Mercado:34438935
+ Força:75
+ Velocidade:80
+ Resistência:60
+ Força de vontade:62
+ Posição: Def
+ Machucado:Nao
+
+604/Nome:André Pereira
+ Seleção:Argentina
+ Idade:22
+ Valor de Mercado:75479058
+ Força:2
+ Velocidade:95
+ Resistência:4
+ Força de vontade:40
+ Posição: Def
+ Machucado:Sim
+
+605/Nome:João Gomes
+ Seleção:Portugal
+ Idade:29
+ Valor de Mercado:23694244
+ Força:54
+ Velocidade:40
+ Resistência:92
+ Força de vontade:73
+ Posição: Ata
+ Machucado:Nao
+
+606/Nome:Leonardo Souza
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:75958810
+ Força:47
+ Velocidade:14
+ Resistência:77
+ Força de vontade:1
+ Posição: Ata
+ Machucado:Nao
+
+607/Nome:Pedro Pereira
+ Seleção:Bélgica
+ Idade:34
+ Valor de Mercado:90855539
+ Força:63
+ Velocidade:88
+ Resistência:27
+ Força de vontade:46
+ Posição: Gol
+ Machucado:Sim
+
+608/Nome:Gustavo Silva
+ Seleção:Alemanha
+ Idade:33
+ Valor de Mercado:71672319
+ Força:97
+ Velocidade:49
+ Resistência:66
+ Força de vontade:45
+ Posição: Gol
+ Machucado:Nao
+
+609/Nome:Marcos Santos
+ Seleção:Inglaterra
+ Idade:35
+ Valor de Mercado:6994592
+ Força:36
+ Velocidade:31
+ Resistência:41
+ Força de vontade:37
+ Posição: Mei
+ Machucado:Sim
+
+610/Nome:Marcos Gomes
+ Seleção:Portugal
+ Idade:20
+ Valor de Mercado:76716311
+ Força:55
+ Velocidade:8
+ Resistência:90
+ Força de vontade:64
+ Posição: Gol
+ Machucado:Sim
+
+611/Nome:Gustavo Costa
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:37873305
+ Força:7
+ Velocidade:63
+ Resistência:84
+ Força de vontade:3
+ Posição: Def
+ Machucado:Nao
+
+612/Nome:Pedro Silva
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:178991505
+ Força:94
+ Velocidade:85
+ Resistência:30
+ Força de vontade:83
+ Posição: Ata
+ Machucado:Nao
+
+613/Nome:Lucas Nascimento
+ Seleção:Alemanha
+ Idade:29
+ Valor de Mercado:74923306
+ Força:55
+ Velocidade:28
+ Resistência:88
+ Força de vontade:25
+ Posição: Mei
+ Machucado:Sim
+
+614/Nome:André Almeida
+ Seleção:Bélgica
+ Idade:29
+ Valor de Mercado:71047275
+ Força:85
+ Velocidade:26
+ Resistência:70
+ Força de vontade:47
+ Posição: Def
+ Machucado:Sim
+
+615/Nome:André Costa
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:25999369
+ Força:31
+ Velocidade:28
+ Resistência:6
+ Força de vontade:33
+ Posição: Def
+ Machucado:Nao
+
+616/Nome:Pedro Gomes
+ Seleção:Espanha
+ Idade:22
+ Valor de Mercado:199842027
+ Força:98
+ Velocidade:29
+ Resistência:76
+ Força de vontade:42
+ Posição: Gol
+ Machucado:Sim
+
+617/Nome:Marcos Oliveira
+ Seleção:Itália
+ Idade:25
+ Valor de Mercado:64299393
+ Força:34
+ Velocidade:74
+ Resistência:32
+ Força de vontade:30
+ Posição: Gol
+ Machucado:Nao
+
+618/Nome:Marcos Silva
+ Seleção:Espanha
+ Idade:18
+ Valor de Mercado:70624145
+ Força:43
+ Velocidade:46
+ Resistência:82
+ Força de vontade:94
+ Posição: Mei
+ Machucado:Nao
+
+619/Nome:Pedro Oliveira
+ Seleção:Chile
+ Idade:30
+ Valor de Mercado:12517580
+ Força:84
+ Velocidade:94
+ Resistência:74
+ Força de vontade:73
+ Posição: Ata
+ Machucado:Nao
+
+620/Nome:Lucas Souza
+ Seleção:Espanha
+ Idade:19
+ Valor de Mercado:120735389
+ Força:19
+ Velocidade:3
+ Resistência:15
+ Força de vontade:87
+ Posição: Gol
+ Machucado:Sim
+
+621/Nome:Lucas Oliveira
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:198120541
+ Força:64
+ Velocidade:12
+ Resistência:37
+ Força de vontade:45
+ Posição: Gol
+ Machucado:Sim
+
+622/Nome:Marcos Almeida
+ Seleção:Inglaterra
+ Idade:26
+ Valor de Mercado:118138011
+ Força:42
+ Velocidade:13
+ Resistência:1
+ Força de vontade:36
+ Posição: Mei
+ Machucado:Sim
+
+623/Nome:Marcos Oliveira
+ Seleção:Espanha
+ Idade:31
+ Valor de Mercado:15494623
+ Força:73
+ Velocidade:81
+ Resistência:8
+ Força de vontade:5
+ Posição: Def
+ Machucado:Sim
+
+624/Nome:Lucas Souza
+ Seleção:Alemanha
+ Idade:27
+ Valor de Mercado:124790884
+ Força:83
+ Velocidade:46
+ Resistência:3
+ Força de vontade:71
+ Posição: Def
+ Machucado:Nao
+
+625/Nome:Lucas Gomes
+ Seleção:Portugal
+ Idade:29
+ Valor de Mercado:20783251
+ Força:36
+ Velocidade:20
+ Resistência:53
+ Força de vontade:4
+ Posição: Ata
+ Machucado:Sim
+
+626/Nome:Felipe Santos
+ Seleção:Bélgica
+ Idade:31
+ Valor de Mercado:191130419
+ Força:57
+ Velocidade:90
+ Resistência:76
+ Força de vontade:61
+ Posição: Ata
+ Machucado:Sim
+
+627/Nome:Leonardo Souza
+ Seleção:Itália
+ Idade:26
+ Valor de Mercado:24592922
+ Força:39
+ Velocidade:59
+ Resistência:73
+ Força de vontade:11
+ Posição: Gol
+ Machucado:Nao
+
+628/Nome:Felipe Almeida
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:193233798
+ Força:20
+ Velocidade:37
+ Resistência:45
+ Força de vontade:45
+ Posição: Ata
+ Machucado:Sim
+
+629/Nome:Lucas Oliveira
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:180478324
+ Força:31
+ Velocidade:63
+ Resistência:52
+ Força de vontade:31
+ Posição: Mei
+ Machucado:Nao
+
+630/Nome:Leonardo Pereira
+ Seleção:Brasil
+ Idade:22
+ Valor de Mercado:6377618
+ Força:75
+ Velocidade:15
+ Resistência:67
+ Força de vontade:39
+ Posição: Gol
+ Machucado:Sim
+
+631/Nome:Leonardo Almeida
+ Seleção:Chile
+ Idade:22
+ Valor de Mercado:163037533
+ Força:94
+ Velocidade:21
+ Resistência:84
+ Força de vontade:78
+ Posição: Def
+ Machucado:Sim
+
+632/Nome:Rafael Silva
+ Seleção:Alemanha
+ Idade:29
+ Valor de Mercado:171232782
+ Força:46
+ Velocidade:42
+ Resistência:52
+ Força de vontade:74
+ Posição: Gol
+ Machucado:Sim
+
+633/Nome:Gustavo Almeida
+ Seleção:Brasil
+ Idade:27
+ Valor de Mercado:58094931
+ Força:97
+ Velocidade:88
+ Resistência:44
+ Força de vontade:95
+ Posição: Gol
+ Machucado:Sim
+
+634/Nome:João Oliveira
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:167833341
+ Força:9
+ Velocidade:66
+ Resistência:8
+ Força de vontade:79
+ Posição: Gol
+ Machucado:Sim
+
+635/Nome:Luiz Santos
+ Seleção:Espanha
+ Idade:34
+ Valor de Mercado:50451202
+ Força:61
+ Velocidade:42
+ Resistência:63
+ Força de vontade:73
+ Posição: Gol
+ Machucado:Nao
+
+636/Nome:Marcos Ferreira
+ Seleção:Espanha
+ Idade:36
+ Valor de Mercado:138722057
+ Força:1
+ Velocidade:46
+ Resistência:3
+ Força de vontade:93
+ Posição: Mei
+ Machucado:Sim
+
+637/Nome:Lucas Gomes
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:81531893
+ Força:71
+ Velocidade:57
+ Resistência:91
+ Força de vontade:98
+ Posição: Gol
+ Machucado:Sim
+
+638/Nome:Gustavo Nascimento
+ Seleção:França
+ Idade:25
+ Valor de Mercado:60412290
+ Força:64
+ Velocidade:92
+ Resistência:59
+ Força de vontade:42
+ Posição: Gol
+ Machucado:Sim
+
+639/Nome:Marcos Costa
+ Seleção:Itália
+ Idade:29
+ Valor de Mercado:68499741
+ Força:89
+ Velocidade:45
+ Resistência:82
+ Força de vontade:11
+ Posição: Gol
+ Machucado:Nao
+
+640/Nome:Pedro Pereira
+ Seleção:Itália
+ Idade:34
+ Valor de Mercado:6215549
+ Força:45
+ Velocidade:95
+ Resistência:30
+ Força de vontade:44
+ Posição: Gol
+ Machucado:Sim
+
+641/Nome:Gustavo Souza
+ Seleção:Bélgica
+ Idade:29
+ Valor de Mercado:92675912
+ Força:31
+ Velocidade:54
+ Resistência:58
+ Força de vontade:7
+ Posição: Gol
+ Machucado:Nao
+
+642/Nome:Felipe Ferreira
+ Seleção:Itália
+ Idade:30
+ Valor de Mercado:165798403
+ Força:28
+ Velocidade:44
+ Resistência:18
+ Força de vontade:89
+ Posição: Ata
+ Machucado:Sim
+
+643/Nome:João Ferreira
+ Seleção:Bélgica
+ Idade:37
+ Valor de Mercado:91924959
+ Força:41
+ Velocidade:83
+ Resistência:13
+ Força de vontade:70
+ Posição: Def
+ Machucado:Nao
+
+644/Nome:Luiz Santos
+ Seleção:Espanha
+ Idade:29
+ Valor de Mercado:62298247
+ Força:7
+ Velocidade:30
+ Resistência:4
+ Força de vontade:61
+ Posição: Mei
+ Machucado:Nao
+
+645/Nome:Pedro Pereira
+ Seleção:Itália
+ Idade:20
+ Valor de Mercado:199389849
+ Força:33
+ Velocidade:23
+ Resistência:19
+ Força de vontade:43
+ Posição: Mei
+ Machucado:Sim
+
+646/Nome:André Oliveira
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:28807738
+ Força:61
+ Velocidade:63
+ Resistência:70
+ Força de vontade:46
+ Posição: Gol
+ Machucado:Nao
+
+647/Nome:André Pereira
+ Seleção:Alemanha
+ Idade:18
+ Valor de Mercado:90922756
+ Força:68
+ Velocidade:61
+ Resistência:31
+ Força de vontade:79
+ Posição: Mei
+ Machucado:Nao
+
+648/Nome:Marcos Pereira
+ Seleção:Inglaterra
+ Idade:34
+ Valor de Mercado:68882423
+ Força:57
+ Velocidade:71
+ Resistência:41
+ Força de vontade:41
+ Posição: Def
+ Machucado:Nao
+
+649/Nome:André Gomes
+ Seleção:Portugal
+ Idade:26
+ Valor de Mercado:129945031
+ Força:57
+ Velocidade:94
+ Resistência:87
+ Força de vontade:21
+ Posição: Gol
+ Machucado:Nao
+
+650/Nome:Felipe Souza
+ Seleção:França
+ Idade:21
+ Valor de Mercado:76500500
+ Força:52
+ Velocidade:82
+ Resistência:20
+ Força de vontade:88
+ Posição: Ata
+ Machucado:Nao
+
+651/Nome:João Almeida
+ Seleção:Portugal
+ Idade:20
+ Valor de Mercado:97318224
+ Força:37
+ Velocidade:75
+ Resistência:1
+ Força de vontade:81
+ Posição: Mei
+ Machucado:Nao
+
+652/Nome:Leonardo Nascimento
+ Seleção:França
+ Idade:22
+ Valor de Mercado:5896207
+ Força:39
+ Velocidade:97
+ Resistência:47
+ Força de vontade:4
+ Posição: Mei
+ Machucado:Sim
+
+653/Nome:Marcos Pereira
+ Seleção:Chile
+ Idade:25
+ Valor de Mercado:90682620
+ Força:58
+ Velocidade:67
+ Resistência:99
+ Força de vontade:30
+ Posição: Ata
+ Machucado:Sim
+
+654/Nome:Lucas Pereira
+ Seleção:Chile
+ Idade:30
+ Valor de Mercado:172434152
+ Força:29
+ Velocidade:46
+ Resistência:68
+ Força de vontade:50
+ Posição: Mei
+ Machucado:Sim
+
+655/Nome:Gustavo Silva
+ Seleção:Espanha
+ Idade:28
+ Valor de Mercado:27783885
+ Força:84
+ Velocidade:94
+ Resistência:70
+ Força de vontade:22
+ Posição: Gol
+ Machucado:Sim
+
+656/Nome:Rafael Costa
+ Seleção:Espanha
+ Idade:26
+ Valor de Mercado:127481815
+ Força:76
+ Velocidade:98
+ Resistência:60
+ Força de vontade:80
+ Posição: Gol
+ Machucado:Nao
+
+657/Nome:Rafael Gomes
+ Seleção:Bélgica
+ Idade:26
+ Valor de Mercado:122425831
+ Força:57
+ Velocidade:90
+ Resistência:97
+ Força de vontade:87
+ Posição: Mei
+ Machucado:Sim
+
+658/Nome:Lucas Almeida
+ Seleção:Bélgica
+ Idade:28
+ Valor de Mercado:194675826
+ Força:40
+ Velocidade:33
+ Resistência:48
+ Força de vontade:49
+ Posição: Gol
+ Machucado:Sim
+
+659/Nome:Marcos Almeida
+ Seleção:Alemanha
+ Idade:31
+ Valor de Mercado:194564409
+ Força:23
+ Velocidade:33
+ Resistência:36
+ Força de vontade:12
+ Posição: Gol
+ Machucado:Nao
+
+660/Nome:André Silva
+ Seleção:Portugal
+ Idade:35
+ Valor de Mercado:119682522
+ Força:2
+ Velocidade:96
+ Resistência:13
+ Força de vontade:87
+ Posição: Def
+ Machucado:Sim
+
+661/Nome:Luiz Nascimento
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:19402764
+ Força:71
+ Velocidade:95
+ Resistência:57
+ Força de vontade:19
+ Posição: Gol
+ Machucado:Sim
+
+662/Nome:Leonardo Santos
+ Seleção:Bélgica
+ Idade:33
+ Valor de Mercado:15066109
+ Força:66
+ Velocidade:67
+ Resistência:3
+ Força de vontade:40
+ Posição: Def
+ Machucado:Sim
+
+663/Nome:Rafael Souza
+ Seleção:Bélgica
+ Idade:28
+ Valor de Mercado:141275523
+ Força:75
+ Velocidade:89
+ Resistência:46
+ Força de vontade:72
+ Posição: Gol
+ Machucado:Nao
+
+664/Nome:Rafael Pereira
+ Seleção:Argentina
+ Idade:22
+ Valor de Mercado:190570140
+ Força:51
+ Velocidade:84
+ Resistência:65
+ Força de vontade:71
+ Posição: Mei
+ Machucado:Nao
+
+665/Nome:Gustavo Santos
+ Seleção:França
+ Idade:26
+ Valor de Mercado:64552438
+ Força:6
+ Velocidade:60
+ Resistência:58
+ Força de vontade:93
+ Posição: Gol
+ Machucado:Sim
+
+666/Nome:Luiz Oliveira
+ Seleção:Chile
+ Idade:25
+ Valor de Mercado:41565246
+ Força:6
+ Velocidade:99
+ Resistência:94
+ Força de vontade:84
+ Posição: Mei
+ Machucado:Sim
+
+667/Nome:Gustavo Nascimento
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:11074592
+ Força:45
+ Velocidade:2
+ Resistência:61
+ Força de vontade:87
+ Posição: Def
+ Machucado:Sim
+
+668/Nome:Lucas Costa
+ Seleção:Alemanha
+ Idade:32
+ Valor de Mercado:49933280
+ Força:81
+ Velocidade:87
+ Resistência:89
+ Força de vontade:19
+ Posição: Def
+ Machucado:Sim
+
+669/Nome:Marcos Gomes
+ Seleção:Itália
+ Idade:22
+ Valor de Mercado:157798917
+ Força:91
+ Velocidade:20
+ Resistência:63
+ Força de vontade:30
+ Posição: Ata
+ Machucado:Nao
+
+670/Nome:Pedro Santos
+ Seleção:Portugal
+ Idade:24
+ Valor de Mercado:103389180
+ Força:76
+ Velocidade:45
+ Resistência:33
+ Força de vontade:61
+ Posição: Ata
+ Machucado:Sim
+
+671/Nome:Luiz Oliveira
+ Seleção:Inglaterra
+ Idade:33
+ Valor de Mercado:169863065
+ Força:27
+ Velocidade:34
+ Resistência:57
+ Força de vontade:26
+ Posição: Ata
+ Machucado:Nao
+
+672/Nome:Luiz Santos
+ Seleção:Portugal
+ Idade:29
+ Valor de Mercado:46938467
+ Força:8
+ Velocidade:94
+ Resistência:16
+ Força de vontade:79
+ Posição: Gol
+ Machucado:Sim
+
+673/Nome:André Almeida
+ Seleção:Itália
+ Idade:30
+ Valor de Mercado:185255456
+ Força:7
+ Velocidade:33
+ Resistência:42
+ Força de vontade:65
+ Posição: Gol
+ Machucado:Sim
+
+674/Nome:Leonardo Silva
+ Seleção:Portugal
+ Idade:26
+ Valor de Mercado:8517316
+ Força:43
+ Velocidade:54
+ Resistência:29
+ Força de vontade:18
+ Posição: Ata
+ Machucado:Nao
+
+675/Nome:Marcos Ferreira
+ Seleção:Alemanha
+ Idade:19
+ Valor de Mercado:68344031
+ Força:11
+ Velocidade:52
+ Resistência:87
+ Força de vontade:5
+ Posição: Mei
+ Machucado:Nao
+
+676/Nome:Leonardo Gomes
+ Seleção:Espanha
+ Idade:35
+ Valor de Mercado:43344153
+ Força:49
+ Velocidade:2
+ Resistência:70
+ Força de vontade:70
+ Posição: Def
+ Machucado:Sim
+
+677/Nome:Lucas Pereira
+ Seleção:Chile
+ Idade:34
+ Valor de Mercado:173342337
+ Força:50
+ Velocidade:67
+ Resistência:65
+ Força de vontade:78
+ Posição: Ata
+ Machucado:Nao
+
+678/Nome:André Oliveira
+ Seleção:Inglaterra
+ Idade:21
+ Valor de Mercado:94681853
+ Força:25
+ Velocidade:89
+ Resistência:3
+ Força de vontade:75
+ Posição: Mei
+ Machucado:Sim
+
+679/Nome:Pedro Santos
+ Seleção:Itália
+ Idade:20
+ Valor de Mercado:196488156
+ Força:46
+ Velocidade:52
+ Resistência:60
+ Força de vontade:98
+ Posição: Ata
+ Machucado:Sim
+
+680/Nome:Felipe Gomes
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:94342072
+ Força:97
+ Velocidade:49
+ Resistência:53
+ Força de vontade:51
+ Posição: Mei
+ Machucado:Nao
+
+681/Nome:André Gomes
+ Seleção:Brasil
+ Idade:30
+ Valor de Mercado:156314345
+ Força:63
+ Velocidade:40
+ Resistência:64
+ Força de vontade:86
+ Posição: Def
+ Machucado:Nao
+
+682/Nome:Pedro Costa
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:49138557
+ Força:40
+ Velocidade:57
+ Resistência:64
+ Força de vontade:83
+ Posição: Mei
+ Machucado:Sim
+
+683/Nome:Gustavo Pereira
+ Seleção:Alemanha
+ Idade:28
+ Valor de Mercado:128594146
+ Força:46
+ Velocidade:61
+ Resistência:20
+ Força de vontade:53
+ Posição: Def
+ Machucado:Sim
+
+684/Nome:Marcos Ferreira
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:99293252
+ Força:90
+ Velocidade:12
+ Resistência:78
+ Força de vontade:61
+ Posição: Def
+ Machucado:Nao
+
+685/Nome:Pedro Nascimento
+ Seleção:França
+ Idade:36
+ Valor de Mercado:165925988
+ Força:57
+ Velocidade:61
+ Resistência:15
+ Força de vontade:26
+ Posição: Ata
+ Machucado:Sim
+
+686/Nome:Lucas Gomes
+ Seleção:Chile
+ Idade:33
+ Valor de Mercado:172016697
+ Força:30
+ Velocidade:20
+ Resistência:47
+ Força de vontade:7
+ Posição: Gol
+ Machucado:Sim
+
+687/Nome:Gustavo Costa
+ Seleção:Itália
+ Idade:26
+ Valor de Mercado:10013220
+ Força:42
+ Velocidade:29
+ Resistência:46
+ Força de vontade:25
+ Posição: Def
+ Machucado:Nao
+
+688/Nome:Marcos Almeida
+ Seleção:Itália
+ Idade:19
+ Valor de Mercado:21802959
+ Força:80
+ Velocidade:99
+ Resistência:86
+ Força de vontade:44
+ Posição: Mei
+ Machucado:Sim
+
+689/Nome:Lucas Oliveira
+ Seleção:Bélgica
+ Idade:20
+ Valor de Mercado:31186755
+ Força:66
+ Velocidade:89
+ Resistência:40
+ Força de vontade:77
+ Posição: Gol
+ Machucado:Sim
+
+690/Nome:Leonardo Ferreira
+ Seleção:França
+ Idade:31
+ Valor de Mercado:23832421
+ Força:67
+ Velocidade:11
+ Resistência:90
+ Força de vontade:43
+ Posição: Gol
+ Machucado:Sim
+
+691/Nome:Gustavo Costa
+ Seleção:Chile
+ Idade:28
+ Valor de Mercado:197568999
+ Força:37
+ Velocidade:34
+ Resistência:21
+ Força de vontade:59
+ Posição: Def
+ Machucado:Nao
+
+692/Nome:Marcos Costa
+ Seleção:França
+ Idade:24
+ Valor de Mercado:95872513
+ Força:3
+ Velocidade:75
+ Resistência:34
+ Força de vontade:52
+ Posição: Gol
+ Machucado:Sim
+
+693/Nome:Felipe Pereira
+ Seleção:Itália
+ Idade:20
+ Valor de Mercado:191184462
+ Força:36
+ Velocidade:37
+ Resistência:91
+ Força de vontade:76
+ Posição: Gol
+ Machucado:Nao
+
+694/Nome:Pedro Almeida
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:32782070
+ Força:63
+ Velocidade:72
+ Resistência:61
+ Força de vontade:71
+ Posição: Def
+ Machucado:Nao
+
+695/Nome:Felipe Ferreira
+ Seleção:Inglaterra
+ Idade:34
+ Valor de Mercado:135555225
+ Força:32
+ Velocidade:88
+ Resistência:93
+ Força de vontade:57
+ Posição: Mei
+ Machucado:Sim
+
+696/Nome:André Santos
+ Seleção:Espanha
+ Idade:36
+ Valor de Mercado:46774594
+ Força:98
+ Velocidade:14
+ Resistência:90
+ Força de vontade:41
+ Posição: Def
+ Machucado:Nao
+
+697/Nome:Rafael Ferreira
+ Seleção:Bélgica
+ Idade:35
+ Valor de Mercado:43319328
+ Força:63
+ Velocidade:68
+ Resistência:81
+ Força de vontade:96
+ Posição: Gol
+ Machucado:Nao
+
+698/Nome:Pedro Oliveira
+ Seleção:Inglaterra
+ Idade:34
+ Valor de Mercado:149870777
+ Força:1
+ Velocidade:33
+ Resistência:42
+ Força de vontade:45
+ Posição: Mei
+ Machucado:Nao
+
+699/Nome:Leonardo Santos
+ Seleção:Argentina
+ Idade:18
+ Valor de Mercado:165008639
+ Força:35
+ Velocidade:93
+ Resistência:31
+ Força de vontade:14
+ Posição: Mei
+ Machucado:Nao
+
+700/Nome:Luiz Ferreira
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:20560191
+ Força:96
+ Velocidade:24
+ Resistência:94
+ Força de vontade:79
+ Posição: Gol
+ Machucado:Nao
+
+701/Nome:Pedro Souza
+ Seleção:Chile
+ Idade:24
+ Valor de Mercado:69393077
+ Força:2
+ Velocidade:32
+ Resistência:13
+ Força de vontade:1
+ Posição: Gol
+ Machucado:Sim
+
+702/Nome:Marcos Pereira
+ Seleção:Inglaterra
+ Idade:36
+ Valor de Mercado:54161379
+ Força:57
+ Velocidade:92
+ Resistência:7
+ Força de vontade:44
+ Posição: Ata
+ Machucado:Sim
+
+703/Nome:João Gomes
+ Seleção:Argentina
+ Idade:32
+ Valor de Mercado:188135606
+ Força:68
+ Velocidade:85
+ Resistência:75
+ Força de vontade:51
+ Posição: Mei
+ Machucado:Sim
+
+704/Nome:Gustavo Silva
+ Seleção:Inglaterra
+ Idade:30
+ Valor de Mercado:79349140
+ Força:9
+ Velocidade:65
+ Resistência:28
+ Força de vontade:96
+ Posição: Def
+ Machucado:Nao
+
+705/Nome:André Oliveira
+ Seleção:Portugal
+ Idade:27
+ Valor de Mercado:93756082
+ Força:53
+ Velocidade:26
+ Resistência:41
+ Força de vontade:35
+ Posição: Ata
+ Machucado:Sim
+
+706/Nome:Luiz Souza
+ Seleção:França
+ Idade:33
+ Valor de Mercado:122981274
+ Força:8
+ Velocidade:26
+ Resistência:46
+ Força de vontade:27
+ Posição: Def
+ Machucado:Nao
+
+707/Nome:André Pereira
+ Seleção:Espanha
+ Idade:21
+ Valor de Mercado:184177216
+ Força:75
+ Velocidade:31
+ Resistência:77
+ Força de vontade:89
+ Posição: Gol
+ Machucado:Sim
+
+708/Nome:Rafael Oliveira
+ Seleção:Brasil
+ Idade:35
+ Valor de Mercado:94820061
+ Força:43
+ Velocidade:73
+ Resistência:46
+ Força de vontade:18
+ Posição: Gol
+ Machucado:Nao
+
+709/Nome:Marcos Silva
+ Seleção:Brasil
+ Idade:36
+ Valor de Mercado:22922933
+ Força:58
+ Velocidade:37
+ Resistência:70
+ Força de vontade:65
+ Posição: Gol
+ Machucado:Sim
+
+710/Nome:Pedro Santos
+ Seleção:Espanha
+ Idade:23
+ Valor de Mercado:140219928
+ Força:15
+ Velocidade:26
+ Resistência:84
+ Força de vontade:34
+ Posição: Mei
+ Machucado:Nao
+
+711/Nome:Rafael Oliveira
+ Seleção:França
+ Idade:36
+ Valor de Mercado:122912120
+ Força:27
+ Velocidade:96
+ Resistência:53
+ Força de vontade:65
+ Posição: Gol
+ Machucado:Sim
+
+712/Nome:Leonardo Almeida
+ Seleção:Itália
+ Idade:32
+ Valor de Mercado:65155192
+ Força:16
+ Velocidade:99
+ Resistência:4
+ Força de vontade:38
+ Posição: Gol
+ Machucado:Sim
+
+713/Nome:Pedro Souza
+ Seleção:Bélgica
+ Idade:18
+ Valor de Mercado:128887171
+ Força:13
+ Velocidade:27
+ Resistência:83
+ Força de vontade:33
+ Posição: Mei
+ Machucado:Nao
+
+714/Nome:João Oliveira
+ Seleção:Argentina
+ Idade:29
+ Valor de Mercado:23262335
+ Força:55
+ Velocidade:56
+ Resistência:34
+ Força de vontade:16
+ Posição: Ata
+ Machucado:Nao
+
+715/Nome:Gustavo Costa
+ Seleção:Alemanha
+ Idade:22
+ Valor de Mercado:6439617
+ Força:38
+ Velocidade:14
+ Resistência:80
+ Força de vontade:91
+ Posição: Ata
+ Machucado:Sim
+
+716/Nome:Luiz Silva
+ Seleção:Espanha
+ Idade:30
+ Valor de Mercado:171471058
+ Força:32
+ Velocidade:65
+ Resistência:21
+ Força de vontade:62
+ Posição: Gol
+ Machucado:Sim
+
+717/Nome:Gustavo Almeida
+ Seleção:Inglaterra
+ Idade:19
+ Valor de Mercado:169415276
+ Força:80
+ Velocidade:89
+ Resistência:61
+ Força de vontade:21
+ Posição: Gol
+ Machucado:Nao
+
+718/Nome:Gustavo Pereira
+ Seleção:Espanha
+ Idade:21
+ Valor de Mercado:107621339
+ Força:77
+ Velocidade:34
+ Resistência:80
+ Força de vontade:54
+ Posição: Mei
+ Machucado:Nao
+
+719/Nome:André Ferreira
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:143766754
+ Força:43
+ Velocidade:47
+ Resistência:85
+ Força de vontade:55
+ Posição: Mei
+ Machucado:Nao
+
+720/Nome:Marcos Silva
+ Seleção:Itália
+ Idade:30
+ Valor de Mercado:97240375
+ Força:46
+ Velocidade:5
+ Resistência:26
+ Força de vontade:25
+ Posição: Ata
+ Machucado:Nao
+
+721/Nome:Pedro Oliveira
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:140545787
+ Força:23
+ Velocidade:56
+ Resistência:93
+ Força de vontade:39
+ Posição: Def
+ Machucado:Sim
+
+722/Nome:Lucas Silva
+ Seleção:Bélgica
+ Idade:33
+ Valor de Mercado:13935889
+ Força:26
+ Velocidade:62
+ Resistência:4
+ Força de vontade:82
+ Posição: Ata
+ Machucado:Nao
+
+723/Nome:João Souza
+ Seleção:Portugal
+ Idade:21
+ Valor de Mercado:170994650
+ Força:91
+ Velocidade:40
+ Resistência:61
+ Força de vontade:42
+ Posição: Def
+ Machucado:Nao
+
+724/Nome:André Pereira
+ Seleção:França
+ Idade:36
+ Valor de Mercado:138888021
+ Força:46
+ Velocidade:49
+ Resistência:80
+ Força de vontade:29
+ Posição: Mei
+ Machucado:Nao
+
+725/Nome:Lucas Nascimento
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:126120376
+ Força:67
+ Velocidade:76
+ Resistência:91
+ Força de vontade:57
+ Posição: Ata
+ Machucado:Sim
+
+726/Nome:Rafael Ferreira
+ Seleção:Espanha
+ Idade:22
+ Valor de Mercado:17132496
+ Força:51
+ Velocidade:59
+ Resistência:62
+ Força de vontade:65
+ Posição: Gol
+ Machucado:Nao
+
+727/Nome:Rafael Nascimento
+ Seleção:Bélgica
+ Idade:32
+ Valor de Mercado:129618000
+ Força:29
+ Velocidade:43
+ Resistência:61
+ Força de vontade:3
+ Posição: Gol
+ Machucado:Sim
+
+728/Nome:Marcos Almeida
+ Seleção:Itália
+ Idade:22
+ Valor de Mercado:62581381
+ Força:95
+ Velocidade:41
+ Resistência:27
+ Força de vontade:35
+ Posição: Def
+ Machucado:Nao
+
+729/Nome:Felipe Santos
+ Seleção:França
+ Idade:31
+ Valor de Mercado:161677537
+ Força:45
+ Velocidade:90
+ Resistência:32
+ Força de vontade:72
+ Posição: Ata
+ Machucado:Sim
+
+730/Nome:Luiz Silva
+ Seleção:Espanha
+ Idade:18
+ Valor de Mercado:143147715
+ Força:100
+ Velocidade:3
+ Resistência:80
+ Força de vontade:28
+ Posição: Def
+ Machucado:Sim
+
+731/Nome:Marcos Ferreira
+ Seleção:Bélgica
+ Idade:36
+ Valor de Mercado:166225596
+ Força:97
+ Velocidade:13
+ Resistência:12
+ Força de vontade:80
+ Posição: Gol
+ Machucado:Sim
+
+732/Nome:Lucas Ferreira
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:142198851
+ Força:63
+ Velocidade:78
+ Resistência:10
+ Força de vontade:50
+ Posição: Def
+ Machucado:Sim
+
+733/Nome:Lucas Souza
+ Seleção:Brasil
+ Idade:25
+ Valor de Mercado:59223005
+ Força:30
+ Velocidade:16
+ Resistência:26
+ Força de vontade:18
+ Posição: Mei
+ Machucado:Sim
+
+734/Nome:Gustavo Nascimento
+ Seleção:Espanha
+ Idade:21
+ Valor de Mercado:190443442
+ Força:89
+ Velocidade:15
+ Resistência:31
+ Força de vontade:31
+ Posição: Def
+ Machucado:Nao
+
+735/Nome:Pedro Santos
+ Seleção:Argentina
+ Idade:21
+ Valor de Mercado:133940463
+ Força:53
+ Velocidade:25
+ Resistência:66
+ Força de vontade:35
+ Posição: Mei
+ Machucado:Sim
+
+736/Nome:Marcos Pereira
+ Seleção:França
+ Idade:23
+ Valor de Mercado:128965415
+ Força:99
+ Velocidade:84
+ Resistência:15
+ Força de vontade:80
+ Posição: Gol
+ Machucado:Sim
+
+737/Nome:Felipe Souza
+ Seleção:Espanha
+ Idade:23
+ Valor de Mercado:1326519
+ Força:68
+ Velocidade:28
+ Resistência:100
+ Força de vontade:60
+ Posição: Def
+ Machucado:Sim
+
+738/Nome:Luiz Santos
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:144053341
+ Força:67
+ Velocidade:41
+ Resistência:54
+ Força de vontade:35
+ Posição: Gol
+ Machucado:Nao
+
+739/Nome:Felipe Nascimento
+ Seleção:Brasil
+ Idade:23
+ Valor de Mercado:33978125
+ Força:87
+ Velocidade:85
+ Resistência:48
+ Força de vontade:31
+ Posição: Mei
+ Machucado:Sim
+
+740/Nome:Lucas Costa
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:65527817
+ Força:23
+ Velocidade:47
+ Resistência:59
+ Força de vontade:8
+ Posição: Def
+ Machucado:Sim
+
+741/Nome:André Nascimento
+ Seleção:Portugal
+ Idade:23
+ Valor de Mercado:188839745
+ Força:70
+ Velocidade:60
+ Resistência:22
+ Força de vontade:75
+ Posição: Def
+ Machucado:Nao
+
+742/Nome:Felipe Almeida
+ Seleção:Chile
+ Idade:19
+ Valor de Mercado:145767507
+ Força:36
+ Velocidade:64
+ Resistência:1
+ Força de vontade:88
+ Posição: Ata
+ Machucado:Sim
+
+743/Nome:Rafael Ferreira
+ Seleção:Itália
+ Idade:22
+ Valor de Mercado:7671620
+ Força:13
+ Velocidade:44
+ Resistência:20
+ Força de vontade:40
+ Posição: Mei
+ Machucado:Nao
+
+744/Nome:Marcos Pereira
+ Seleção:França
+ Idade:33
+ Valor de Mercado:89530940
+ Força:96
+ Velocidade:51
+ Resistência:7
+ Força de vontade:59
+ Posição: Gol
+ Machucado:Nao
+
+745/Nome:João Nascimento
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:92688394
+ Força:90
+ Velocidade:75
+ Resistência:30
+ Força de vontade:28
+ Posição: Mei
+ Machucado:Nao
+
+746/Nome:Pedro Oliveira
+ Seleção:França
+ Idade:36
+ Valor de Mercado:137493616
+ Força:43
+ Velocidade:38
+ Resistência:72
+ Força de vontade:20
+ Posição: Def
+ Machucado:Sim
+
+747/Nome:Lucas Ferreira
+ Seleção:Argentina
+ Idade:37
+ Valor de Mercado:136159121
+ Força:51
+ Velocidade:99
+ Resistência:71
+ Força de vontade:81
+ Posição: Ata
+ Machucado:Nao
+
+748/Nome:João Silva
+ Seleção:Itália
+ Idade:37
+ Valor de Mercado:14982705
+ Força:24
+ Velocidade:39
+ Resistência:95
+ Força de vontade:75
+ Posição: Ata
+ Machucado:Nao
+
+749/Nome:Rafael Nascimento
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:39742459
+ Força:8
+ Velocidade:12
+ Resistência:3
+ Força de vontade:60
+ Posição: Mei
+ Machucado:Sim
+
+750/Nome:Felipe Oliveira
+ Seleção:Inglaterra
+ Idade:31
+ Valor de Mercado:113194945
+ Força:17
+ Velocidade:35
+ Resistência:43
+ Força de vontade:70
+ Posição: Ata
+ Machucado:Nao
+
+751/Nome:Felipe Oliveira
+ Seleção:França
+ Idade:37
+ Valor de Mercado:128512706
+ Força:26
+ Velocidade:66
+ Resistência:79
+ Força de vontade:45
+ Posição: Ata
+ Machucado:Sim
+
+752/Nome:João Santos
+ Seleção:Bélgica
+ Idade:36
+ Valor de Mercado:87749518
+ Força:14
+ Velocidade:50
+ Resistência:74
+ Força de vontade:40
+ Posição: Ata
+ Machucado:Nao
+
+753/Nome:João Almeida
+ Seleção:Portugal
+ Idade:32
+ Valor de Mercado:110058192
+ Força:8
+ Velocidade:24
+ Resistência:1
+ Força de vontade:34
+ Posição: Mei
+ Machucado:Sim
+
+754/Nome:Rafael Souza
+ Seleção:Alemanha
+ Idade:19
+ Valor de Mercado:45982443
+ Força:4
+ Velocidade:38
+ Resistência:59
+ Força de vontade:56
+ Posição: Def
+ Machucado:Sim
+
+755/Nome:Felipe Souza
+ Seleção:França
+ Idade:30
+ Valor de Mercado:65576360
+ Força:57
+ Velocidade:72
+ Resistência:66
+ Força de vontade:30
+ Posição: Ata
+ Machucado:Sim
+
+756/Nome:Felipe Pereira
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:38990685
+ Força:68
+ Velocidade:88
+ Resistência:77
+ Força de vontade:35
+ Posição: Mei
+ Machucado:Sim
+
+757/Nome:Felipe Silva
+ Seleção:Chile
+ Idade:33
+ Valor de Mercado:57218885
+ Força:7
+ Velocidade:24
+ Resistência:54
+ Força de vontade:72
+ Posição: Gol
+ Machucado:Nao
+
+758/Nome:André Pereira
+ Seleção:Portugal
+ Idade:29
+ Valor de Mercado:12875544
+ Força:91
+ Velocidade:93
+ Resistência:2
+ Força de vontade:14
+ Posição: Def
+ Machucado:Nao
+
+759/Nome:Felipe Silva
+ Seleção:França
+ Idade:37
+ Valor de Mercado:172636579
+ Força:78
+ Velocidade:86
+ Resistência:35
+ Força de vontade:83
+ Posição: Gol
+ Machucado:Sim
+
+760/Nome:Lucas Santos
+ Seleção:Bélgica
+ Idade:27
+ Valor de Mercado:164937388
+ Força:26
+ Velocidade:62
+ Resistência:30
+ Força de vontade:90
+ Posição: Def
+ Machucado:Nao
+
+761/Nome:Luiz Pereira
+ Seleção:Bélgica
+ Idade:34
+ Valor de Mercado:126334270
+ Força:53
+ Velocidade:22
+ Resistência:10
+ Força de vontade:69
+ Posição: Mei
+ Machucado:Nao
+
+762/Nome:Pedro Costa
+ Seleção:Alemanha
+ Idade:36
+ Valor de Mercado:105211890
+ Força:20
+ Velocidade:81
+ Resistência:88
+ Força de vontade:3
+ Posição: Gol
+ Machucado:Nao
+
+763/Nome:André Santos
+ Seleção:Argentina
+ Idade:24
+ Valor de Mercado:17575866
+ Força:75
+ Velocidade:89
+ Resistência:34
+ Força de vontade:30
+ Posição: Def
+ Machucado:Nao
+
+764/Nome:André Silva
+ Seleção:Itália
+ Idade:31
+ Valor de Mercado:138200384
+ Força:96
+ Velocidade:2
+ Resistência:91
+ Força de vontade:98
+ Posição: Ata
+ Machucado:Sim
+
+765/Nome:André Ferreira
+ Seleção:Itália
+ Idade:19
+ Valor de Mercado:27385452
+ Força:25
+ Velocidade:4
+ Resistência:69
+ Força de vontade:29
+ Posição: Gol
+ Machucado:Sim
+
+766/Nome:Felipe Oliveira
+ Seleção:França
+ Idade:37
+ Valor de Mercado:165420815
+ Força:25
+ Velocidade:81
+ Resistência:71
+ Força de vontade:89
+ Posição: Ata
+ Machucado:Nao
+
+767/Nome:Felipe Almeida
+ Seleção:Bélgica
+ Idade:20
+ Valor de Mercado:174511494
+ Força:60
+ Velocidade:72
+ Resistência:69
+ Força de vontade:55
+ Posição: Def
+ Machucado:Sim
+
+768/Nome:Leonardo Gomes
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:112245010
+ Força:62
+ Velocidade:44
+ Resistência:40
+ Força de vontade:87
+ Posição: Ata
+ Machucado:Nao
+
+769/Nome:Luiz Nascimento
+ Seleção:Argentina
+ Idade:31
+ Valor de Mercado:191892895
+ Força:53
+ Velocidade:43
+ Resistência:8
+ Força de vontade:38
+ Posição: Ata
+ Machucado:Sim
+
+770/Nome:Pedro Nascimento
+ Seleção:Espanha
+ Idade:24
+ Valor de Mercado:164739015
+ Força:17
+ Velocidade:21
+ Resistência:69
+ Força de vontade:57
+ Posição: Ata
+ Machucado:Nao
+
+771/Nome:Felipe Costa
+ Seleção:Itália
+ Idade:20
+ Valor de Mercado:83551816
+ Força:74
+ Velocidade:49
+ Resistência:85
+ Força de vontade:41
+ Posição: Def
+ Machucado:Nao
+
+772/Nome:Pedro Oliveira
+ Seleção:Inglaterra
+ Idade:25
+ Valor de Mercado:108389025
+ Força:55
+ Velocidade:66
+ Resistência:95
+ Força de vontade:8
+ Posição: Ata
+ Machucado:Nao
+
+773/Nome:Rafael Souza
+ Seleção:Argentina
+ Idade:20
+ Valor de Mercado:151738659
+ Força:74
+ Velocidade:80
+ Resistência:71
+ Força de vontade:97
+ Posição: Mei
+ Machucado:Sim
+
+774/Nome:Luiz Ferreira
+ Seleção:Itália
+ Idade:26
+ Valor de Mercado:23680543
+ Força:49
+ Velocidade:1
+ Resistência:22
+ Força de vontade:1
+ Posição: Ata
+ Machucado:Sim
+
+775/Nome:Lucas Gomes
+ Seleção:Espanha
+ Idade:22
+ Valor de Mercado:170488168
+ Força:24
+ Velocidade:64
+ Resistência:93
+ Força de vontade:13
+ Posição: Ata
+ Machucado:Nao
+
+776/Nome:João Almeida
+ Seleção:França
+ Idade:28
+ Valor de Mercado:78495823
+ Força:12
+ Velocidade:87
+ Resistência:57
+ Força de vontade:60
+ Posição: Gol
+ Machucado:Sim
+
+777/Nome:Gustavo Oliveira
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:199701929
+ Força:16
+ Velocidade:76
+ Resistência:6
+ Força de vontade:20
+ Posição: Def
+ Machucado:Nao
+
+778/Nome:João Gomes
+ Seleção:Brasil
+ Idade:29
+ Valor de Mercado:160279846
+ Força:73
+ Velocidade:85
+ Resistência:17
+ Força de vontade:3
+ Posição: Mei
+ Machucado:Sim
+
+779/Nome:João Souza
+ Seleção:Inglaterra
+ Idade:25
+ Valor de Mercado:137033229
+ Força:93
+ Velocidade:19
+ Resistência:51
+ Força de vontade:92
+ Posição: Ata
+ Machucado:Nao
+
+780/Nome:Pedro Nascimento
+ Seleção:Alemanha
+ Idade:31
+ Valor de Mercado:63258840
+ Força:71
+ Velocidade:73
+ Resistência:67
+ Força de vontade:31
+ Posição: Def
+ Machucado:Nao
+
+781/Nome:Gustavo Silva
+ Seleção:Portugal
+ Idade:20
+ Valor de Mercado:107163880
+ Força:12
+ Velocidade:37
+ Resistência:82
+ Força de vontade:24
+ Posição: Gol
+ Machucado:Nao
+
+782/Nome:André Costa
+ Seleção:Itália
+ Idade:29
+ Valor de Mercado:37055010
+ Força:5
+ Velocidade:95
+ Resistência:5
+ Força de vontade:89
+ Posição: Gol
+ Machucado:Sim
+
+783/Nome:Gustavo Santos
+ Seleção:França
+ Idade:29
+ Valor de Mercado:198038609
+ Força:81
+ Velocidade:2
+ Resistência:83
+ Força de vontade:30
+ Posição: Def
+ Machucado:Sim
+
+784/Nome:Gustavo Souza
+ Seleção:Bélgica
+ Idade:37
+ Valor de Mercado:1949233
+ Força:94
+ Velocidade:63
+ Resistência:19
+ Força de vontade:18
+ Posição: Def
+ Machucado:Nao
+
+785/Nome:João Santos
+ Seleção:Argentina
+ Idade:26
+ Valor de Mercado:37033720
+ Força:77
+ Velocidade:17
+ Resistência:5
+ Força de vontade:98
+ Posição: Def
+ Machucado:Sim
+
+786/Nome:Gustavo Santos
+ Seleção:Brasil
+ Idade:21
+ Valor de Mercado:65864741
+ Força:86
+ Velocidade:73
+ Resistência:5
+ Força de vontade:17
+ Posição: Gol
+ Machucado:Nao
+
+787/Nome:Pedro Almeida
+ Seleção:Inglaterra
+ Idade:26
+ Valor de Mercado:66669353
+ Força:5
+ Velocidade:87
+ Resistência:28
+ Força de vontade:67
+ Posição: Ata
+ Machucado:Sim
+
+788/Nome:Luiz Costa
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:96709405
+ Força:82
+ Velocidade:18
+ Resistência:75
+ Força de vontade:23
+ Posição: Def
+ Machucado:Nao
+
+789/Nome:André Pereira
+ Seleção:Portugal
+ Idade:27
+ Valor de Mercado:69679395
+ Força:12
+ Velocidade:78
+ Resistência:48
+ Força de vontade:65
+ Posição: Ata
+ Machucado:Sim
+
+790/Nome:Leonardo Santos
+ Seleção:França
+ Idade:25
+ Valor de Mercado:165093011
+ Força:72
+ Velocidade:75
+ Resistência:22
+ Força de vontade:29
+ Posição: Def
+ Machucado:Nao
+
+791/Nome:João Almeida
+ Seleção:Inglaterra
+ Idade:24
+ Valor de Mercado:173841749
+ Força:91
+ Velocidade:9
+ Resistência:30
+ Força de vontade:6
+ Posição: Gol
+ Machucado:Nao
+
+792/Nome:João Ferreira
+ Seleção:Espanha
+ Idade:22
+ Valor de Mercado:118465971
+ Força:95
+ Velocidade:41
+ Resistência:77
+ Força de vontade:33
+ Posição: Mei
+ Machucado:Sim
+
+793/Nome:Lucas Souza
+ Seleção:Alemanha
+ Idade:37
+ Valor de Mercado:34872025
+ Força:35
+ Velocidade:28
+ Resistência:91
+ Força de vontade:46
+ Posição: Ata
+ Machucado:Nao
+
+794/Nome:André Oliveira
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:38021930
+ Força:54
+ Velocidade:61
+ Resistência:15
+ Força de vontade:7
+ Posição: Mei
+ Machucado:Sim
+
+795/Nome:João Almeida
+ Seleção:Itália
+ Idade:30
+ Valor de Mercado:104681589
+ Força:13
+ Velocidade:37
+ Resistência:86
+ Força de vontade:15
+ Posição: Def
+ Machucado:Nao
+
+796/Nome:Marcos Gomes
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:24404942
+ Força:4
+ Velocidade:60
+ Resistência:79
+ Força de vontade:30
+ Posição: Ata
+ Machucado:Sim
+
+797/Nome:João Oliveira
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:42058288
+ Força:98
+ Velocidade:18
+ Resistência:14
+ Força de vontade:10
+ Posição: Gol
+ Machucado:Sim
+
+798/Nome:André Oliveira
+ Seleção:Inglaterra
+ Idade:24
+ Valor de Mercado:37813163
+ Força:42
+ Velocidade:73
+ Resistência:28
+ Força de vontade:78
+ Posição: Mei
+ Machucado:Sim
+
+799/Nome:Felipe Silva
+ Seleção:Espanha
+ Idade:23
+ Valor de Mercado:188113174
+ Força:17
+ Velocidade:75
+ Resistência:100
+ Força de vontade:17
+ Posição: Ata
+ Machucado:Sim
+
+800/Nome:Gustavo Costa
+ Seleção:Bélgica
+ Idade:26
+ Valor de Mercado:169771008
+ Força:34
+ Velocidade:58
+ Resistência:83
+ Força de vontade:48
+ Posição: Ata
+ Machucado:Sim
+
+801/Nome:Pedro Oliveira
+ Seleção:Itália
+ Idade:34
+ Valor de Mercado:628133
+ Força:4
+ Velocidade:74
+ Resistência:35
+ Força de vontade:99
+ Posição: Def
+ Machucado:Nao
+
+802/Nome:Pedro Souza
+ Seleção:Portugal
+ Idade:22
+ Valor de Mercado:145644187
+ Força:27
+ Velocidade:73
+ Resistência:20
+ Força de vontade:6
+ Posição: Gol
+ Machucado:Nao
+
+803/Nome:João Nascimento
+ Seleção:Brasil
+ Idade:20
+ Valor de Mercado:90370829
+ Força:53
+ Velocidade:62
+ Resistência:33
+ Força de vontade:14
+ Posição: Ata
+ Machucado:Nao
+
+804/Nome:Luiz Costa
+ Seleção:Chile
+ Idade:31
+ Valor de Mercado:107924387
+ Força:13
+ Velocidade:92
+ Resistência:3
+ Força de vontade:14
+ Posição: Def
+ Machucado:Nao
+
+805/Nome:Luiz Santos
+ Seleção:Itália
+ Idade:37
+ Valor de Mercado:111309156
+ Força:74
+ Velocidade:78
+ Resistência:80
+ Força de vontade:84
+ Posição: Ata
+ Machucado:Nao
+
+806/Nome:Pedro Oliveira
+ Seleção:Argentina
+ Idade:35
+ Valor de Mercado:107442677
+ Força:17
+ Velocidade:24
+ Resistência:47
+ Força de vontade:62
+ Posição: Gol
+ Machucado:Sim
+
+807/Nome:João Costa
+ Seleção:Espanha
+ Idade:22
+ Valor de Mercado:5480853
+ Força:2
+ Velocidade:70
+ Resistência:33
+ Força de vontade:69
+ Posição: Def
+ Machucado:Sim
+
+808/Nome:Leonardo Ferreira
+ Seleção:Itália
+ Idade:25
+ Valor de Mercado:160226511
+ Força:56
+ Velocidade:31
+ Resistência:18
+ Força de vontade:7
+ Posição: Mei
+ Machucado:Sim
+
+809/Nome:Luiz Silva
+ Seleção:Itália
+ Idade:24
+ Valor de Mercado:66077420
+ Força:62
+ Velocidade:20
+ Resistência:85
+ Força de vontade:22
+ Posição: Def
+ Machucado:Nao
+
+810/Nome:André Silva
+ Seleção:Espanha
+ Idade:19
+ Valor de Mercado:93810036
+ Força:80
+ Velocidade:91
+ Resistência:100
+ Força de vontade:48
+ Posição: Ata
+ Machucado:Nao
+
+811/Nome:Felipe Oliveira
+ Seleção:Itália
+ Idade:37
+ Valor de Mercado:157901794
+ Força:14
+ Velocidade:38
+ Resistência:83
+ Força de vontade:99
+ Posição: Gol
+ Machucado:Sim
+
+812/Nome:Rafael Ferreira
+ Seleção:Espanha
+ Idade:31
+ Valor de Mercado:80429606
+ Força:32
+ Velocidade:95
+ Resistência:66
+ Força de vontade:78
+ Posição: Mei
+ Machucado:Sim
+
+813/Nome:Lucas Pereira
+ Seleção:Chile
+ Idade:34
+ Valor de Mercado:71213930
+ Força:68
+ Velocidade:4
+ Resistência:95
+ Força de vontade:53
+ Posição: Gol
+ Machucado:Sim
+
+814/Nome:Leonardo Gomes
+ Seleção:Alemanha
+ Idade:19
+ Valor de Mercado:197477395
+ Força:88
+ Velocidade:60
+ Resistência:24
+ Força de vontade:15
+ Posição: Mei
+ Machucado:Nao
+
+815/Nome:João Oliveira
+ Seleção:Inglaterra
+ Idade:34
+ Valor de Mercado:144947992
+ Força:34
+ Velocidade:75
+ Resistência:59
+ Força de vontade:66
+ Posição: Def
+ Machucado:Sim
+
+816/Nome:Marcos Almeida
+ Seleção:Inglaterra
+ Idade:23
+ Valor de Mercado:123974110
+ Força:24
+ Velocidade:58
+ Resistência:90
+ Força de vontade:82
+ Posição: Mei
+ Machucado:Sim
+
+817/Nome:Gustavo Souza
+ Seleção:Itália
+ Idade:31
+ Valor de Mercado:44891079
+ Força:71
+ Velocidade:40
+ Resistência:52
+ Força de vontade:81
+ Posição: Ata
+ Machucado:Sim
+
+818/Nome:Leonardo Gomes
+ Seleção:Argentina
+ Idade:19
+ Valor de Mercado:5707427
+ Força:52
+ Velocidade:99
+ Resistência:78
+ Força de vontade:50
+ Posição: Def
+ Machucado:Sim
+
+819/Nome:André Souza
+ Seleção:Inglaterra
+ Idade:19
+ Valor de Mercado:161013398
+ Força:88
+ Velocidade:83
+ Resistência:57
+ Força de vontade:87
+ Posição: Gol
+ Machucado:Nao
+
+820/Nome:Felipe Ferreira
+ Seleção:Argentina
+ Idade:20
+ Valor de Mercado:58685034
+ Força:6
+ Velocidade:35
+ Resistência:39
+ Força de vontade:7
+ Posição: Mei
+ Machucado:Nao
+
+821/Nome:Pedro Gomes
+ Seleção:Brasil
+ Idade:27
+ Valor de Mercado:73813013
+ Força:49
+ Velocidade:100
+ Resistência:50
+ Força de vontade:85
+ Posição: Ata
+ Machucado:Sim
+
+822/Nome:Pedro Ferreira
+ Seleção:Bélgica
+ Idade:19
+ Valor de Mercado:106473812
+ Força:96
+ Velocidade:60
+ Resistência:82
+ Força de vontade:72
+ Posição: Mei
+ Machucado:Nao
+
+823/Nome:Leonardo Almeida
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:113527980
+ Força:5
+ Velocidade:90
+ Resistência:16
+ Força de vontade:97
+ Posição: Mei
+ Machucado:Nao
+
+824/Nome:João Souza
+ Seleção:Inglaterra
+ Idade:24
+ Valor de Mercado:153203340
+ Força:98
+ Velocidade:3
+ Resistência:18
+ Força de vontade:39
+ Posição: Def
+ Machucado:Nao
+
+825/Nome:Luiz Silva
+ Seleção:Bélgica
+ Idade:35
+ Valor de Mercado:105800968
+ Força:94
+ Velocidade:49
+ Resistência:13
+ Força de vontade:22
+ Posição: Def
+ Machucado:Sim
+
+826/Nome:Leonardo Almeida
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:198714150
+ Força:6
+ Velocidade:88
+ Resistência:38
+ Força de vontade:37
+ Posição: Def
+ Machucado:Sim
+
+827/Nome:Leonardo Pereira
+ Seleção:Chile
+ Idade:19
+ Valor de Mercado:140048875
+ Força:36
+ Velocidade:20
+ Resistência:64
+ Força de vontade:83
+ Posição: Gol
+ Machucado:Sim
+
+828/Nome:Felipe Ferreira
+ Seleção:França
+ Idade:33
+ Valor de Mercado:151320879
+ Força:54
+ Velocidade:9
+ Resistência:6
+ Força de vontade:12
+ Posição: Ata
+ Machucado:Nao
+
+829/Nome:Marcos Ferreira
+ Seleção:Chile
+ Idade:25
+ Valor de Mercado:51631422
+ Força:59
+ Velocidade:96
+ Resistência:29
+ Força de vontade:37
+ Posição: Mei
+ Machucado:Nao
+
+830/Nome:Lucas Almeida
+ Seleção:Bélgica
+ Idade:20
+ Valor de Mercado:25219284
+ Força:44
+ Velocidade:78
+ Resistência:86
+ Força de vontade:17
+ Posição: Gol
+ Machucado:Nao
+
+831/Nome:André Nascimento
+ Seleção:Itália
+ Idade:21
+ Valor de Mercado:88844366
+ Força:2
+ Velocidade:27
+ Resistência:62
+ Força de vontade:21
+ Posição: Mei
+ Machucado:Nao
+
+832/Nome:Rafael Gomes
+ Seleção:França
+ Idade:24
+ Valor de Mercado:17293235
+ Força:50
+ Velocidade:36
+ Resistência:68
+ Força de vontade:55
+ Posição: Gol
+ Machucado:Sim
+
+833/Nome:Gustavo Oliveira
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:77522413
+ Força:50
+ Velocidade:45
+ Resistência:37
+ Força de vontade:14
+ Posição: Gol
+ Machucado:Sim
+
+834/Nome:André Costa
+ Seleção:Argentina
+ Idade:29
+ Valor de Mercado:110617943
+ Força:26
+ Velocidade:32
+ Resistência:25
+ Força de vontade:26
+ Posição: Def
+ Machucado:Sim
+
+835/Nome:André Souza
+ Seleção:Bélgica
+ Idade:26
+ Valor de Mercado:171399505
+ Força:67
+ Velocidade:3
+ Resistência:48
+ Força de vontade:99
+ Posição: Mei
+ Machucado:Nao
+
+836/Nome:Felipe Santos
+ Seleção:Bélgica
+ Idade:28
+ Valor de Mercado:160495460
+ Força:86
+ Velocidade:77
+ Resistência:15
+ Força de vontade:33
+ Posição: Gol
+ Machucado:Nao
+
+837/Nome:Pedro Souza
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:49785479
+ Força:52
+ Velocidade:52
+ Resistência:4
+ Força de vontade:16
+ Posição: Gol
+ Machucado:Nao
+
+838/Nome:Felipe Souza
+ Seleção:Chile
+ Idade:23
+ Valor de Mercado:3027951
+ Força:78
+ Velocidade:84
+ Resistência:40
+ Força de vontade:13
+ Posição: Def
+ Machucado:Nao
+
+839/Nome:Luiz Santos
+ Seleção:Portugal
+ Idade:37
+ Valor de Mercado:167518935
+ Força:31
+ Velocidade:84
+ Resistência:73
+ Força de vontade:14
+ Posição: Ata
+ Machucado:Sim
+
+840/Nome:Pedro Silva
+ Seleção:Argentina
+ Idade:21
+ Valor de Mercado:191894060
+ Força:56
+ Velocidade:11
+ Resistência:11
+ Força de vontade:29
+ Posição: Def
+ Machucado:Nao
+
+841/Nome:Gustavo Gomes
+ Seleção:França
+ Idade:25
+ Valor de Mercado:136789997
+ Força:3
+ Velocidade:1
+ Resistência:46
+ Força de vontade:10
+ Posição: Mei
+ Machucado:Nao
+
+842/Nome:André Souza
+ Seleção:Bélgica
+ Idade:36
+ Valor de Mercado:178916099
+ Força:13
+ Velocidade:73
+ Resistência:84
+ Força de vontade:34
+ Posição: Gol
+ Machucado:Nao
+
+843/Nome:João Nascimento
+ Seleção:Alemanha
+ Idade:31
+ Valor de Mercado:85998370
+ Força:64
+ Velocidade:74
+ Resistência:100
+ Força de vontade:23
+ Posição: Gol
+ Machucado:Sim
+
+844/Nome:Felipe Almeida
+ Seleção:Argentina
+ Idade:25
+ Valor de Mercado:74522723
+ Força:9
+ Velocidade:49
+ Resistência:38
+ Força de vontade:13
+ Posição: Ata
+ Machucado:Sim
+
+845/Nome:Felipe Pereira
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:139134407
+ Força:37
+ Velocidade:2
+ Resistência:25
+ Força de vontade:29
+ Posição: Ata
+ Machucado:Nao
+
+846/Nome:André Santos
+ Seleção:Itália
+ Idade:34
+ Valor de Mercado:106185309
+ Força:55
+ Velocidade:20
+ Resistência:94
+ Força de vontade:20
+ Posição: Ata
+ Machucado:Sim
+
+847/Nome:André Ferreira
+ Seleção:Brasil
+ Idade:20
+ Valor de Mercado:103709992
+ Força:78
+ Velocidade:7
+ Resistência:70
+ Força de vontade:83
+ Posição: Gol
+ Machucado:Sim
+
+848/Nome:Luiz Almeida
+ Seleção:Argentina
+ Idade:21
+ Valor de Mercado:37396479
+ Força:89
+ Velocidade:5
+ Resistência:71
+ Força de vontade:73
+ Posição: Mei
+ Machucado:Sim
+
+849/Nome:Felipe Costa
+ Seleção:Argentina
+ Idade:23
+ Valor de Mercado:183429853
+ Força:8
+ Velocidade:5
+ Resistência:10
+ Força de vontade:25
+ Posição: Mei
+ Machucado:Nao
+
+850/Nome:Luiz Pereira
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:167786887
+ Força:20
+ Velocidade:76
+ Resistência:50
+ Força de vontade:25
+ Posição: Gol
+ Machucado:Sim
+
+851/Nome:Marcos Costa
+ Seleção:Espanha
+ Idade:27
+ Valor de Mercado:181876142
+ Força:78
+ Velocidade:3
+ Resistência:81
+ Força de vontade:84
+ Posição: Mei
+ Machucado:Nao
+
+852/Nome:André Nascimento
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:103018322
+ Força:29
+ Velocidade:82
+ Resistência:62
+ Força de vontade:35
+ Posição: Mei
+ Machucado:Nao
+
+853/Nome:Felipe Pereira
+ Seleção:Argentina
+ Idade:33
+ Valor de Mercado:89367065
+ Força:83
+ Velocidade:33
+ Resistência:29
+ Força de vontade:11
+ Posição: Mei
+ Machucado:Nao
+
+854/Nome:Rafael Costa
+ Seleção:Bélgica
+ Idade:25
+ Valor de Mercado:146331304
+ Força:42
+ Velocidade:83
+ Resistência:38
+ Força de vontade:56
+ Posição: Mei
+ Machucado:Nao
+
+855/Nome:Luiz Souza
+ Seleção:Brasil
+ Idade:25
+ Valor de Mercado:70184769
+ Força:44
+ Velocidade:94
+ Resistência:15
+ Força de vontade:89
+ Posição: Gol
+ Machucado:Nao
+
+856/Nome:André Santos
+ Seleção:Brasil
+ Idade:33
+ Valor de Mercado:68439968
+ Força:51
+ Velocidade:66
+ Resistência:42
+ Força de vontade:70
+ Posição: Gol
+ Machucado:Nao
+
+857/Nome:André Costa
+ Seleção:Brasil
+ Idade:30
+ Valor de Mercado:126235467
+ Força:91
+ Velocidade:81
+ Resistência:100
+ Força de vontade:98
+ Posição: Def
+ Machucado:Sim
+
+858/Nome:Rafael Nascimento
+ Seleção:Bélgica
+ Idade:20
+ Valor de Mercado:96218658
+ Força:24
+ Velocidade:12
+ Resistência:88
+ Força de vontade:81
+ Posição: Def
+ Machucado:Sim
+
+859/Nome:André Ferreira
+ Seleção:Argentina
+ Idade:22
+ Valor de Mercado:64026456
+ Força:35
+ Velocidade:75
+ Resistência:43
+ Força de vontade:79
+ Posição: Ata
+ Machucado:Sim
+
+860/Nome:Marcos Silva
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:188339557
+ Força:95
+ Velocidade:19
+ Resistência:65
+ Força de vontade:35
+ Posição: Def
+ Machucado:Nao
+
+861/Nome:Gustavo Oliveira
+ Seleção:Chile
+ Idade:36
+ Valor de Mercado:6655583
+ Força:28
+ Velocidade:51
+ Resistência:68
+ Força de vontade:52
+ Posição: Gol
+ Machucado:Nao
+
+862/Nome:Leonardo Pereira
+ Seleção:Itália
+ Idade:36
+ Valor de Mercado:179837031
+ Força:57
+ Velocidade:9
+ Resistência:37
+ Força de vontade:85
+ Posição: Def
+ Machucado:Sim
+
+863/Nome:Felipe Silva
+ Seleção:França
+ Idade:24
+ Valor de Mercado:7676329
+ Força:88
+ Velocidade:61
+ Resistência:79
+ Força de vontade:69
+ Posição: Ata
+ Machucado:Sim
+
+864/Nome:Leonardo Souza
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:10408376
+ Força:1
+ Velocidade:88
+ Resistência:82
+ Força de vontade:59
+ Posição: Mei
+ Machucado:Nao
+
+865/Nome:Leonardo Pereira
+ Seleção:França
+ Idade:19
+ Valor de Mercado:147851821
+ Força:10
+ Velocidade:18
+ Resistência:13
+ Força de vontade:75
+ Posição: Def
+ Machucado:Nao
+
+866/Nome:Felipe Nascimento
+ Seleção:Itália
+ Idade:34
+ Valor de Mercado:139279336
+ Força:83
+ Velocidade:6
+ Resistência:93
+ Força de vontade:34
+ Posição: Gol
+ Machucado:Nao
+
+867/Nome:Leonardo Souza
+ Seleção:Inglaterra
+ Idade:37
+ Valor de Mercado:107051989
+ Força:28
+ Velocidade:30
+ Resistência:73
+ Força de vontade:18
+ Posição: Def
+ Machucado:Nao
+
+868/Nome:Marcos Silva
+ Seleção:Bélgica
+ Idade:37
+ Valor de Mercado:83874804
+ Força:24
+ Velocidade:27
+ Resistência:3
+ Força de vontade:47
+ Posição: Ata
+ Machucado:Sim
+
+869/Nome:Leonardo Ferreira
+ Seleção:Itália
+ Idade:35
+ Valor de Mercado:157669317
+ Força:59
+ Velocidade:71
+ Resistência:31
+ Força de vontade:77
+ Posição: Gol
+ Machucado:Nao
+
+870/Nome:Lucas Oliveira
+ Seleção:França
+ Idade:28
+ Valor de Mercado:18823637
+ Força:46
+ Velocidade:21
+ Resistência:44
+ Força de vontade:32
+ Posição: Ata
+ Machucado:Sim
+
+871/Nome:João Oliveira
+ Seleção:Inglaterra
+ Idade:24
+ Valor de Mercado:110888488
+ Força:41
+ Velocidade:14
+ Resistência:64
+ Força de vontade:19
+ Posição: Mei
+ Machucado:Sim
+
+872/Nome:Luiz Oliveira
+ Seleção:Itália
+ Idade:29
+ Valor de Mercado:154297226
+ Força:28
+ Velocidade:21
+ Resistência:16
+ Força de vontade:60
+ Posição: Gol
+ Machucado:Nao
+
+873/Nome:André Ferreira
+ Seleção:Alemanha
+ Idade:35
+ Valor de Mercado:154380917
+ Força:7
+ Velocidade:62
+ Resistência:29
+ Força de vontade:89
+ Posição: Def
+ Machucado:Nao
+
+874/Nome:João Almeida
+ Seleção:Brasil
+ Idade:33
+ Valor de Mercado:126680183
+ Força:94
+ Velocidade:87
+ Resistência:4
+ Força de vontade:22
+ Posição: Mei
+ Machucado:Sim
+
+875/Nome:Rafael Almeida
+ Seleção:Itália
+ Idade:30
+ Valor de Mercado:69277734
+ Força:2
+ Velocidade:52
+ Resistência:30
+ Força de vontade:76
+ Posição: Mei
+ Machucado:Nao
+
+876/Nome:Gustavo Costa
+ Seleção:Inglaterra
+ Idade:35
+ Valor de Mercado:131379474
+ Força:77
+ Velocidade:87
+ Resistência:79
+ Força de vontade:67
+ Posição: Def
+ Machucado:Nao
+
+877/Nome:Leonardo Souza
+ Seleção:Itália
+ Idade:20
+ Valor de Mercado:139062966
+ Força:40
+ Velocidade:64
+ Resistência:38
+ Força de vontade:47
+ Posição: Gol
+ Machucado:Nao
+
+878/Nome:João Ferreira
+ Seleção:Inglaterra
+ Idade:23
+ Valor de Mercado:118932624
+ Força:69
+ Velocidade:62
+ Resistência:61
+ Força de vontade:48
+ Posição: Def
+ Machucado:Sim
+
+879/Nome:Luiz Almeida
+ Seleção:Bélgica
+ Idade:30
+ Valor de Mercado:94887439
+ Força:30
+ Velocidade:91
+ Resistência:5
+ Força de vontade:30
+ Posição: Def
+ Machucado:Sim
+
+880/Nome:Luiz Oliveira
+ Seleção:França
+ Idade:30
+ Valor de Mercado:15036096
+ Força:90
+ Velocidade:52
+ Resistência:25
+ Força de vontade:42
+ Posição: Def
+ Machucado:Nao
+
+881/Nome:Rafael Costa
+ Seleção:Itália
+ Idade:25
+ Valor de Mercado:91271934
+ Força:87
+ Velocidade:47
+ Resistência:39
+ Força de vontade:12
+ Posição: Def
+ Machucado:Nao
+
+882/Nome:Gustavo Ferreira
+ Seleção:França
+ Idade:21
+ Valor de Mercado:190789156
+ Força:36
+ Velocidade:73
+ Resistência:48
+ Força de vontade:21
+ Posição: Mei
+ Machucado:Sim
+
+883/Nome:Leonardo Pereira
+ Seleção:Inglaterra
+ Idade:31
+ Valor de Mercado:127654445
+ Força:54
+ Velocidade:7
+ Resistência:82
+ Força de vontade:3
+ Posição: Mei
+ Machucado:Sim
+
+884/Nome:André Souza
+ Seleção:Chile
+ Idade:32
+ Valor de Mercado:137949831
+ Força:79
+ Velocidade:78
+ Resistência:74
+ Força de vontade:70
+ Posição: Def
+ Machucado:Nao
+
+885/Nome:Gustavo Silva
+ Seleção:Chile
+ Idade:34
+ Valor de Mercado:139741959
+ Força:96
+ Velocidade:9
+ Resistência:98
+ Força de vontade:77
+ Posição: Mei
+ Machucado:Nao
+
+886/Nome:Gustavo Ferreira
+ Seleção:Espanha
+ Idade:23
+ Valor de Mercado:9827203
+ Força:19
+ Velocidade:61
+ Resistência:42
+ Força de vontade:25
+ Posição: Def
+ Machucado:Sim
+
+887/Nome:Marcos Ferreira
+ Seleção:Espanha
+ Idade:20
+ Valor de Mercado:88995732
+ Força:32
+ Velocidade:12
+ Resistência:25
+ Força de vontade:23
+ Posição: Ata
+ Machucado:Sim
+
+888/Nome:Leonardo Ferreira
+ Seleção:Bélgica
+ Idade:36
+ Valor de Mercado:198145460
+ Força:67
+ Velocidade:95
+ Resistência:94
+ Força de vontade:59
+ Posição: Gol
+ Machucado:Sim
+
+889/Nome:João Almeida
+ Seleção:Inglaterra
+ Idade:23
+ Valor de Mercado:192926316
+ Força:88
+ Velocidade:90
+ Resistência:5
+ Força de vontade:14
+ Posição: Gol
+ Machucado:Sim
+
+890/Nome:Rafael Silva
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:38495006
+ Força:17
+ Velocidade:29
+ Resistência:71
+ Força de vontade:27
+ Posição: Ata
+ Machucado:Nao
+
+891/Nome:Lucas Souza
+ Seleção:Portugal
+ Idade:20
+ Valor de Mercado:78782214
+ Força:29
+ Velocidade:73
+ Resistência:66
+ Força de vontade:71
+ Posição: Gol
+ Machucado:Sim
+
+892/Nome:Pedro Gomes
+ Seleção:Bélgica
+ Idade:33
+ Valor de Mercado:144655821
+ Força:94
+ Velocidade:21
+ Resistência:75
+ Força de vontade:54
+ Posição: Gol
+ Machucado:Nao
+
+893/Nome:Gustavo Almeida
+ Seleção:Chile
+ Idade:19
+ Valor de Mercado:58686276
+ Força:51
+ Velocidade:40
+ Resistência:28
+ Força de vontade:26
+ Posição: Gol
+ Machucado:Nao
+
+894/Nome:Rafael Silva
+ Seleção:Itália
+ Idade:18
+ Valor de Mercado:103367022
+ Força:80
+ Velocidade:63
+ Resistência:43
+ Força de vontade:53
+ Posição: Mei
+ Machucado:Nao
+
+895/Nome:André Santos
+ Seleção:Chile
+ Idade:24
+ Valor de Mercado:151426359
+ Força:23
+ Velocidade:92
+ Resistência:3
+ Força de vontade:45
+ Posição: Mei
+ Machucado:Nao
+
+896/Nome:João Pereira
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:89892089
+ Força:7
+ Velocidade:52
+ Resistência:77
+ Força de vontade:6
+ Posição: Def
+ Machucado:Sim
+
+897/Nome:Marcos Costa
+ Seleção:França
+ Idade:28
+ Valor de Mercado:49980618
+ Força:44
+ Velocidade:3
+ Resistência:50
+ Força de vontade:18
+ Posição: Ata
+ Machucado:Nao
+
+898/Nome:Rafael Nascimento
+ Seleção:Chile
+ Idade:30
+ Valor de Mercado:54317073
+ Força:53
+ Velocidade:37
+ Resistência:63
+ Força de vontade:56
+ Posição: Mei
+ Machucado:Nao
+
+899/Nome:Felipe Pereira
+ Seleção:Itália
+ Idade:30
+ Valor de Mercado:81826442
+ Força:82
+ Velocidade:50
+ Resistência:6
+ Força de vontade:60
+ Posição: Mei
+ Machucado:Sim
+
+900/Nome:Pedro Silva
+ Seleção:Bélgica
+ Idade:33
+ Valor de Mercado:37918974
+ Força:81
+ Velocidade:26
+ Resistência:22
+ Força de vontade:20
+ Posição: Ata
+ Machucado:Nao
+
+901/Nome:Luiz Gomes
+ Seleção:França
+ Idade:20
+ Valor de Mercado:123554422
+ Força:44
+ Velocidade:30
+ Resistência:35
+ Força de vontade:59
+ Posição: Mei
+ Machucado:Sim
+
+902/Nome:Luiz Oliveira
+ Seleção:Espanha
+ Idade:22
+ Valor de Mercado:7523609
+ Força:25
+ Velocidade:56
+ Resistência:79
+ Força de vontade:38
+ Posição: Ata
+ Machucado:Nao
+
+903/Nome:Pedro Souza
+ Seleção:Espanha
+ Idade:26
+ Valor de Mercado:28105096
+ Força:50
+ Velocidade:69
+ Resistência:92
+ Força de vontade:5
+ Posição: Ata
+ Machucado:Sim
+
+904/Nome:Luiz Nascimento
+ Seleção:Chile
+ Idade:30
+ Valor de Mercado:18442442
+ Força:35
+ Velocidade:92
+ Resistência:58
+ Força de vontade:60
+ Posição: Gol
+ Machucado:Sim
+
+905/Nome:Rafael Gomes
+ Seleção:Inglaterra
+ Idade:33
+ Valor de Mercado:135624205
+ Força:57
+ Velocidade:93
+ Resistência:74
+ Força de vontade:58
+ Posição: Mei
+ Machucado:Sim
+
+906/Nome:Rafael Almeida
+ Seleção:Portugal
+ Idade:24
+ Valor de Mercado:192702929
+ Força:37
+ Velocidade:43
+ Resistência:20
+ Força de vontade:15
+ Posição: Def
+ Machucado:Nao
+
+907/Nome:Lucas Pereira
+ Seleção:Itália
+ Idade:26
+ Valor de Mercado:108948203
+ Força:84
+ Velocidade:61
+ Resistência:10
+ Força de vontade:1
+ Posição: Gol
+ Machucado:Sim
+
+908/Nome:Gustavo Gomes
+ Seleção:Espanha
+ Idade:32
+ Valor de Mercado:172835638
+ Força:43
+ Velocidade:45
+ Resistência:100
+ Força de vontade:40
+ Posição: Def
+ Machucado:Sim
+
+909/Nome:Leonardo Nascimento
+ Seleção:Brasil
+ Idade:31
+ Valor de Mercado:18009209
+ Força:10
+ Velocidade:40
+ Resistência:42
+ Força de vontade:42
+ Posição: Ata
+ Machucado:Nao
+
+910/Nome:André Nascimento
+ Seleção:Bélgica
+ Idade:29
+ Valor de Mercado:94383314
+ Força:72
+ Velocidade:4
+ Resistência:53
+ Força de vontade:31
+ Posição: Mei
+ Machucado:Nao
+
+911/Nome:Leonardo Costa
+ Seleção:Inglaterra
+ Idade:20
+ Valor de Mercado:120720764
+ Força:88
+ Velocidade:34
+ Resistência:46
+ Força de vontade:48
+ Posição: Gol
+ Machucado:Sim
+
+912/Nome:André Nascimento
+ Seleção:Inglaterra
+ Idade:25
+ Valor de Mercado:144198435
+ Força:68
+ Velocidade:41
+ Resistência:42
+ Força de vontade:74
+ Posição: Gol
+ Machucado:Sim
+
+913/Nome:Luiz Almeida
+ Seleção:Bélgica
+ Idade:24
+ Valor de Mercado:128964666
+ Força:14
+ Velocidade:89
+ Resistência:1
+ Força de vontade:12
+ Posição: Ata
+ Machucado:Sim
+
+914/Nome:Pedro Costa
+ Seleção:Espanha
+ Idade:24
+ Valor de Mercado:94508915
+ Força:84
+ Velocidade:87
+ Resistência:39
+ Força de vontade:100
+ Posição: Mei
+ Machucado:Sim
+
+915/Nome:Marcos Almeida
+ Seleção:Alemanha
+ Idade:23
+ Valor de Mercado:29635415
+ Força:15
+ Velocidade:71
+ Resistência:76
+ Força de vontade:10
+ Posição: Mei
+ Machucado:Nao
+
+916/Nome:Leonardo Gomes
+ Seleção:Itália
+ Idade:30
+ Valor de Mercado:162491252
+ Força:58
+ Velocidade:96
+ Resistência:41
+ Força de vontade:31
+ Posição: Ata
+ Machucado:Nao
+
+917/Nome:André Nascimento
+ Seleção:França
+ Idade:20
+ Valor de Mercado:192477171
+ Força:80
+ Velocidade:3
+ Resistência:48
+ Força de vontade:18
+ Posição: Def
+ Machucado:Nao
+
+918/Nome:Gustavo Santos
+ Seleção:Itália
+ Idade:23
+ Valor de Mercado:103296195
+ Força:60
+ Velocidade:68
+ Resistência:53
+ Força de vontade:98
+ Posição: Gol
+ Machucado:Nao
+
+919/Nome:Marcos Pereira
+ Seleção:Chile
+ Idade:21
+ Valor de Mercado:86927765
+ Força:61
+ Velocidade:94
+ Resistência:65
+ Força de vontade:35
+ Posição: Def
+ Machucado:Nao
+
+920/Nome:Gustavo Almeida
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:15636017
+ Força:21
+ Velocidade:25
+ Resistência:97
+ Força de vontade:90
+ Posição: Ata
+ Machucado:Sim
+
+921/Nome:Felipe Souza
+ Seleção:Brasil
+ Idade:23
+ Valor de Mercado:181016840
+ Força:73
+ Velocidade:36
+ Resistência:78
+ Força de vontade:89
+ Posição: Def
+ Machucado:Nao
+
+922/Nome:Rafael Souza
+ Seleção:Itália
+ Idade:34
+ Valor de Mercado:123337397
+ Força:29
+ Velocidade:3
+ Resistência:10
+ Força de vontade:30
+ Posição: Gol
+ Machucado:Nao
+
+923/Nome:André Ferreira
+ Seleção:França
+ Idade:20
+ Valor de Mercado:98352265
+ Força:91
+ Velocidade:65
+ Resistência:34
+ Força de vontade:64
+ Posição: Def
+ Machucado:Sim
+
+924/Nome:Leonardo Oliveira
+ Seleção:Brasil
+ Idade:33
+ Valor de Mercado:100710462
+ Força:28
+ Velocidade:97
+ Resistência:4
+ Força de vontade:27
+ Posição: Ata
+ Machucado:Sim
+
+925/Nome:Rafael Silva
+ Seleção:Inglaterra
+ Idade:28
+ Valor de Mercado:61274575
+ Força:19
+ Velocidade:53
+ Resistência:6
+ Força de vontade:43
+ Posição: Def
+ Machucado:Sim
+
+926/Nome:Marcos Souza
+ Seleção:Argentina
+ Idade:24
+ Valor de Mercado:93468393
+ Força:46
+ Velocidade:42
+ Resistência:84
+ Força de vontade:56
+ Posição: Def
+ Machucado:Sim
+
+927/Nome:João Almeida
+ Seleção:Portugal
+ Idade:30
+ Valor de Mercado:79252727
+ Força:29
+ Velocidade:60
+ Resistência:33
+ Força de vontade:89
+ Posição: Ata
+ Machucado:Sim
+
+928/Nome:Luiz Souza
+ Seleção:Brasil
+ Idade:32
+ Valor de Mercado:115373476
+ Força:39
+ Velocidade:58
+ Resistência:31
+ Força de vontade:85
+ Posição: Gol
+ Machucado:Nao
+
+929/Nome:Gustavo Gomes
+ Seleção:Itália
+ Idade:23
+ Valor de Mercado:50619412
+ Força:40
+ Velocidade:1
+ Resistência:37
+ Força de vontade:51
+ Posição: Ata
+ Machucado:Nao
+
+930/Nome:Gustavo Nascimento
+ Seleção:Espanha
+ Idade:25
+ Valor de Mercado:70488149
+ Força:32
+ Velocidade:96
+ Resistência:3
+ Força de vontade:37
+ Posição: Mei
+ Machucado:Nao
+
+931/Nome:Marcos Gomes
+ Seleção:Argentina
+ Idade:36
+ Valor de Mercado:165702167
+ Força:86
+ Velocidade:44
+ Resistência:61
+ Força de vontade:97
+ Posição: Mei
+ Machucado:Sim
+
+932/Nome:Felipe Santos
+ Seleção:Portugal
+ Idade:18
+ Valor de Mercado:91258189
+ Força:84
+ Velocidade:43
+ Resistência:48
+ Força de vontade:56
+ Posição: Def
+ Machucado:Nao
+
+933/Nome:Rafael Ferreira
+ Seleção:Chile
+ Idade:23
+ Valor de Mercado:177901224
+ Força:41
+ Velocidade:74
+ Resistência:69
+ Força de vontade:20
+ Posição: Def
+ Machucado:Nao
+
+934/Nome:Rafael Santos
+ Seleção:Itália
+ Idade:36
+ Valor de Mercado:119366195
+ Força:8
+ Velocidade:56
+ Resistência:39
+ Força de vontade:43
+ Posição: Gol
+ Machucado:Nao
+
+935/Nome:Gustavo Gomes
+ Seleção:França
+ Idade:31
+ Valor de Mercado:155250991
+ Força:69
+ Velocidade:29
+ Resistência:13
+ Força de vontade:6
+ Posição: Gol
+ Machucado:Sim
+
+936/Nome:Gustavo Almeida
+ Seleção:Inglaterra
+ Idade:33
+ Valor de Mercado:104238892
+ Força:35
+ Velocidade:55
+ Resistência:35
+ Força de vontade:14
+ Posição: Ata
+ Machucado:Sim
+
+937/Nome:Marcos Gomes
+ Seleção:Alemanha
+ Idade:25
+ Valor de Mercado:84383093
+ Força:24
+ Velocidade:10
+ Resistência:2
+ Força de vontade:4
+ Posição: Mei
+ Machucado:Sim
+
+938/Nome:João Pereira
+ Seleção:Alemanha
+ Idade:22
+ Valor de Mercado:17500253
+ Força:6
+ Velocidade:2
+ Resistência:89
+ Força de vontade:48
+ Posição: Def
+ Machucado:Nao
+
+939/Nome:Luiz Almeida
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:100749038
+ Força:35
+ Velocidade:14
+ Resistência:19
+ Força de vontade:73
+ Posição: Ata
+ Machucado:Sim
+
+940/Nome:André Almeida
+ Seleção:Brasil
+ Idade:26
+ Valor de Mercado:86920453
+ Força:52
+ Velocidade:84
+ Resistência:54
+ Força de vontade:2
+ Posição: Gol
+ Machucado:Nao
+
+941/Nome:Leonardo Souza
+ Seleção:França
+ Idade:22
+ Valor de Mercado:87887556
+ Força:20
+ Velocidade:4
+ Resistência:53
+ Força de vontade:28
+ Posição: Ata
+ Machucado:Nao
+
+942/Nome:Marcos Nascimento
+ Seleção:Inglaterra
+ Idade:31
+ Valor de Mercado:136343832
+ Força:45
+ Velocidade:38
+ Resistência:58
+ Força de vontade:1
+ Posição: Ata
+ Machucado:Sim
+
+943/Nome:Gustavo Silva
+ Seleção:Alemanha
+ Idade:20
+ Valor de Mercado:157808458
+ Força:9
+ Velocidade:56
+ Resistência:70
+ Força de vontade:87
+ Posição: Mei
+ Machucado:Sim
+
+944/Nome:Luiz Costa
+ Seleção:França
+ Idade:19
+ Valor de Mercado:190474261
+ Força:87
+ Velocidade:21
+ Resistência:30
+ Força de vontade:75
+ Posição: Mei
+ Machucado:Sim
+
+945/Nome:Leonardo Silva
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:5276401
+ Força:91
+ Velocidade:97
+ Resistência:96
+ Força de vontade:93
+ Posição: Gol
+ Machucado:Nao
+
+946/Nome:Gustavo Nascimento
+ Seleção:Bélgica
+ Idade:33
+ Valor de Mercado:79953360
+ Força:50
+ Velocidade:94
+ Resistência:63
+ Força de vontade:75
+ Posição: Def
+ Machucado:Nao
+
+947/Nome:Lucas Nascimento
+ Seleção:Alemanha
+ Idade:31
+ Valor de Mercado:176454427
+ Força:63
+ Velocidade:68
+ Resistência:27
+ Força de vontade:64
+ Posição: Ata
+ Machucado:Sim
+
+948/Nome:Lucas Souza
+ Seleção:Alemanha
+ Idade:24
+ Valor de Mercado:14611264
+ Força:91
+ Velocidade:31
+ Resistência:64
+ Força de vontade:61
+ Posição: Ata
+ Machucado:Nao
+
+949/Nome:Marcos Santos
+ Seleção:Inglaterra
+ Idade:18
+ Valor de Mercado:52159477
+ Força:92
+ Velocidade:15
+ Resistência:45
+ Força de vontade:16
+ Posição: Gol
+ Machucado:Nao
+
+950/Nome:Gustavo Costa
+ Seleção:Bélgica
+ Idade:21
+ Valor de Mercado:124746187
+ Força:6
+ Velocidade:27
+ Resistência:7
+ Força de vontade:49
+ Posição: Ata
+ Machucado:Sim
+
+951/Nome:Lucas Oliveira
+ Seleção:Inglaterra
+ Idade:32
+ Valor de Mercado:68635643
+ Força:2
+ Velocidade:47
+ Resistência:74
+ Força de vontade:70
+ Posição: Def
+ Machucado:Sim
+
+952/Nome:Rafael Nascimento
+ Seleção:Espanha
+ Idade:18
+ Valor de Mercado:106515644
+ Força:32
+ Velocidade:57
+ Resistência:19
+ Força de vontade:83
+ Posição: Mei
+ Machucado:Nao
+
+953/Nome:Leonardo Santos
+ Seleção:Portugal
+ Idade:37
+ Valor de Mercado:191887399
+ Força:32
+ Velocidade:20
+ Resistência:74
+ Força de vontade:6
+ Posição: Gol
+ Machucado:Nao
+
+954/Nome:Marcos Oliveira
+ Seleção:Argentina
+ Idade:22
+ Valor de Mercado:94357146
+ Força:56
+ Velocidade:14
+ Resistência:37
+ Força de vontade:65
+ Posição: Gol
+ Machucado:Sim
+
+955/Nome:Marcos Santos
+ Seleção:Argentina
+ Idade:32
+ Valor de Mercado:187871959
+ Força:34
+ Velocidade:18
+ Resistência:17
+ Força de vontade:24
+ Posição: Ata
+ Machucado:Nao
+
+956/Nome:Gustavo Gomes
+ Seleção:Chile
+ Idade:29
+ Valor de Mercado:108644268
+ Força:62
+ Velocidade:90
+ Resistência:84
+ Força de vontade:1
+ Posição: Def
+ Machucado:Sim
+
+957/Nome:Felipe Ferreira
+ Seleção:Argentina
+ Idade:35
+ Valor de Mercado:47740442
+ Força:71
+ Velocidade:54
+ Resistência:58
+ Força de vontade:89
+ Posição: Def
+ Machucado:Sim
+
+958/Nome:Pedro Silva
+ Seleção:Argentina
+ Idade:33
+ Valor de Mercado:42500808
+ Força:42
+ Velocidade:59
+ Resistência:40
+ Força de vontade:31
+ Posição: Ata
+ Machucado:Nao
+
+959/Nome:João Gomes
+ Seleção:França
+ Idade:29
+ Valor de Mercado:183639931
+ Força:45
+ Velocidade:32
+ Resistência:64
+ Força de vontade:80
+ Posição: Mei
+ Machucado:Sim
+
+960/Nome:Lucas Santos
+ Seleção:Espanha
+ Idade:29
+ Valor de Mercado:18922308
+ Força:97
+ Velocidade:20
+ Resistência:14
+ Força de vontade:58
+ Posição: Mei
+ Machucado:Nao
+
+961/Nome:André Ferreira
+ Seleção:Portugal
+ Idade:21
+ Valor de Mercado:136991720
+ Força:57
+ Velocidade:54
+ Resistência:31
+ Força de vontade:97
+ Posição: Def
+ Machucado:Sim
+
+962/Nome:Lucas Nascimento
+ Seleção:Portugal
+ Idade:31
+ Valor de Mercado:168618238
+ Força:20
+ Velocidade:86
+ Resistência:4
+ Força de vontade:64
+ Posição: Mei
+ Machucado:Nao
+
+963/Nome:Leonardo Ferreira
+ Seleção:Inglaterra
+ Idade:37
+ Valor de Mercado:142477701
+ Força:32
+ Velocidade:9
+ Resistência:76
+ Força de vontade:88
+ Posição: Mei
+ Machucado:Sim
+
+964/Nome:Luiz Ferreira
+ Seleção:Espanha
+ Idade:18
+ Valor de Mercado:105228218
+ Força:88
+ Velocidade:58
+ Resistência:42
+ Força de vontade:13
+ Posição: Def
+ Machucado:Sim
+
+965/Nome:Leonardo Nascimento
+ Seleção:Inglaterra
+ Idade:36
+ Valor de Mercado:21624309
+ Força:42
+ Velocidade:55
+ Resistência:8
+ Força de vontade:100
+ Posição: Gol
+ Machucado:Sim
+
+966/Nome:Rafael Nascimento
+ Seleção:França
+ Idade:26
+ Valor de Mercado:39494916
+ Força:67
+ Velocidade:89
+ Resistência:59
+ Força de vontade:4
+ Posição: Ata
+ Machucado:Sim
+
+967/Nome:Lucas Ferreira
+ Seleção:Brasil
+ Idade:30
+ Valor de Mercado:178711410
+ Força:85
+ Velocidade:65
+ Resistência:29
+ Força de vontade:33
+ Posição: Def
+ Machucado:Sim
+
+968/Nome:Lucas Silva
+ Seleção:França
+ Idade:29
+ Valor de Mercado:8139176
+ Força:70
+ Velocidade:12
+ Resistência:33
+ Força de vontade:59
+ Posição: Mei
+ Machucado:Nao
+
+969/Nome:Lucas Santos
+ Seleção:Brasil
+ Idade:18
+ Valor de Mercado:64287417
+ Força:19
+ Velocidade:76
+ Resistência:10
+ Força de vontade:91
+ Posição: Def
+ Machucado:Sim
+
+970/Nome:Lucas Oliveira
+ Seleção:Itália
+ Idade:27
+ Valor de Mercado:146354604
+ Força:6
+ Velocidade:54
+ Resistência:88
+ Força de vontade:10
+ Posição: Gol
+ Machucado:Sim
+
+971/Nome:Gustavo Santos
+ Seleção:Portugal
+ Idade:30
+ Valor de Mercado:26324697
+ Força:71
+ Velocidade:3
+ Resistência:79
+ Força de vontade:63
+ Posição: Mei
+ Machucado:Nao
+
+972/Nome:Gustavo Pereira
+ Seleção:Chile
+ Idade:30
+ Valor de Mercado:75346151
+ Força:90
+ Velocidade:36
+ Resistência:92
+ Força de vontade:53
+ Posição: Gol
+ Machucado:Sim
+
+973/Nome:Pedro Gomes
+ Seleção:Espanha
+ Idade:31
+ Valor de Mercado:147661042
+ Força:28
+ Velocidade:44
+ Resistência:18
+ Força de vontade:37
+ Posição: Def
+ Machucado:Sim
+
+974/Nome:Felipe Pereira
+ Seleção:França
+ Idade:34
+ Valor de Mercado:165550864
+ Força:32
+ Velocidade:11
+ Resistência:21
+ Força de vontade:43
+ Posição: Mei
+ Machucado:Sim
+
+975/Nome:Marcos Silva
+ Seleção:Brasil
+ Idade:37
+ Valor de Mercado:77622911
+ Força:92
+ Velocidade:64
+ Resistência:32
+ Força de vontade:76
+ Posição: Gol
+ Machucado:Sim
+
+976/Nome:Lucas Pereira
+ Seleção:Inglaterra
+ Idade:19
+ Valor de Mercado:121687724
+ Força:84
+ Velocidade:31
+ Resistência:43
+ Força de vontade:88
+ Posição: Def
+ Machucado:Sim
+
+977/Nome:Lucas Silva
+ Seleção:Bélgica
+ Idade:21
+ Valor de Mercado:151417162
+ Força:90
+ Velocidade:66
+ Resistência:47
+ Força de vontade:39
+ Posição: Gol
+ Machucado:Sim
+
+978/Nome:Lucas Gomes
+ Seleção:Inglaterra
+ Idade:19
+ Valor de Mercado:66698914
+ Força:70
+ Velocidade:9
+ Resistência:59
+ Força de vontade:43
+ Posição: Mei
+ Machucado:Nao
+
+979/Nome:Rafael Silva
+ Seleção:Argentina
+ Idade:34
+ Valor de Mercado:139948946
+ Força:55
+ Velocidade:84
+ Resistência:55
+ Força de vontade:60
+ Posição: Gol
+ Machucado:Nao
+
+980/Nome:Marcos Gomes
+ Seleção:Chile
+ Idade:27
+ Valor de Mercado:36032415
+ Força:67
+ Velocidade:8
+ Resistência:3
+ Força de vontade:42
+ Posição: Mei
+ Machucado:Nao
+
+981/Nome:Lucas Nascimento
+ Seleção:Inglaterra
+ Idade:26
+ Valor de Mercado:8399639
+ Força:25
+ Velocidade:43
+ Resistência:15
+ Força de vontade:65
+ Posição: Ata
+ Machucado:Nao
+
+982/Nome:Pedro Souza
+ Seleção:Bélgica
+ Idade:20
+ Valor de Mercado:49831134
+ Força:37
+ Velocidade:94
+ Resistência:62
+ Força de vontade:43
+ Posição: Ata
+ Machucado:Nao
+
+983/Nome:Pedro Oliveira
+ Seleção:Inglaterra
+ Idade:19
+ Valor de Mercado:166280750
+ Força:81
+ Velocidade:23
+ Resistência:49
+ Força de vontade:33
+ Posição: Ata
+ Machucado:Nao
+
+984/Nome:Pedro Santos
+ Seleção:Argentina
+ Idade:33
+ Valor de Mercado:100301792
+ Força:38
+ Velocidade:92
+ Resistência:48
+ Força de vontade:21
+ Posição: Mei
+ Machucado:Nao
+
+985/Nome:Marcos Santos
+ Seleção:Brasil
+ Idade:35
+ Valor de Mercado:153362595
+ Força:94
+ Velocidade:33
+ Resistência:70
+ Força de vontade:5
+ Posição: Mei
+ Machucado:Nao
+
+986/Nome:Lucas Silva
+ Seleção:Itália
+ Idade:20
+ Valor de Mercado:39419451
+ Força:15
+ Velocidade:48
+ Resistência:53
+ Força de vontade:46
+ Posição: Gol
+ Machucado:Nao
+
+987/Nome:André Gomes
+ Seleção:Bélgica
+ Idade:23
+ Valor de Mercado:142656117
+ Força:47
+ Velocidade:78
+ Resistência:37
+ Força de vontade:46
+ Posição: Def
+ Machucado:Sim
+
+988/Nome:João Nascimento
+ Seleção:Inglaterra
+ Idade:29
+ Valor de Mercado:176606000
+ Força:8
+ Velocidade:76
+ Resistência:48
+ Força de vontade:72
+ Posição: Gol
+ Machucado:Sim
+
+989/Nome:Luiz Almeida
+ Seleção:Inglaterra
+ Idade:18
+ Valor de Mercado:183075467
+ Força:32
+ Velocidade:46
+ Resistência:18
+ Força de vontade:38
+ Posição: Gol
+ Machucado:Sim
+
+990/Nome:Felipe Souza
+ Seleção:Brasil
+ Idade:33
+ Valor de Mercado:177153899
+ Força:97
+ Velocidade:81
+ Resistência:31
+ Força de vontade:88
+ Posição: Mei
+ Machucado:Nao
+
+991/Nome:Leonardo Almeida
+ Seleção:Brasil
+ Idade:22
+ Valor de Mercado:96307956
+ Força:98
+ Velocidade:56
+ Resistência:15
+ Força de vontade:73
+ Posição: Gol
+ Machucado:Nao
+
+992/Nome:André Santos
+ Seleção:Itália
+ Idade:32
+ Valor de Mercado:84443338
+ Força:72
+ Velocidade:72
+ Resistência:4
+ Força de vontade:67
+ Posição: Gol
+ Machucado:Sim
+
+993/Nome:Marcos Souza
+ Seleção:Espanha
+ Idade:33
+ Valor de Mercado:24542027
+ Força:8
+ Velocidade:15
+ Resistência:37
+ Força de vontade:58
+ Posição: Ata
+ Machucado:Sim
+
+994/Nome:Rafael Nascimento
+ Seleção:Alemanha
+ Idade:34
+ Valor de Mercado:117393382
+ Força:88
+ Velocidade:30
+ Resistência:75
+ Força de vontade:74
+ Posição: Ata
+ Machucado:Nao
+
+995/Nome:Rafael Costa
+ Seleção:Espanha
+ Idade:21
+ Valor de Mercado:112442289
+ Força:61
+ Velocidade:70
+ Resistência:50
+ Força de vontade:39
+ Posição: Mei
+ Machucado:Sim
+
+996/Nome:Marcos Souza
+ Seleção:Portugal
+ Idade:33
+ Valor de Mercado:128428089
+ Força:13
+ Velocidade:34
+ Resistência:81
+ Força de vontade:82
+ Posição: Ata
+ Machucado:Sim
+
+997/Nome:Rafael Pereira
+ Seleção:França
+ Idade:31
+ Valor de Mercado:66300278
+ Força:16
+ Velocidade:67
+ Resistência:63
+ Força de vontade:35
+ Posição: Def
+ Machucado:Sim
+
+998/Nome:João Santos
+ Seleção:Bélgica
+ Idade:22
+ Valor de Mercado:69695470
+ Força:72
+ Velocidade:43
+ Resistência:19
+ Força de vontade:20
+ Posição: Def
+ Machucado:Sim
+
+999/Nome:Felipe Almeida
+ Seleção:Argentina
+ Idade:37
+ Valor de Mercado:112123219
+ Força:15
+ Velocidade:41
+ Resistência:12
+ Força de vontade:74
+ Posição: Mei
+ Machucado:Sim
+
+1000/Nome:João Souza
+ Seleção:Brasil
+ Idade:32
+ Valor de Mercado:24852157
+ Força:53
+ Velocidade:69
+ Resistência:56
+ Força de vontade:33
+ Posição: Ata
+ Machucado:Sim
+
